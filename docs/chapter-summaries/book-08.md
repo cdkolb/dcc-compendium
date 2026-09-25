@@ -755,7 +755,9 @@ gate. Jurgen radios that **Prepotente** has gone immobile and near-suicidal insi
 apartment of his own and someone has to physically fetch him. With no way to know his team's
 placement and coming in last fatal, Carl detonates the hidden bomb he planted inside Jasha and
 Radoslav's beer cooler before the heat began, killing both bugbears deliberately to guarantee he can
-afford the detour — whispering "forgive me, friends" before he does it.
+afford the detour — whispering "forgive me, friends" before he does it. **Team eliminated:** Team Free
+Love — Jasha and Radoslav, its last two members since Alevtina's death back in Chapter 4 — is
+eliminated by Carl's own hand.
 
 **Chapter 77 — Pony**{: #chapter-77 .chapter-title }
 
@@ -813,8 +815,9 @@ result Rosetta predicted if the casino portal really does lead off the board.
 Heat 7 begins. Team Sparkles is annihilated the instant the light turns green by a coordinated
 hole-punch-and-potion strike; Donut beheads Dwight and loots his horn. Osvaldo attempts a solo speed
 run to the exit portal, letting Bruna die first — but Britney intercepts and kills him at the gate,
-claiming his memorial crystal. Elsewhere, Imani, Elle, and Chris crush the fleeing "Tracksuit Troika"
-Russians with Donut's *Astral Paw* the moment their shield drops.
+claiming his memorial crystal. **Team eliminated:** Team Flamengo — down to Osvaldo alone after Filipe
+took a deal in Chapter 79 — is eliminated with his death. Elsewhere, Imani, Elle, and Chris crush the
+fleeing "Tracksuit Troika" Russians with Donut's *Astral Paw* the moment their shield drops.
 
 **Chapter 84 — Lil' Mello Haze**{: #chapter-84 .chapter-title }
 

@@ -139,18 +139,18 @@ hands.
 
 ## The ten teams
 
-| Spot | Team | Warlord(s) | Fate |
-|---|---|---|---|
-| 1 | The Bone Clan / Skull Empire | Crown Prince, later **King Stalwart**; **King Rust** joins as war chief | 5th eliminated |
-| 2 | The Operatic Collective | **Hortense Leadership Unit** | 3rd eliminated |
-| 3 | The Princess Posse | [Carl](../characters/carl.md) and [Princess Donut](../characters/princess-donut.md) | **Winner** |
-| 4 | The Blood Sultanate | [Princess Vinata](../characters/princess-vinata.md), "the Sepsis Whore" | 4th eliminated |
-| 5 | The [Prism Kingdom](../factions/prism-kingdom.md) | [Empress D'Nadia](../characters/princess-dnadia.md) | 2nd eliminated |
-| 6 | The Dream | [Epitome Tagg](../characters/epitome-tagg.md) | 9th eliminated |
-| 7 | The Lemig / "Democratic" Sortion | **Commander Stockade** | 1st eliminated |
-| 8 | The Madness | [Architect Houston](../characters/architect-houston.md) | 6th eliminated |
-| 9 | The Reavers | **Warlord Fang** | 8th eliminated |
-| — | Team Retribution (NPCs, defending Larracos) | [Juice Box](../characters/juice-box.md) and [Sir Ferdinand](../characters/ferdinand.md) | Voluntary forfeit (10th) |
+| Spot | Team | Warlord(s) | Fate | How eliminated |
+|---|---|---|---|---|
+| 1 | The Bone Clan / Skull Empire | Crown Prince, later **King Stalwart**; **King Rust** joins as war chief | 5th eliminated | King Stalwart is torn apart by his own war mages after ejecting them from his army; with no eligible claimant on the kill, the system awards the Bone Clan's remaining assets to Team Retribution instead |
+| 2 | The Operatic Collective | **Hortense Leadership Unit** | 3rd eliminated | Volteeg detonates a suicide tank, killing the Hortense Leadership Unit along with roughly 10,000 Bloc soldiers |
+| 3 | The Princess Posse | [Carl](../characters/carl.md) and [Princess Donut](../characters/princess-donut.md) | **Winner** | — |
+| 4 | The Blood Sultanate | [Princess Vinata](../characters/princess-vinata.md), "the Sepsis Whore" | 4th eliminated | Princess Vinata is killed at the Temple of Khepri by [Kandy "Bigs" Newton](../characters/kandy-bigs-newton.md), a level-29 sluggalo, with a head-mounted hatchet |
+| 5 | The [Prism Kingdom](../factions/prism-kingdom.md) | [Empress D'Nadia](../characters/princess-dnadia.md) | 2nd eliminated | Empress D'Nadia is killed by Mongo on Donut's order, ending her dynasty's line |
+| 6 | The Dream | [Epitome Tagg](../characters/epitome-tagg.md) | 9th eliminated | Warlord Epitome Tagg, secretly grafted into Louis Santiago's replacement heart and lungs, is killed when Mongo eats them |
+| 7 | The Lemig / "Democratic" Sortion | **Commander Stockade** | 1st eliminated | Commander Stockade, driven mad by Shi Maria's insanity effect, kills himself |
+| 8 | The Madness | [Architect Houston](../characters/architect-houston.md) | 6th eliminated | Architect Houston is killed by Carl's *Gloom Wraith Phase* mid-experiment |
+| 9 | The Reavers | **Warlord Fang** | 8th eliminated | Warlord Fang dies hiding inside his pet dragon Calliope when the Reaver castle chain-detonates |
+| — | Team Retribution (NPCs, defending Larracos) | [Juice Box](../characters/juice-box.md) and [Sir Ferdinand](../characters/ferdinand.md) | Voluntary forfeit (10th) | Warlords Ferdinand and Juice Box voluntarily abandon Larracos rather than keep fighting, forfeiting to the Princess Posse |
 
 An eleventh entity nobody planned for, the [**War Mage
 Rebellion**](../factions/war-mage-rebellion.md), emerges mid-floor when a procedural quorum ruling

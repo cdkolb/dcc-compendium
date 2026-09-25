@@ -1172,7 +1172,9 @@ took off Elle. "Nice shoes, asshole."
 
 **Chapter 62 — The War Mage Rebellion**{: #chapter-62 .chapter-title }
 
-War mages, it turns out, are the only truly dungeon-born entities: a skin ripped from a corpse
+**Team eliminated:** With War Chief Stalwart dead and the War Mage Rebellion ruled ineligible to
+collect on the kill, the system awards all of the Bone Clan's assets to Team Retribution, who were
+already occupying its throne room — the Bone Clan is eliminated. War mages, it turns out, are the only truly dungeon-born entities: a skin ripped from a corpse
 becomes a flesher, the flesher consumes and re-sleeves a living being, and after a dozen or more
 iterations the magic itself becomes sapient and fuses skeleton, flesher, and magic into one
 creature that knows hundreds of spells and is, universally, a complete prick. The AI's description
