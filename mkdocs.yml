@@ -1,0 +1,473 @@
+site_name: Dungeon Crawler Carl Compendium
+site_description: A personal, ad-free, deep-detail reference for the Dungeon Crawler Carl series
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: yellow
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: yellow
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.instant
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Books:
+      - Overview: chapter-summaries/index.md
+      - Book 1: chapter-summaries/book-01.md
+      - Book 2: chapter-summaries/book-02.md
+      - Book 3: chapter-summaries/book-03.md
+      - Book 4: chapter-summaries/book-04.md
+      - Book 5: chapter-summaries/book-05.md
+      - Book 6: chapter-summaries/book-06.md
+      - Book 7: chapter-summaries/book-07.md
+      - Book 8: chapter-summaries/book-08.md
+  - Cast:
+      - Characters:
+          - Overview: characters/index.md
+          - Carl: characters/carl.md
+          - Princess Donut: characters/princess-donut.md
+          - Mordecai: characters/mordecai.md
+          - Mongo: characters/mongo.md
+          - Katia: characters/katia.md
+          - Imani C: characters/imani-c.md
+          - Elle McGibbons: characters/elle-mcgibbons.md
+          - Li Jun: characters/li-jun.md
+          - Li Na: characters/li-na.md
+          - Akuma: characters/akuma.md
+          - Architect Houston: characters/architect-houston.md
+          - Asher: characters/asher.md
+          - Astrid: characters/astrid.md
+          - Baroness Victory: characters/baroness-victory.md
+          - Bautista: characters/bautista.md
+          - Beatrice: characters/beatrice.md
+          - Brandon An: characters/brandon-an.md
+          - Britney Proskurina: characters/britney.md
+          - Chris Andrews: characters/chris-andrews.md
+          - Circe Took: characters/circe-took.md
+          - Colonel Boomer: characters/colonel-boomer.md
+          - Corcunda: characters/corcunda.md
+          - Damascus Steel: characters/damascus-steel.md
+          - Dmitri and Maxim Popov: characters/popov-brothers.md
+          - Epitome Tagg: characters/epitome-tagg.md
+          - Eva Sigrid: characters/eva-sigrid.md
+          - Ferdinand: characters/ferdinand.md
+          - Florin: characters/florin.md
+          - Frank Q: characters/frank-q.md
+          - Grigori the Placid: characters/grigori.md
+          - Gwendolyn Duet: characters/gwendolyn-duet.md
+          - Hekla: characters/hekla.md
+          - Jasha and Radoslav: characters/jasha-and-radoslav.md
+          - Juice Box: characters/juice-box.md
+          - Justice Light: characters/justice-light.md
+          - Kandy "Bigs" Newton: characters/kandy-bigs-newton.md
+          - Louis Santiago: characters/louis-santiago.md
+          - Lucia Mar: characters/lucia-mar.md
+          - Milk: characters/milk.md
+          - Miriam Dom: characters/miriam-dom.md
+          - Odette: characters/odette.md
+          - Osvaldo: characters/osvaldo.md
+          - Paz Lo: characters/paz-lo.md
+          - Penelope: characters/penelope.md
+          - Prepotente: characters/prepotente.md
+          - Princess Chandra, Esq.: characters/chandra.md
+          - Princess D'Nadia: characters/princess-dnadia.md
+          - Princess Vinata: characters/princess-vinata.md
+          - Quasar: characters/quasar.md
+          - Queen Imogen: characters/queen-imogen.md
+          - Rosetta Thagra: characters/rosetta-thagra.md
+          - Samantha: characters/samantha.md
+          - Sir Rendlegore: characters/sir-rendlegore.md
+          - Sister Ines Quiteria: characters/sister-ines-quiteria.md
+          - The System AI: characters/the-system-ai.md
+          - Toyotomi: characters/toyotomi.md
+          - Tsarina Signet: characters/tsarina-signet.md
+          - Tserendolgor: characters/tserendolgor.md
+          - Volteeg: characters/volteeg.md
+          - Vrah: characters/vrah.md
+          - Zev: characters/zev.md
+      - Supporting Cast: characters/supporting-cast.md
+      - Species:
+          - Overview: species/index.md
+          - The Kua-Tin & The Bloom: species/kua-tin-and-the-bloom.md
+          - Primal: species/primal.md
+          - City Elves: species/city-elves.md
+          - Changeling: species/changeling.md
+          - High Elves: species/high-elves.md
+          - Naiad: species/naiad.md
+          - Were-castor: species/were-castor.md
+          - Gondii / Residuals: species/gondii-residuals.md
+          - Hobbledehoy: species/hobbledehoy.md
+          - Ifrit: species/ifrit.md
+          - Zebani: species/zebani.md
+          - Porsuk: species/porsuk.md
+          - Grixist: species/grixist.md
+          - Sai: species/sai.md
+          - Ghommid: species/ghommid.md
+          - Semeru Dwarves: species/semeru-dwarves.md
+          - Nullian: species/nullian.md
+          - Bune: species/bune.md
+          - Tenodera: species/tenodera.md
+          - Xenopus: species/xenopus.md
+          - Vesper: species/vesper.md
+          - Sturnus: species/sturnus.md
+          - Gargoyle: species/gargoyle.md
+          - Tripod: species/tripod.md
+          - Shadow Mimics: species/shadow-mimics.md
+      - Bosses:
+          - Overview: bosses/index.md
+          - Floor 1 (Book 1):
+              - The Hoarder: bosses/the-hoarder.md
+              - Goblin War Chieftain: bosses/goblin-war-chieftain.md
+              - The Juicer: bosses/the-juicer.md
+              - Ball of Swine: bosses/ball-of-swine.md
+          - Floor 2 (Book 1):
+              - Krakaren Clone: bosses/krakaren-clone.md
+              - Ralph: bosses/ralph.md
+          - Floor 3 (Book 2):
+              - Heather the Bear: bosses/heather-the-bear.md
+              - Miss Quill: bosses/miss-quill.md
+              - Ringmaster Grimaldi: bosses/ringmaster-grimaldi.md
+          - Floor 4 (Book 3):
+              - Gore-Gore the Mantaur: bosses/gore-gore-the-mantaur.md
+              - Mimic Rex: bosses/mimic-rex.md
+          - Floor 5 (Book 4):
+              - Ruckus: bosses/ruckus.md
+              - Denise the Feral Goose Mother: bosses/denise-the-feral-goose-mother.md
+              - Mrs. Ghazi: bosses/mrs-ghazi.md
+              - Lusca: bosses/lusca.md
+              - Quetzalcoatlus: bosses/quetzalcoatlus.md
+          - Floor 6 (Book 5):
+              - Claude Sludgington the Fourth: bosses/claude-sludgington.md
+              - Sierra: bosses/sierra.md
+              - Big Tina: bosses/big-tina.md
+          - Floor 8 (Book 6):
+              - Asojano, Lord of Smallpox: bosses/asojano.md
+              - Ogun: bosses/ogun.md
+              - Yemaya: bosses/yemaya.md
+              - Eileithyia: bosses/eileithyia.md
+              - Shi Maria, the Bedlam Bride: bosses/shi-maria.md
+              - Rude-Dolph the Blood-Nosed Slay-Deer: bosses/rude-dolph.md
+              - Der Schachmeister: bosses/der-schachmeister.md
+              - Minge: bosses/minge.md
+              - Robert the Human: bosses/robert-the-human.md
+              - The Visitor: bosses/the-visitor.md
+              - Tom: bosses/tom.md
+              - Sharp-Elbows: bosses/sharp-elbows.md
+              - The Reminiscence Hydra: bosses/reminiscence-hydra.md
+              - Madre de Aguas: bosses/madre-de-aguas.md
+              - Ysalte, the Vinegar Bitch: bosses/ysalte.md
+              - Amayon: bosses/amayon.md
+          - Floor 9 (Book 7):
+              - Khepri: bosses/khepri.md
+              - Hellik: bosses/hellik.md
+              - Meatus: bosses/meatus.md
+              - Harpocrates: bosses/harpocrates.md
+              - Yarilo: bosses/yarilo.md
+              - Eris: bosses/eris.md
+              - Emberus: bosses/emberus.md
+          - Floor 10-11 (Book 8):
+              - Scolopendra: bosses/scolopendra.md
+              - Krakaren Prime: bosses/krakaren-prime.md
+              - Taranis: bosses/taranis.md
+              - Mitch: bosses/mitch.md
+      - Mobs:
+          - Overview: mobs/index.md
+          - Brindle Grub: mobs/brindle-grub.md
+          - Tuskling: mobs/tuskling.md
+          - Rage Elemental: mobs/rage-elemental.md
+          - Street Urchin: mobs/street-urchin.md
+          - Krasue: mobs/krasue.md
+          - Shambling Berserker: mobs/shambling-berserker.md
+          - Remex: mobs/remex.md
+          - Drek: mobs/drek.md
+          - Jikininki: mobs/jikininki.md
+          - Frenzied Gerbil: mobs/frenzied-gerbil.md
+          - Funeral Bell: mobs/funeral-bell.md
+          - Night Weasel: mobs/night-weasel.md
+          - Flesher: mobs/flesher.md
+          - War Mage: mobs/war-mage.md
+          - Zarogoth: mobs/zarogoth.md
+          - Hunter Wraith: mobs/hunter-wraith.md
+          - Bijou: mobs/bijou.md
+          - The Horribles: mobs/the-horribles.md
+      - Factions:
+          - Overview: factions/index.md
+          - Borant Corporation: factions/borant-corporation.md
+          - The Dark Hive: factions/dark-hive.md
+          - Nebular Sin Patrol: factions/nebular-sin-patrol.md
+          - The Nebulars / Nebular Balance: factions/nebulars.md
+          - The Open Intellect Pacifist Network: factions/open-intellect-pacifist-network.md
+          - Long Haul Biological Waste Management Solutions: factions/long-haul-biological-waste-management.md
+          - The Prism Kingdom: factions/prism-kingdom.md
+          - The Valtay Corporation: factions/valtay-corporation.md
+          - The Syndicate Council: factions/syndicate-council.md
+          - The Faction Wars Teams: factions/faction-wars-teams.md
+          - The Faction Wars Campaign: factions/faction-wars-campaign.md
+          - The War Mage Rebellion: factions/war-mage-rebellion.md
+          - The Crawler Project: factions/crawler-project.md
+          - The Great Consensus: factions/the-great-consensus.md
+  - The Dungeon:
+      - Dungeon Floors:
+          - Overview: floors/index.md
+          - Level 1: floors/level-01.md
+          - Level 2: floors/level-02.md
+          - Level 3: floors/level-03.md
+          - Level 4: floors/level-04.md
+          - Level 5: floors/level-05.md
+          - Level 6: floors/level-06.md
+          - Level 7: floors/level-07.md
+          - Level 8: floors/level-08.md
+          - Level 9: floors/level-09.md
+          - Level 10: floors/level-10.md
+          - Level 11: floors/level-11.md
+      - Game Mechanics:
+          - Overview: mechanics/index.md
+          - Loot Box Tier System: mechanics/box-tier-system.md
+          - Boss Tier Ladder: mechanics/boss-tier-ladder.md
+          - Ratings & Viewership: mechanics/ratings-and-viewership.md
+          - Race & Class Selection: mechanics/race-and-class-selection.md
+          - Managers: mechanics/managers.md
+          - Over City Floors: mechanics/over-city-floors.md
+          - Quests: mechanics/quests.md
+          - The Iron Tangle Railway System: mechanics/the-iron-tangle-railway.md
+          - The T'Ghee Card System: mechanics/tghee-cards.md
+          - Character Stats & Progression: mechanics/character-stats-and-progression.md
+          - Locations & Places to Go:
+              - Overview: mechanics/locations.md
+              - Clubs:
+                  - Desperado Club: locations/desperado-club.md
+                  - Club Vanquisher: locations/club-vanquisher.md
+              - Hump Town: locations/hump-town.md
+              - Necropolis of Anser: locations/necropolis-of-anser.md
+              - Point Mongo: locations/point-mongo.md
+              - Fort Freedom: locations/fort-freedom.md
+              - High Elf Castle: locations/high-elf-castle.md
+              - El Capitolio Nacional de Cuba: locations/el-capitolio.md
+              - Colón Cemetery / Temple of Yemaya: locations/colon-cemetery.md
+              - The FOCSA Building: locations/focsa-building.md
+              - Dallas County, Iowa: locations/dallas-county-iowa.md
+              - Floor 9 — Larracos (Book 7):
+                  - Larracos, the City of Dreams: locations/larracos.md
+                  - Shanty Town: locations/shanty-town.md
+                  - The Plains of Larracos: locations/plains-of-larracos.md
+                  - The Nest: locations/the-nest.md
+                  - Area 52: locations/area-52.md
+              - Floor 10/11 — Don't Come in Last (Book 8):
+                  - Hungry Eyes Village: locations/hungry-eyes-village.md
+                  - Upano: locations/upano.md
+                  - The L'Engle Building: locations/lengle-building.md
+                  - Satan's Water Park: locations/satans-water-park.md
+                  - Gasworks Screw Factory, Steel Mill, and Doll Workshop: locations/gasworks-screw-factory.md
+                  - Chicken and Waffles and Upgrades: locations/chicken-and-waffles-and-upgrades.md
+                  - Club Scolopendra: locations/club-scolopendra.md
+      - Dungeon Factions:
+          - Overview: dungeon-factions/index.md
+          - Rev-Up Moonshine Company: dungeon-factions/rev-up-moonshine.md
+          - Iron Tangle Management: dungeon-factions/iron-tangle-management.md
+          - The Changeling Principals: dungeon-factions/the-changeling-principals.md
+          - The Wasteland: dungeon-factions/the-wasteland.md
+          - Guild of Suffering: dungeon-factions/guild-of-suffering.md
+          - Meat Shields: dungeon-factions/meat-shields.md
+          - The Penis Parade Crew: dungeon-factions/penis-parade-crew.md
+          - The Mercenary Arcade: dungeon-factions/mercenary-arcade.md
+          - The Demon Tamer's Guild: dungeon-factions/demon-tamers-guild.md
+          - The Princess Posse Army: dungeon-factions/princess-posse-army.md
+          - Team Retribution: dungeon-factions/team-retribution.md
+          - The Pineapple Cabaret: dungeon-factions/pineapple-cabaret.md
+          - The Stage Performance Guild: dungeon-factions/stage-performance-guild.md
+  - Reference:
+      - Abilities & Skills:
+          - Overview: abilities/index.md
+          - Pugilism: abilities/pugilism.md
+          - Unarmed Combat: abilities/unarmed-combat.md
+          - Foot Soldier: abilities/foot-soldier.md
+          - Iron Punch: abilities/iron-punch.md
+          - Powerful Strike: abilities/powerful-strike.md
+          - Smush: abilities/smush.md
+          - Bomb Surgeon: abilities/bomb-surgeon.md
+          - Trap Engineer: abilities/trap-engineer.md
+          - Hide in Shadows: abilities/hide-in-shadows.md
+          - Backfire: abilities/backfire.md
+          - Escape Plan: abilities/escape-plan.md
+          - Rush (and Crowd Blast): abilities/rush.md
+          - Love Vampire: abilities/love-vampire.md
+          - Talon Strike: abilities/talon-strike.md
+          - Deflection: abilities/deflection.md
+          - Soul Reaper (The Daughter's Kiss): abilities/daughters-kiss.md
+          - The Martyr's Path: abilities/the-martyrs-path.md
+          - Book Burner: abilities/book-burner.md
+          - Hover: abilities/hover.md
+          - Mind Balance: abilities/mind-balance.md
+          - Heathen Scald: abilities/heathen-scald.md
+          - Targeting: abilities/targeting.md
+          - Blend into the Background: abilities/blend-into-the-background.md
+          - Monologue: abilities/monologue.md
+          - Muscle Mommy: abilities/muscle-mommy.md
+          - Brain Trust: abilities/brain-trust.md
+          - Wholesale Discount: abilities/wholesale-discount.md
+          - Claw: abilities/claw.md
+          - Speedster: abilities/speedster.md
+          - Pied Piper: abilities/pied-piper.md
+          - Wrecking Ball: abilities/wrecking-ball.md
+          - Find Weakened: abilities/find-weakened.md
+          - Walk on Air: abilities/walk-on-air.md
+          - Fursona ("Fursuiter"): abilities/fursona.md
+      - Spells:
+          - Overview: spells/index.md
+          - All Eyes on Me: spells/all-eyes-on-me.md
+          - Astral Paw: spells/astral-paw.md
+          - Bad Attitude: spells/bad-attitude.md
+          - Bang Bro: spells/bang-bro.md
+          - Bear Witness: spells/bear-witness.md
+          - Bijanbi: spells/bijanbi.md
+          - Bitch, What? (Fire Berserker): spells/bitch-what.md
+          - Black Nimbus: spells/black-nimbus.md
+          - Book of Rhymes: spells/book-of-rhymes.md
+          - Brain Freeze: spells/brain-freeze.md
+          - Clockwork Triplicate: spells/clockwork-triplicate.md
+          - Conscript: spells/conscript.md
+          - Entourage: spells/entourage.md
+          - Fear: spells/fear.md
+          - Fireball: spells/fireball.md
+          - Gloom Wraith Phase: spells/gloom-wraith-phase.md
+          - Graupel: spells/graupel.md
+          - Heal Critter: spells/heal-critter.md
+          - Hole: spells/hole.md
+          - I Need My Personal Space: spells/i-need-my-personal-space.md
+          - Laundry Day: spells/laundry-day.md
+          - Legionnaires of the Damned: spells/legionnaires-of-the-damned.md
+          - Li Na's Dreads: spells/li-nas-dreads.md
+          - Magic Missile: spells/magic-missile.md
+          - Minion Army: spells/minion-army.md
+          - Mute: spells/mute.md
+          - Oozy Form: spells/oozy-form.md
+          - Ping: spells/ping.md
+          - Profane Iron: spells/profane-iron.md
+          - Protective Shell: spells/protective-shell.md
+          - Puddle Jumper: spells/puddle-jumper.md
+          - Rolling Battle Formation: spells/rolling-battle-formation.md
+          - Run, Little Günter, Run: spells/run-little-gunter-run.md
+          - Second Chance: spells/second-chance.md
+          - Self-Immolation: spells/self-immolation.md
+          - Standing Ovation: spells/standing-ovation.md
+          - Tome of Gatekeeper: spells/tome-of-gatekeeper.md
+          - Torch: spells/torch.md
+          - Travel the Path / Welcome Home: spells/travel-the-path.md
+          - Tripper: spells/tripper.md
+          - Twinkle Toes: spells/twinkle-toes.md
+          - Wall of Fire: spells/wall-of-fire.md
+          - War Crime: spells/war-crime.md
+          - Why Are You Hitting Yourself?: spells/why-are-you-hitting-yourself.md
+          - Wisp Armor: spells/wisp-armor.md
+          - Word Weaver: spells/word-weaver.md
+          - You're Not Done Yet: spells/youre-not-done-yet.md
+          - Zerzura: spells/zerzura.md
+      - Items & Tattoos:
+          - Overview: items/index.md
+          - Trollskin Shirt of Pummeling: items/trollskin-shirt-of-pummeling.md
+          - War Gauntlet of the Exalted Grull: items/war-gauntlet-of-the-exalted-grull.md
+          - Crown of the Sepsis Whore: items/crown-of-the-sepsis-whore.md
+          - Carl's Jug O' Boom: items/carls-jug-o-boom.md
+          - Nightgaunt Cloak of Stoutness: items/nightgaunt-cloak-of-stoutness.md
+          - BigBoi Boxers: items/bigboi-boxers.md
+          - Goblin Pass: items/goblin-pass.md
+          - Desperado Pass: items/desperado-pass.md
+          - Talisman of the Slate Butterfly: items/talisman-of-the-slate-butterfly.md
+          - Fae Scale Crupper of the Fleet: items/fae-scale-crupper-of-the-fleet.md
+          - Fur Brush of the Ecclesiastic: items/fur-brush-of-the-ecclesiastic.md
+          - Anklet of the Fallen Oak: items/anklet-of-the-fallen-oak.md
+          - Xistera: items/xistera.md
+          - Fang Caps of the Expectorating Tizheruk: items/fang-caps-of-the-expectorating-tizheruk.md
+          - Carl's Doomsday Scenario: items/carls-doomsday-scenario.md
+          - The Dungeon Anarchist's Cookbook: items/the-dungeon-anarchists-cookbook.md
+          - Ring of Divine Suffering: items/enchanted-night-wyrms-ring-of-divine-suffering.md
+          - Repeating Crossbow of the Scavenger Mother of Mothers: items/enchanted-repeating-crossbow-of-the-scavenger-mother-of-mothers.md
+          - Wrestling Belt of the Great Gorgo: items/enchanted-wrestling-belt-of-the-great-gorgo.md
+          - Shade Gnoll Riot Crowd Control Shield: items/enchanted-shade-gnoll-riot-forces-crowd-control-shield.md
+          - Shade Gnoll Riot Crowd Control Baton: items/enchanted-shade-gnoll-riot-forces-telescoping-crowd-control-baton.md
+          - Auto Buckler of the Peach Pit: items/enchanted-auto-buckler-of-the-peach-pit.md
+          - Necklace of the Haute Bourgeoisie: items/necklace-of-the-haute-bourgeoisie.md
+          - The Bolt of Ophiotaurus: items/bolt-of-ophiotaurus.md
+          - Prism Industries Goggles: items/prism-industries-capacitating-and-focusing-goggles.md
+          - Tiara of Mana Genita: items/tiara-of-mana-genita.md
+          - Mongoliensis Saddle: items/mongoliensis-saddle.md
+          - Enchanted Anarchist's Battle Rattle: items/enchanted-anarchists-battle-rattle.md
+          - Drakea's Enchanted Kerchief of Disorder: items/drakeas-enchanted-kerchief-of-disorder.md
+          - Rockard's Ring of Sniping: items/rockards-ring-of-sniping.md
+          - The Gate of the Feral Gods: items/gate-of-the-feral-gods.md
+          - Xistera Extension (Head-Tosser): items/xistera-extension-head-tosser.md
+          - Arrow of Enthusiastic Double Gonorrhea: items/arrow-of-enthusiastic-double-gonorrhea.md
+          - Obsidian Bracelet of the Raggle Rouser: items/obsidian-bracelet-of-the-raggle-rouser.md
+          - Silver Bracelet of the Ab-solar: items/silver-bracelet-of-the-ab-solar.md
+          - Collar Charm of the Effete Bourgeoisie: items/enchanted-collar-charm-of-the-effete-bourgeoisie.md
+          - The Scavenger's Daughter: items/the-scavengers-daughter.md
+          - Mysterious Bone Key: items/mysterious-bone-key.md
+          - Nipple Ring of the Superior Fire Demon's Hand Maiden: items/enchanted-nipple-ring-of-the-superior-fire-demons-hand-maiden.md
+          - Nipple Ring of the Defiler: items/enchanted-nipple-ring-of-the-defiler.md
+          - Pauper's Ring of the Steadfast Emberus: items/enchanted-paupers-ring-of-the-steadfast-emberus.md
+          - The Bard's Golden Throat: items/the-bards-golden-throat.md
+          - Tiara of the Inebriated Dragonfly: items/enchanted-tiara-of-the-inebriated-dragonfly.md
+          - The Filthy Little Crawler's Book of Voodoo: items/the-filthy-little-crawlers-book-of-voodoo.md
+          - The Eye of the Bedlam Bride: items/the-eye-of-the-bedlam-bride.md
+          - Enchanted Prison Tattoo Kit: items/enchanted-prison-tattoo-kit.md
+          - Velma: items/velma.md
+          - Spunky Jefferson: items/spunky-jefferson.md
+          - Doctor Ratchet's Automaton Build-It Kit: items/doctor-ratchets-automaton-build-it-kit.md
+          - Tier 3 Doggie Door: items/tier-3-doggie-door.md
+          - Tiara of a Thousand Lights: items/tiara-of-a-thousand-lights.md
+          - Cloak of the Benevolent Champion: items/cloak-of-the-benevolent-champion.md
+          - Toe Ring of the Well-Balanced: items/enchanted-toe-ring-of-the-well-balanced.md
+          - Hairbrush of the Beefmaster: items/enchanted-hairbrush-of-the-beefmaster.md
+          - Spiked Knee Pads of Kina: items/enchanted-spiked-knee-pads-of-kina.md
+          - Zhang's Cape of Odds: items/zhangs-cape-of-odds.md
+          - Party Planner: items/party-planner.md
+          - The Waffle Maker: items/the-waffle-maker.md
+          - Hell-Kissed Potion of Conscription: items/hell-kissed-potion-of-conscription.md
+          - Stayfast Ink and Adept's Fountain Pen: items/stayfast-ink-and-adepts-fountain-pen.md
+          - Carl's Book of Boom: items/carls-book-of-boom.md
+          - Tooth Cap of Hi-Yo Silver: items/enchanted-tooth-cap-of-hi-yo-silver.md
+          - Necklace of Indelible Woe: items/necklace-of-indelible-woe.md
+          - The Toraline Ink Tattoo System: items/toraline-tattoo-transfer.md
+          - Enriched Pet Biscuits: items/enriched-pet-biscuits.md
+          - Memorial Crystal, Emberus: items/memorial-crystal-emberus.md
+          - Mark of the Damned: items/mark-of-the-damned.md
+          - Tracking Tag (The Kyryap): items/tracking-tag-kyryap.md
+          - Belt of Buoyancy: items/belt-of-buoyancy.md
+          - Wand of Nighty-Night: items/wand-of-nighty-night.md
+          - Ghillie Suit and Boonie Hat: items/ghillie-suit-and-boonie-hat.md
+          - Quadruped Weapon Mount (Scorpion's Bite): items/scorpions-bite.md
+      - Timeline:
+          - Overview: timeline/index.md
+      - Glossary:
+          - Overview: glossary/index.md
