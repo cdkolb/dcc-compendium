@@ -139,6 +139,10 @@ hands.
 
 ## The ten teams
 
+![Faction Wars starting positions: the nine numbered territories radiating out from Larracos, matching the Starting Territory column below](images/level-09-starting-territories.webp)
+
+*Fan-made map of the nine starting territories around Larracos. Numbers match the "Starting Territory" column below.*
+
 | Starting Territory | Team | Warlord(s) | Fate | How eliminated |
 |---|---|---|---|---|
 | 1 | The Bone Clan / Skull Empire | Crown Prince, later **King Stalwart**; **King Rust** joins as war chief | 5th eliminated | **Ch. 61–62.** King Stalwart is torn apart by his own war mages after ejecting them from his army; with no eligible claimant on the kill, the system awards the Bone Clan's remaining assets to Team Retribution instead |
