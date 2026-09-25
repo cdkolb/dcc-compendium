@@ -49,11 +49,15 @@
   z-index: 10;
 }
 
-.md-tabs__item:hover .dcc-tabs-dropdown,
-.md-tabs__item:focus-within .dcc-tabs-dropdown {
+.md-tabs__item:hover > .dcc-tabs-dropdown,
+.md-tabs__item:focus-within > .dcc-tabs-dropdown {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);
+}
+
+.dcc-tabs-dropdown li {
+  position: relative;
 }
 
 .dcc-tabs-dropdown__link {
@@ -68,6 +72,28 @@
 .dcc-tabs-dropdown__link:hover {
   background-color: var(--md-accent-fg-color);
   color: var(--md-accent-bg-color);
+}
+
+/* Second-level flyout (e.g. Dungeon Floors -> Level 1..11): opens sideways off its
+   trigger row instead of downward, so it doesn't stack under the rest of the parent list. */
+.dcc-tabs-dropdown__link--flyout::after {
+  content: "\203a";
+  float: right;
+  margin-left: 0.75rem;
+  opacity: 0.6;
+}
+
+.dcc-tabs-flyout {
+  top: -0.4rem;
+  left: 100%;
+  transform: translateX(-4px);
+}
+
+.dcc-tabs-dropdown li:hover > .dcc-tabs-flyout,
+.dcc-tabs-dropdown li:focus-within > .dcc-tabs-flyout {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(0);
 }
 
 /* Chapter-summary "headings" — styled like a heading but deliberately NOT a real <h*> element,
