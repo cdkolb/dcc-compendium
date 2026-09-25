@@ -1,7 +1,11 @@
 {#-
   Custom override of Material's tabs-item.html: adds a hover dropdown listing each
   top-level tab's immediate sub-sections (e.g. "Cast" -> Characters, Bosses, Mobs, Factions).
+  A small allowlist of dropdown items get a second-level flyout of their own children
+  (currently just "Dungeon Floors" -> Level 1..11) -- most sub-sections have far too many
+  pages (Spells, Characters, Items) for a flyout to be readable, so this stays opt-in per title.
 -#}
+{% set FLYOUT_TITLES = ["Dungeon Floors"] %}
 {% macro render_content(nav_item, ref) %}
   {% set ref = ref or nav_item %}
   {% if nav_item == ref or "navigation.indexes" in features %}
@@ -21,14 +25,31 @@
 {% endmacro %}
 
 {% macro render_dropdown(ref) %}
-  {% if ref.children and (ref.children | first).children %}
+  {% if ref.children and ref.children | length > 1 %}
     <ul class="dcc-tabs-dropdown">
       {% for child in ref.children %}
-        <li>
-          <a href="{{ resolve_url(child) }}" class="dcc-tabs-dropdown__link">
-            {{ child.title }}
-          </a>
-        </li>
+        {% if child.title in FLYOUT_TITLES and child.children and child.children | length > 1 %}
+          <li>
+            <a href="{{ resolve_url(child) }}" class="dcc-tabs-dropdown__link dcc-tabs-dropdown__link--flyout">
+              {{ child.title }}
+            </a>
+            <ul class="dcc-tabs-dropdown dcc-tabs-flyout">
+              {% for grandchild in child.children %}
+                <li>
+                  <a href="{{ resolve_url(grandchild) }}" class="dcc-tabs-dropdown__link">
+                    {{ grandchild.title }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% else %}
+          <li>
+            <a href="{{ resolve_url(child) }}" class="dcc-tabs-dropdown__link">
+              {{ child.title }}
+            </a>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
   {% endif %}

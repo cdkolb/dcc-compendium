@@ -1,5 +1,7 @@
 site_name: Dungeon Crawler Carl Compendium
 site_description: A personal, ad-free, deep-detail reference for the Dungeon Crawler Carl series
+watch:
+  - overrides
 theme:
   name: material
   custom_dir: overrides
