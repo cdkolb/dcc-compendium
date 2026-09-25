@@ -1,0 +1,82 @@
+/* Bump the body text of all callout boxes (quick facts, AI commentary, placeholder notes, etc.)
+   by 2px total */
+.md-typeset .admonition p,
+.md-typeset .admonition li {
+  font-size: calc(1em + 2px);
+}
+
+/* Regular content tables (e.g. the item/loot catalogs) stay at base size */
+.md-typeset table:not([class]) {
+  font-size: 1em;
+}
+
+/* Widen the overall page. Nav sidebar is fixed-width in Material, so nearly all of this extra
+   room goes to the content column in the middle. */
+.md-grid {
+  max-width: 1250px;
+}
+
+/* Top-nav hover dropdown, listing each tab's sub-sections (see overrides/partials/tabs-item.html).
+   Material's own .md-tabs / .md-tabs__list use `contain: content` (forces paint containment,
+   i.e. clips descendants regardless of overflow) plus `overflow: auto` — both would swallow our
+   dropdown before it can render outside the tab bar, so they're overridden here. */
+.md-tabs,
+.md-tabs__list {
+  overflow: visible;
+  contain: none;
+}
+
+.md-tabs__item {
+  position: relative;
+}
+
+.dcc-tabs-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin: 0;
+  padding: 0.4rem 0;
+  list-style: none;
+  min-width: 12rem;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border-radius: 0 0 0.2rem 0.2rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 0.15s, transform 0.15s, visibility 0.15s;
+  z-index: 10;
+}
+
+.md-tabs__item:hover .dcc-tabs-dropdown,
+.md-tabs__item:focus-within .dcc-tabs-dropdown {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dcc-tabs-dropdown__link {
+  display: block;
+  padding: 0.5rem 1rem;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.dcc-tabs-dropdown__link:hover {
+  background-color: var(--md-accent-fg-color);
+  color: var(--md-accent-bg-color);
+}
+
+/* Chapter-summary "headings" — styled like a heading but deliberately NOT a real <h*> element,
+   so they stay off the left-nav table of contents (toc.integrate pulls in every real heading). */
+.md-typeset strong.chapter-title {
+  display: block;
+  margin-top: 1.6em;
+  padding-top: 0.8em;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  font-size: 1.15em;
+}
+
