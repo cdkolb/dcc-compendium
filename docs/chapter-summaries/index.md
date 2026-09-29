@@ -15,3 +15,4 @@ jog your memory on exactly what happened, without retelling the book beat-by-bea
 - [Book 6: The Eye of the Bedlam Bride](book-06.md)
 - [Book 7: This Inevitable Ruin](book-07.md)
 - [Book 8: A Parade of Horribles](book-08.md)
+- [Book 9: What We Know](book-09-what-we-know.md)
