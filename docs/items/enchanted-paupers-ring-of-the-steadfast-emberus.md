@@ -181,30 +181,28 @@ tattoos on the backs of both hands into permanent scars the system calls the
 
 ### The debt, the curse, and the asterisk: still explicitly unresolved
 
-!!! warning "Deliberately ambiguous — do not resolve this"
-    The text goes out of its way to raise the debt/curse question and then decline to answer it.
+The text goes out of its way to raise the debt/curse question and then decline to answer it.
 
-    - **A notification about the ring fires the instant he renounces, and Carl waves it away
-      unread.** The book never shows what it said.
-    - Later, in the arena dirt immediately after looting Emberus's Memorial Crystal and finding the
-      Kyryap's tracking dart, Carl checks his own debuffs for something unrelated and finds this
-      instead:
+- **A notification about the ring fires the instant he renounces, and Carl waves it away
+  unread.** The book never shows what it said.
+- Later, in the arena dirt immediately after looting Emberus's Memorial Crystal and finding the
+  Kyryap's tracking dart, Carl checks his own debuffs for something unrelated and finds this
+  instead:
 
-      > There *was* something new, but it had to do with my Emberus ring, not this, and it was
-      > something I'd have to deal with later.
+  > There *was* something new, but it had to do with my Emberus ring, not this, and it was
+  > something I'd have to deal with later.
 
-      That is the last word Book 8 has on the subject. **What the new ring-related effect actually
-      is, is never stated.**
-    - Book 6's warning was explicit: *"If you are expelled from the church while you are wearing
-      this ring, the curse effect will activate."* Carl removed the ring **before** renouncing, so
-      the letter of that clause (wearing it at the moment of expulsion) was arguably not met — but
-      the book never says this dodge worked, never confirms the curse fired or didn't, and never
-      revisits the 990,000-gold debt, the accelerated-payment clause for losing the ring, or what
-      the "interest-free\*" asterisk means.
-    - Whether the debt is still owed, whether the curse is now armed against Carl's own inventory
-      (since the ring is sitting in it, unworn, not sold, not destroyed), and what the deferred
-      "something new" debuff turns out to be are all **left open on purpose**. Do not guess at any
-      of them. This is explicit Book 9 setup, not an oversight.
+  That is the last word Book 8 has on the subject. What the new ring-related effect actually
+  is, is never stated.
+- Book 6's warning was explicit: *"If you are expelled from the church while you are wearing
+  this ring, the curse effect will activate."* Carl removed the ring before renouncing, so
+  the letter of that clause (wearing it at the moment of expulsion) was arguably not met — but
+  the book never says this dodge worked, never confirms the curse fired or didn't, and never
+  revisits the 990,000-gold debt, the accelerated-payment clause for losing the ring, or what
+  the "interest-free\*" asterisk means.
+- Whether the debt is still owed, whether the curse is now armed against Carl's own inventory
+  (since the ring is sitting in it, unworn, not sold, not destroyed), and what the deferred
+  "something new" debuff turns out to be are all left open as of the end of Book 8.
 
 ---
 *Sourced from Book 6: The Eye of the Bedlam Bride, Book 7: This Inevitable Ruin, and Book 8: A

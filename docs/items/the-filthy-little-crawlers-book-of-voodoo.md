@@ -50,21 +50,20 @@ plan to the entire remaining field at the climax.
 
 ## The Obvious Setup
 
-!!! warning "Flagged — unresolved, almost certainly deliberate"
-    The item description goes out of its way to deny something nobody asked about:
+The item description goes out of its way to deny something nobody asked about:
 
-    > **It was called the Voodoo board because of the pins. This book is the same thing. It's
-    > called a book of Voodoo because it's named after the message board. Not because it can
-    > secretly be used for any sort of nefarious purpose which will become clear later, so just get
-    > that out of your head this instant, mister.**
+> **It was called the Voodoo board because of the pins. This book is the same thing. It's
+> called a book of Voodoo because it's named after the message board. Not because it can
+> secretly be used for any sort of nefarious purpose which will become clear later, so just get
+> that out of your head this instant, mister.**
 
-    Carl notices. His own reaction: "*why would they give this to most everybody in the dungeon?
-    The description was a little alarming. You never really knew when the AI was being serious or
-    not.*"
+Carl notices. His own reaction: "*why would they give this to most everybody in the dungeon?
+The description was a little alarming. You never really knew when the AI was being serious or
+not.*"
 
-    An undroppable, indestructible object that every crawler in the dungeon is carrying, with their
-    true names written in it, distributed for free, by an AI that is openly telling you it has
-    another purpose. **Book 6 does not reveal what that purpose is.** Do not guess.
+An undroppable, indestructible object that every crawler in the dungeon is carrying, with their
+true names written in it, distributed for free, by an AI that is openly telling you it has
+another purpose. Book 6 does not reveal what that purpose is.
 
 ## Book 7: The Other Purpose
 

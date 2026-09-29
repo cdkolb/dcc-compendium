@@ -66,19 +66,18 @@ Neither option's terms are explained.
 
 ## Status at Book's End
 
-!!! warning "Open thread"
-    **Donut rips the Shi Maria card** the moment the battle ends — "*She's not going to hurt Mongo
-    ever again*" — which removes the spider from her deck permanently. The tattoo is unaffected.
-    That was the entire point of making it: Shi Maria explicitly moved herself onto "something you
-    can't discard so easily" *because* she expected the card to be destroyed.
+**Donut rips the Shi Maria card** the moment the battle ends — "*She's not going to hurt Mongo
+ever again*" — which removes the spider from her deck permanently. The tattoo is unaffected.
+That was the entire point of making it: Shi Maria explicitly moved herself onto "something you
+can't discard so easily" *because* she expected the card to be destroyed.
 
-    Carl's own summary, two pages later: *"I still felt it there, right on my chest. The tattoo. I
-    had no idea what it really was or what it meant."*
+Carl's own summary, two pages later: *"I still felt it there, right on my chest. The tattoo. I
+had no idea what it really was or what it meant."*
 
-    The associated escort quest — **"The Bedlam Bride,"** a quest to get her "crazy ass to the city
-    of Larracos" — is never formally closed, failed, or updated on-page after the card is ripped.
-    Book 6 does not say what the tattoo does, what "her power" would be, how one would "set her
-    free," or what happens to the quest. Do not resolve any of this from inference.
+The associated escort quest — **"The Bedlam Bride,"** a quest to get her "crazy ass to the city
+of Larracos" — is never formally closed, failed, or updated on-page after the card is ripped.
+Book 6 does not say what the tattoo does, what "her power" would be, how one would "set her
+free," or what happens to the quest.
 
 ## Book 7: The Terms, Finally Stated
 
@@ -198,13 +197,12 @@ Shi Maria spends the book negotiating from inside him, and gets more articulate 
 > "**You're always on rails… You're a puppet, dancing on their stage. I'm still here. You just need to
 > untie me.**" (ch. 62)
 
-!!! warning "Still open at the end of Book 7"
-    **Shi Maria is never released. The one-shot is unspent.** Carl carries her, and the option,
-    into Book 8.
+**Shi Maria is never released. The one-shot is unspent.** Carl carries her, and the option,
+into Book 8, and the matter is still open at the end of Book 7.
 
-    Also note the friendly voice in chapter 65 that pushes Carl's Mind Balance to 16 — "*You're family
-    now, after what you did… She would be proud of you*" — is **explicitly neither Shi Maria nor
-    Hapanzi.** It is never identified.
+Also note the friendly voice in chapter 65 that pushes Carl's Mind Balance to 16 — "*You're family
+now, after what you did… She would be proud of you*" — is explicitly neither Shi Maria nor
+Hapanzi. It is never identified.
 
 ## Book 8: Used at Last — Without Releasing Her
 
@@ -255,12 +253,11 @@ See [Carl's own page](../characters/carl.md#freezing-mitch-as-a-dog) for the res
 
 ### The Book 7 chapter-65 voice: still unidentified
 
-!!! warning "Still open"
-    Book 8 never revisits or explains the mysterious voice from Book 7, chapter 65 — the one that
-    told Carl "*You're family now... she would be proud of you*" while pushing his
-    [Mind Balance](../abilities/mind-balance.md) to level 16, and which the text explicitly said was
-    **neither Shi Maria nor Hapanzi**. It is not named, referenced, or followed up on anywhere in
-    *A Parade of Horribles*. This thread remains fully open for a future book.
+Book 8 never revisits or explains the mysterious voice from Book 7, chapter 65 — the one that
+told Carl "*You're family now... she would be proud of you*" while pushing his
+[Mind Balance](../abilities/mind-balance.md) to level 16, and which the text explicitly said was
+neither Shi Maria nor Hapanzi. It is not named, referenced, or followed up on anywhere in
+*A Parade of Horribles*. This thread remains open for a future book.
 
 ## Related
 

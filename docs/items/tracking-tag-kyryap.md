@@ -1,8 +1,7 @@
 # Tracking Tag ("The Kyryap has claimed you")
 
-!!! danger "Open Book 9 setup — do not speculate about what the Kyryap is"
-    This page documents only what Book 8 states on the page. The Kyryap's true nature is never
-    explained, and this entry should not guess at it.
+This page documents only what Book 8 states on the page. The Kyryap's true nature is never
+explained, and this entry does not speculate about it — it is set up as a thread for a future book.
 
 !!! info "Quick facts"
     - **Bearer:** Carl
@@ -57,16 +56,12 @@ Justice Light's trap unleashed onto three separate floors when it broke the in-g
 
 So by the time the tracking tag turns up on Carl's own leg, "the Kyryap" has already been
 established within Book 8 as a named, dreaded, trap-setting presence loose in Club Scolopendra
-— grouped in the same breath as Krakaren Prime, another Dungeon-Boss-tier threat. The tag suggests
-whatever it is took a direct, personal interest in Carl specifically, sometime during the arena
-fight.
-
-!!! note "The brief's earlier guess was wrong — corrected here"
-    An earlier draft of this catalog's brief guessed the Kyryap might trace back to Book 7's Floor 9
-    or an earlier caprid conversation. **It does not.** A full-text search of *This Inevitable Ruin*
-    and all earlier books turns up zero hits for "Kyryap." The name originates entirely within Book
-    8 itself, first via the *Plenty of Plenty* goat panel and the Club Scolopendra snare trap, both
-    earlier in the same book as the tracking tag payoff.
+— grouped in the same breath as Krakaren Prime, another Dungeon-Boss-tier threat. The name
+originates entirely within Book 8 itself, first via the *Plenty of Plenty* goat panel and the
+Club Scolopendra snare trap, both earlier in the same book as the tracking tag payoff — a
+full-text search of *This Inevitable Ruin* and all earlier books turns up zero hits for "Kyryap."
+The tag suggests whatever it is took a direct, personal interest in Carl specifically, sometime
+during the arena fight.
 
 ## What Is Not Known
 

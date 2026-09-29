@@ -272,10 +272,9 @@ years ahead of schedule, at the end of the ninth floor rather than the eighteent
     kills him is Emberus’s, not the trap’s. He also knowingly accepts the cost to everyone else —
     “All his friends left in the dungeon could possibly suffer because of what he was about to do.”
 
-!!! note "Unresolved"
-    Justice told Juice Box that if she survived her passage through the Nothing “she would be reborn
-    as the ultimate weapon to end this madness. This war.” What that means, and what he actually
-    promised her about touching gods safely, is not explained before the book ends.
+Justice told Juice Box that if she survived her passage through the Nothing “she would be reborn as
+the ultimate weapon to end this madness. This war.” What that means, and what he actually promised
+her about touching gods safely, is not explained before the book ends.
 
 ---
 *Sourced from Book 7: This Inevitable Ruin.*

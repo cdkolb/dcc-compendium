@@ -77,11 +77,10 @@ Carl feels it physically — a persistent itch at his neck and a rising unease a
 full — and is repeatedly tempted to bank a charge for a boss instead of spending it. What "screws
 you over" actually means is never stated.
 
-!!! warning "Unresolved at book's end"
-    The book closes with Carl having **forgotten to discharge a full bar**. A voice in his mind
-    tells him: *"You did not diffuse your soul power from the Scavenger's Daughter. That was a
-    mistake. You should never allow it to linger within you. I need you alive, Carl. I need you
-    reasonably sane."* The consequence is not shown.
+The book closes with Carl having forgotten to discharge a full bar. A voice in his mind tells
+him: *"You did not diffuse your soul power from the Scavenger's Daughter. That was a mistake.
+You should never allow it to linger within you. I need you alive, Carl. I need you reasonably
+sane."* The consequence is not shown.
 
 ---
 *Sourced from Book 6: The Eye of the Bedlam Bride.*

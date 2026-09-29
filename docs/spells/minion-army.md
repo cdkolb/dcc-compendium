@@ -71,9 +71,8 @@ Charisma (five minutes → four).
 
 ## Future Enhancements
 
-!!! note "Open — Books 7+"
-    The spell finally works, at level 1, in a set-piece designed for it. Whether Donut trains it
-    higher, and what 2% becomes at level 10 or 15, is not established in Book 6.
+The spell finally works, at level 1, in a set-piece designed for it. Whether Donut trains it
+higher, and what 2% becomes at level 10 or 15, is not established in Book 6.
 
 ---
 *Sourced from Book 1: The Apocalypse Will Be Televised and Book 6: The Eye of the Bedlam Bride.*

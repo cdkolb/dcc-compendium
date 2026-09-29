@@ -68,23 +68,22 @@ organizations with their own agenda. Both now have their own pages:
 | Club Vanquisher | Members-only club | **A location** — see [Club Vanquisher](../locations/club-vanquisher.md). Book 7 wrecks it. The Posse breaks in through the Temple of Dagda to reach the Temple of Khepri and kill Princess Vinata, and the system's verdict is a permanent ban: *"Breaking into and defiling a church is one thing, but breaking into Club Vanquisher, hub of all religion? ... **Reward: You are permanently banned from Club Vanquisher. You are permanently banned from all temples except your own religion (Emberus) and any temples where you've been named friend of the church (Apito. Eileithyia. Eris. Grull. Hellik. Issitoq. Nekhebit. Theia. Yemaya.)**"* Carl: "it wasn't a surprise I'd been black-listed from all temples after that clusterfuck at Club Vanquisher." The mechanics of the ban belong to the Items/Mechanics passes |
 | Desperado Club | Members-only club | **A location** — see [Desperado Club](../locations/desperado-club.md). Reopened under new management: **Hamed**, the Night Wyrm, leader of the [Guild of Suffering](guild-of-suffering.md), husband of the late Astrid and father of Damascus Steel and Anaconda. **All crawlers are banned.** Clarabelle, still on the door: "It's not just you, if that makes you feel better. It's because of you, but it's not just you. New management wants his first few days to go smoothly, so he's banned all crawlers. If he ever un-bans the crawlers, then we'll talk." The purge extends to staff — "All the sai and cretin guards had been fired and replaced" — and Hamed keeps bodyguards who are "Not exactly NPCs. Not exactly former crawlers" |
 
-!!! warning "Unresolved: the missing Desperado Club staff"
-    Book 7 raises several disappearances at the Desperado Club and resolves **none** of them.
+Book 7 raises several disappearances at the Desperado Club and resolves **none** of them.
 
-    - **Damascus Steel** and **Anaconda**, Hamed's sons, went into the club to hunt and kill their
-      father. Donut glimpses Damascus walking past a doorway once — "Do you think you can just sneak
-      by and I wouldn't see you?" — and nobody else sees him. Dong searches the club "looking for
-      some sign of the two missing strippers"; the new concierge and Clarabelle both say they haven't
-      seen them. Carl: "That was a mystery for another time."
-    - **The entire Bitches dancer crew**, including Splash Zone's wife **Snail Trail** (early shift)
-      and her mother, his mother-in-law, **Grandma Sticky** (later shift). Splash Zone: "Same with
-      Bitches, and we don't know where the old ones went. When this is over, I need to go back in
-      there and keep looking for them. The whole crew at Bitches, including Snail Trail and Grandma
-      Sticky are missing."
-    - A dancer named **Tart**, who moved to "High Class Bitches" after breaking her jaw and became a
-      mercenary — "nobody has seen her since."
+- **Damascus Steel** and **Anaconda**, Hamed's sons, went into the club to hunt and kill their
+  father. Donut glimpses Damascus walking past a doorway once — "Do you think you can just sneak
+  by and I wouldn't see you?" — and nobody else sees him. Dong searches the club "looking for
+  some sign of the two missing strippers"; the new concierge and Clarabelle both say they haven't
+  seen them. Carl: "That was a mystery for another time."
+- **The entire Bitches dancer crew**, including Splash Zone's wife **Snail Trail** (early shift)
+  and her mother, his mother-in-law, **Grandma Sticky** (later shift). Splash Zone: "Same with
+  Bitches, and we don't know where the old ones went. When this is over, I need to go back in
+  there and keep looking for them. The whole crew at Bitches, including Snail Trail and Grandma
+  Sticky are missing."
+- A dancer named **Tart**, who moved to "High Class Bitches" after breaking her jaw and became a
+  mercenary — "nobody has seen her since."
 
-    No fate is shown for any of them. The wiki records the disappearances and does not speculate.
+No fate is shown for any of them, and the text never says what happened to them.
 
 ## Other Book 8 dungeon groups
 

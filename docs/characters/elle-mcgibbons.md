@@ -71,11 +71,10 @@ knee-high field of melting ice and mangled demon corpses as far as he can see.
 > "What the hell? That spell is strong, but it's not usually *that* strong. **It's only level five.
 > It said it cast at level 16.**"
 
-!!! warning "Unresolved"
-    Nothing explains the amplification. Samantha, who can enhance spells, says flatly "I didn't do
-    that," and then breaks into an incoherent rant about Elle being "on the four seasons path," a
-    tree, a river, and "maybe the prince's spell enhanced her." The book never resolves it. See
-    [Samantha](samantha.md#the-elle-rant).
+Nothing explains the amplification. Samantha, who can enhance spells, says flatly "I didn't do
+that," and then breaks into an incoherent rant about Elle being "on the four seasons path," a tree,
+a river, and "maybe the prince's spell enhanced her." The book never resolves it. See
+[Samantha](samantha.md#the-elle-rant).
 
 ### Second Voice
 

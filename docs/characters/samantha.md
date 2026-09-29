@@ -129,11 +129,10 @@ hypothesis, formed right after her ex-boyfriend the badger bartender dies:
 > the case, we really need to be careful of her on the next floor. If we let her inhabit the body of
 > Signet's mom, I'm afraid she's going to end up stronger than we can handle."
 
-!!! warning "Unresolved"
-    The death hypothesis is Carl's speculation. Neither the system nor Samantha ever confirms it, and
-    Book 6 offers no other explanation. Carl's earlier worry stands: "Nobody knows why or how you're
-    getting all these new powers, and it kinda freaks me out because we don't know where it's going
-    to stop."
+The death hypothesis is Carl's speculation, though. Neither the system nor Samantha ever confirms it, and
+Book 6 offers no other explanation. Carl's earlier worry stands: "Nobody knows why or how you're
+getting all these new powers, and it kinda freaks me out because we don't know where it's going
+to stop."
 
 ### The Neck Hole
 
@@ -207,10 +206,9 @@ completely — the only time in the book she looks frightened:
 
 Carl asks her directly what she just said and gets "You need to stop gaslighting me, Carl."
 
-!!! warning "Unresolved"
-    "The four seasons path" appears exactly once in the book. Nothing in this rant — the tree, the
-    river, "the prince's spell," the mother — is ever picked up or explained. It rhymes with Carl's
-    own recurring "river" motif, but the text never connects them.
+"The four seasons path" appears exactly once in the book. Nothing in this rant — the tree, the
+river, "the prince's spell," the mother — is ever picked up or explained. It rhymes with Carl's
+own recurring "river" motif, but the text never connects them.
 
 ## Book 7: This Inevitable Ruin
 
@@ -279,14 +277,13 @@ daughter, who was hidden within the castle, and we found her. She is with us now
 > Daughter. Could that possibly be Samantha’s daughter? And if so, did that mean Samantha was really the
 > scavenger? I still didn’t know who that was.
 
-!!! note "Unresolved"
-    The text never answers this. Carl asks Mordecai directly — “who is the Scavenger? And who is the
-    Scavenger’s Daughter? I know it’s the name of my patch, but I didn’t know there was more to it than
-    that” — and Mordecai deflects with “Are you talking about the in-dungeon one or the fairy tale? Either
-    way, that’s a conversation that’s not going to matter if you don’t figure out how to find and kill
-    those two warlords.” The connection between Samantha, the item **the Scavenger’s Daughter**
-    ([see the item page](../items/the-scavengers-daughter.md)), and whatever Akuma’s team carried out of
-    the castle is raised and then dropped. Nothing confirms Samantha is the Scavenger.
+The text never answers this. Carl asks Mordecai directly — “who is the Scavenger? And who is the
+Scavenger’s Daughter? I know it’s the name of my patch, but I didn’t know there was more to it than
+that” — and Mordecai deflects with “Are you talking about the in-dungeon one or the fairy tale? Either
+way, that’s a conversation that’s not going to matter if you don’t figure out how to find and kill
+those two warlords.” The connection between Samantha, the item **the Scavenger’s Daughter**
+([see the item page](../items/the-scavengers-daughter.md)), and whatever Akuma’s team carried out of
+the castle is raised and then dropped. Nothing confirms Samantha is the Scavenger.
 
 ### Giving Up the Body
 
@@ -385,8 +382,10 @@ the world now, so, yeah we should probably go.”
 
 ### Kimaris
 
-On the stairwell at the very end, [Bautista](bautista.md) — who received an electronic guidebook to his
-stuffed animals as a Book 7 achievement reward — finally looks up a plush figure Carl has been carrying:
+On the stairwell at the very end, [Bautista](bautista.md) — whose Book 7 achievement reward was an
+electronic scanning guidebook for plush toys, which he had promised to lend Carl so Carl could identify
+a figure he already owned (Bautista's own stuffed animals are the Eclipse Pyxies he throws in combat) —
+finally looks up the Kimaris figure that belongs to [Carl](carl.md):
 “I looked up the Kimaris figure you have. He’s one of the brothers of Sheol. He has a summoning time of
 ‘the remainder of the floor.’ Be careful with him.”
 
@@ -407,10 +406,6 @@ Earlier in the book she had tried to name Carl’s new pet “Kimmy” — “Ki
 call him, he will always be Kimmy to me” — which nobody understood at the time. The pet was named
 [Sir Rendlegore](sir-rendlegore.md) instead.
 
-!!! note "Correction on the plush's owner"
-    The Kimaris figure belongs to **[Carl](carl.md)**, not to Bautista. Bautista’s Book 7 prize was the
-    scanning guidebook for plush toys, which he had promised to lend Carl so Carl could identify the figure
-    he already had. Bautista’s own stuffed animals are the Eclipse Pyxies he throws in combat.
 
 ## Book 8: A Parade of Horribles
 
@@ -471,13 +466,12 @@ final pages via chat to Louis, doubles as its last and biggest open thread:
 > JERK SON, WHO I THOUGHT WAS MY FRIEND BUT HE TRICKED ME INTO GIVING BIRTH TO A MONSTER THAT WILL
 > DESTROY ALL OF CREATION BOTH INSIDE AND OUTSIDE THE DUNGEON."
 
-!!! warning "Open Book 9 thread — do not resolve"
-    This is the book's own words, not an inference: Samantha states outright that she was tricked by
-    someone she considered a friend into "giving birth to a monster" capable of destroying all of
-    creation. Nothing about who the "jerk son" is, what the monster actually is, or how any of this
-    connects to her established backstory (the sand-ooze daughter from Book 4, the possible
-    Scavenger's Daughter connection raised and dropped in Book 7) is explained anywhere in Book 8.
-    Treat this as an explicitly open thread for a future book, not something to speculate past.
+This is the book's own words, not an inference: Samantha states outright that she was tricked by
+someone she considered a friend into "giving birth to a monster" capable of destroying all of
+creation. Nothing about who the "jerk son" is, what the monster actually is, or how any of this
+connects to her established backstory (the sand-ooze daughter from Book 4, the possible
+Scavenger's Daughter connection raised and dropped in Book 7) is explained anywhere in Book 8. As
+of Book 8, it remains an entirely open thread for a future book.
 
 ---
 *Sourced from Book 4: The Gate of the Feral Gods, Book 5: The Butcher’s Masquerade, Book 6: The

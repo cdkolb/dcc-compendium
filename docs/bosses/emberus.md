@@ -45,10 +45,9 @@ delay on it.
     my rage and grief on you for daring to hurt my own kin, and for this, I love you, beloved but
     doomed worshiper. I promise the burning will be exquisite.**"
 
-!!! danger "Unresolved threat for future books"
-    Carl is now caught between two incompatible obligations from the same god: kill Hellik, and be
-    punished for killing Hellik. The promise of an "exquisite" burning is **not** discharged in Book
-    7 — Emberus burns the floor for unrelated reasons and Carl escapes. It remains outstanding.
+Carl is now caught between two incompatible obligations from the same god: kill Hellik, and be
+punished for killing Hellik. The promise of an "exquisite" burning is not discharged in Book 7 —
+Emberus burns the floor for unrelated reasons and Carl escapes. It remains outstanding.
 
 ## Entering the Realm
 

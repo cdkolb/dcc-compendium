@@ -166,10 +166,9 @@ Baroness Victory later fills in the politics: the Dream are not all Reavers, but
 alliance between the galaxy’s largest food producer and its largest manufacturer would have been a
 mega-monopoly. Fopsy, the Dream’s own adjutant, says he had “no inkling whatsoever.”
 
-!!! note "Unresolved"
-    The book never explains how Tagg grafted himself into Louis’s biomechanical organs in the first
-    place, or how he survived losing his own body. Mordecai’s answer to Donut’s direct question is
-    “We don’t know. We need to figure it out,” and no later scene resolves it.
+The book never explains how Tagg grafted himself into Louis’s biomechanical organs in the first
+place, or how he survived losing his own body. Mordecai’s answer to Donut’s direct question is “We
+don’t know. We need to figure it out,” and no later scene resolves it.
 
 ## The Hostage Negotiation
 

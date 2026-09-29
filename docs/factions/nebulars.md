@@ -82,10 +82,9 @@ book's only use of the name *Nebular Balance* and the only appearance of Pontife
 never seen. Ysalte is killed on-page by [Paz Lo](../characters/paz-lo.md) — see [Ysalte](../bosses/ysalte.md) —
 which makes it two Nebular investments destroyed in the same floor.
 
-!!! warning "Unresolved"
-    Book 6 does not say whether "the Nebular Balance" is the Nebulars' formal name, a specific
-    organ or sect within them, or simply the sponsoring entity's registered title. Pontifex Shine
-    is named once and never appears.
+Book 6 does not say whether "the Nebular Balance" is the Nebulars' formal name, a specific
+organ or sect within them, or simply the sponsoring entity's registered title. Pontifex Shine
+is named once and never appears.
 
 ## Relationship to the Reavers
 

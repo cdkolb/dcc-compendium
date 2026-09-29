@@ -101,14 +101,12 @@ The ship is cleared for on-boarding in the book's last page. Its cargo is fifty 
 crawlers, now troopers for the Princess Posse. See
 [Long Haul Biological Waste Management Solutions](long-haul-biological-waste-management.md).
 
-!!! warning "Unresolved"
-    Book 6 names **Doctor Hu** only in the epilogue and **Porthus** only as a cookbook contributor
-    ("Note added by Crawler Porthus, Second Edition"). The text of this book never states that they
-    are the same person, and Carl never counts his "possibly three" cookbook owners by name. Treat
-    any Porthus = Dr. P. Hu identification as unconfirmed by Book 6 itself.
-
-    **Resolved in Book 7.** Carl's narration states it outright: "Dr Hu. **Dr Porthus Hu.** Author of
-    the second edition of the cookbook. The first crawler to receive the item."
+Book 6 names **Doctor Hu** only in the epilogue and **Porthus** only as a cookbook contributor
+("Note added by Crawler Porthus, Second Edition"). The text of that book never states that they
+are the same person, and Carl never counts his "possibly three" cookbook owners by name, so the
+Porthus = Dr. P. Hu identification is unconfirmed by Book 6 itself. It is resolved in Book 7,
+where Carl's narration states it outright: "Dr Hu. **Dr Porthus Hu.** Author of
+the second edition of the cookbook. The first crawler to receive the item."
 
 ## Book 7: Dr. Porthus Hu and the two organizations
 

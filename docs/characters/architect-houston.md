@@ -207,11 +207,10 @@ away by roots.
 >
 > System Message: All assets of the Madness have been awarded to the Princess Posse.
 
-!!! note "Unresolved"
-    What Houston found, whether he reached the Beautiful Place, what the changeling became, and what
-    Carl actually saw and passed through on his way out are all left open. Carl’s own account is
-    deliberately uncertain: “I’d seen something, but I wasn’t sure if it was real. It felt like a
-    dream.”
+What Houston found, whether he reached the Beautiful Place, what the changeling became, and what
+Carl actually saw and passed through on his way out are all left open. Carl’s own account is
+deliberately uncertain: “I’d seen something, but I wasn’t sure if it was real. It felt like a
+dream.”
 
 ## The Peeling Phase
 

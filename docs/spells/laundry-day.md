@@ -62,12 +62,6 @@ the clothes if we let him."
 
 ## Book 8: Ejecting the Maestro from Grull
 
-!!! note "Corrected — not Emberus"
-    An earlier draft of this catalog's brief misremembered this scene as involving Emberus. It does
-    not. The god possessed/ridden in this scene is **Grull**, and the possessing entity ejected is
-    an orc called **the Maestro** — not a mortal wearing a god's power like Circe Took in Book 5, but
-    the reverse: an orc apparently lodged inside the god's own chest.
-
 Cornered by Grull mid-race on Floor 10, with the god about to kill the mantaur Corcunda for breaking
 faith, Donut casts *Laundry Day* directly on the god himself:
 

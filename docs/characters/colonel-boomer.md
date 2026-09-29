@@ -178,11 +178,9 @@ security cyborgs were specifically *not* allowed to bring into the dungeon: "If 
 to come in here with their heavy duty, Cronus-class power armor, they’d already be putting those
 collectible, heart-covered boxers on clearance in all waystation gift shops across the galaxy."
 
-!!! note "Unresolved"
-    The "pregnant veteran on the surface who needs backup" is never identified in Book 7, and
-    neither is the target of "phase two." Boomer's remark that "we made some friends down there, and
-    this next part isn’t going to be nearly as difficult as we originally thought" is likewise left
-    hanging.
+The "pregnant veteran on the surface who needs backup" is never identified in Book 7, and neither
+is the target of "phase two." Boomer's remark that "we made some friends down there, and this next
+part isn’t going to be nearly as difficult as we originally thought" is likewise left hanging.
 
 ---
 *Sourced from Book 7: This Inevitable Ruin.*

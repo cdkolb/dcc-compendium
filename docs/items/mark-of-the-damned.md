@@ -28,11 +28,9 @@ existing tattoos into something new:
 Nothing stated. No level, no benefit, no debuff, no further examination text. The name is the whole
 of it.
 
-!!! warning "Open thread for Book 9"
-    Book 8 never revisits the Mark of the Damned after this scene. There is no indication of what,
-    if anything, it does mechanically, whether it marks Carl to other gods or NPCs, or whether it
-    connects to the unresolved [ring debt/curse question](enchanted-paupers-ring-of-the-steadfast-emberus.md#the-debt-the-curse-and-the-asterisk-still-explicitly-unresolved).
-    Do not invent an effect for it. Treat it as deliberate, unresolved setup.
+Book 8 never revisits the Mark of the Damned after this scene. There is no indication of what,
+if anything, it does mechanically, whether it marks Carl to other gods or NPCs, or whether it
+connects to the unresolved [ring debt/curse question](enchanted-paupers-ring-of-the-steadfast-emberus.md#the-debt-the-curse-and-the-asterisk-still-explicitly-unresolved).
 
 ## Related
 

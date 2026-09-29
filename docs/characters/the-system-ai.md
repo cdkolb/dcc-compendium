@@ -342,11 +342,10 @@ Reading the AI's dating metaphor onto this — the "boyfriend in prison" who is 
 and his older ex feeding the AI tips on getting stronger — is a natural fit, but the text never
 makes the identification (not confirmed in the text).
 
-!!! note "Unresolved"
-    The book never says what the AI actually wants. It tells Orren its intentions are "none of your
-    business," refuses to say whether the fuse would have worked, declines to discuss "family," and
-    ends the book still expanding. Its relationship to the Eulogist, to Agatha's faction, and to
-    Paulie's, is deliberately left open.
+The book never says what the AI actually wants, though. It tells Orren its intentions are "none of your
+business," refuses to say whether the fuse would have worked, declines to discuss "family," and
+ends the book still expanding. Its relationship to the Eulogist, to Agatha's faction, and to
+Paulie's, is deliberately left open.
 
 ---
 *Sourced from Book 1: The Apocalypse Will Be Televised, Book 5: The Butcher's Masquerade, and

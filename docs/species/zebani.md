@@ -18,11 +18,10 @@ That is the whole of it. Carl reads him as tall, heavily built, in his fifties, 
 extraordinarily thick monobrow, and carrying a curved sword. The squad's crawler numbers are
 similar enough that Carl guesses they are all from one family.
 
-!!! warning "Unresolved"
-    Book 6 gives no physiology, homeworld, culture, or political affiliation for the Zebani, and
-    the AI never provides one of its usual species write-ups. Both *Zebani* (the race) and *Ghazi*
-    (the class) go unexplained on the page — Carl himself says he doesn't know what either is. Do
-    not read anything further into the name without a later-book source.
+Book 6 gives no physiology, homeworld, culture, or political affiliation for the Zebani, and the AI
+never provides one of its usual species write-ups. Both *Zebani* (the race) and *Ghazi* (the class)
+go unexplained on the page — Carl himself says he doesn't know what either is. Nothing further
+should be read into the name without a later-book source.
 
 ---
 *Sourced from Book 6: The Eye of the Bedlam Bride.*

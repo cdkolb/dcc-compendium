@@ -176,9 +176,8 @@ charge of the Skull Empire, not unless she first killed about 1,000 other nobles
 galaxy, so her motivations in helping the Pacifist network were a mystery to Rosetta.” The deal was
 brokered between Porthus and Victory **before Victory was chosen as an adjutant at all**.
 
-!!! note "Unresolved"
-    Her motive for the Porthus deal is never explained in Book 7. Rosetta flags it as a mystery and
-    the book leaves it there.
+Her motive for the Porthus deal is never explained in Book 7. Rosetta flags it as a mystery and
+the book leaves it there.
 
 Asked in the same exchange whether the arrangement compromises her, Victory is blunt:
 

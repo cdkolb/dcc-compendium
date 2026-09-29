@@ -141,20 +141,20 @@ Fopsy traces the transaction: the war mages **traded the [Gate of the Feral Gods
 Elle's hands at Stalwart's death — "with a minion at the Midnight Market in exchange for five of
 the potions." That minion is **Paca**, an agent for Krakaren Prime, who swallows the Gate.
 
-!!! warning "Unresolved: who or what is the Scavenger's Daughter?"
-    This is left explicitly open at the end of Book 7. Carl asks directly —
+Who or what the Scavenger's Daughter actually is is left explicitly open at the end of Book 7.
+Carl asks directly —
 
-    > **Carl:** Mordecai, who is the Scavenger? And who is the Scavenger's Daughter? I know it's the
-    > name of my patch, but I didn't know there was more to it than that.
-    >
-    > **Mordecai:** Are you talking about the in-dungeon one or the fairy tale? Either way, that's a
-    > conversation that's not going to matter if you don't figure out how to find and kill those two
-    > warlords...
+> **Carl:** Mordecai, who is the Scavenger? And who is the Scavenger's Daughter? I know it's the
+> name of my patch, but I didn't know there was more to it than that.
+>
+> **Mordecai:** Are you talking about the in-dungeon one or the fairy tale? Either way, that's a
+> conversation that's not going to matter if you don't figure out how to find and kill those two
+> warlords...
 
-    — and never gets an answer. Carl's own speculation later is that the Scavenger's Daughter the
-    war mages took might be **Samantha's** daughter, which would make Samantha the Scavenger: "I
-    still didn't know who that was. I really needed to sit down and figure all this out." This is a
-    hunch, not a reveal. The wiki does not identify the Scavenger.
+— and never gets an answer. Carl's own speculation later is that the Scavenger's Daughter the
+war mages took might be **Samantha's** daughter, which would make Samantha the Scavenger: "I
+still didn't know who that was. I really needed to sit down and figure all this out." This is a
+hunch, not a reveal. The wiki does not identify the Scavenger.
 
 ## Book 8: A Parade of Horribles
 

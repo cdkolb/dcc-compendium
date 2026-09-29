@@ -98,22 +98,22 @@ already."
 
 ## The Hidden Stitching
 
-!!! warning "Foreshadowing — unresolved"
-    The clear stitching resolves on the final page of the book. As Carl and Donut are being lifted
-    off Cuba, Donut sees the jacket glowing and finally makes out the image: "*It's not an aardvark
-    like I thought. It's a giant centipede! The image is of a centipede crawling through all the
-    skulls!*"
+The clear stitching resolves on the final page of the book. As Carl and Donut are being lifted
+off Cuba, Donut sees the jacket glowing and finally makes out the image: "*It's not an aardvark
+like I thought. It's a giant centipede! The image is of a centipede crawling through all the
+skulls!*"
 
-    A centipede is a **Scolopendra** reference — the same entity behind the "Scolopendra levels"
-    of *[Zerzura](../spells/zerzura.md)* and, per in-dungeon rumour, connected to the Bedlam Bride
-    herself ("*one dwarf say she is the daughter of the great centipede. Another say she's the
-    sister. Another claimed she's the mother*"). Book 6 does not explain the connection.
+A centipede is a **Scolopendra** reference — the same entity behind the "Scolopendra levels"
+of *[Zerzura](../spells/zerzura.md)* and, per in-dungeon rumour, connected to the Bedlam Bride
+herself ("*one dwarf say she is the daughter of the great centipede. Another say she's the
+sister. Another claimed she's the mother*"). Book 6 does not explain the connection.
 
-    At the same moment a voice speaks in Carl's mind: *"You did not diffuse your soul power from
-    the Scavenger's Daughter. That was a mistake. You should never allow it to linger within you.
-    I need you alive, Carl. I need you reasonably sane. We have so much work to do."* The speaker
-    is not named. Carl had indeed forgotten to spend a full essence bar, which the item's own
-    description had warned about in a joke he was told to ignore.
+At the same moment a voice speaks in Carl's mind: *"You did not diffuse your soul power from
+the Scavenger's Daughter. That was a mistake. You should never allow it to linger within you.
+I need you alive, Carl. I need you reasonably sane. We have so much work to do."* The speaker
+is not named. Carl had indeed forgotten to spend a full essence bar, which the item's own
+description had warned about in a joke he was told to ignore. It's never stated in the text who
+the speaker is or how the centipede image connects to the Bedlam Bride.
 
 ## Book 7: Soul Poisoning
 
@@ -206,10 +206,10 @@ Daughter patch. **Every new god gave me either a buff or debuff**.*" The simulta
 Never-Ending Mana, Shit-Faced, Stiff Legs, suction cups on his fingers, screaming worms — is what
 finally **overloads the Pauper's Ring**.
 
-!!! note "Still unanswered"
-    In chapter 78 Carl asks Mordecai outright who the Scavenger and the Scavenger's Daughter
-    actually are. Mordecai deflects — "*in-dungeon one or the fairy tale?*" — and the question is
-    never answered. The Book 6 centipede/Scolopendra stitching is likewise not explained in Book 7.
+In chapter 78 Carl asks Mordecai outright who the Scavenger and the Scavenger's Daughter
+actually are. Mordecai deflects — "*in-dungeon one or the fairy tale?*" — and the question remains
+unanswered as of the end of Book 7. The Book 6 centipede/Scolopendra stitching is likewise not
+explained in Book 7.
 
 ## Related
 

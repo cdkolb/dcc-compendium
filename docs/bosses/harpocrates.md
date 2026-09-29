@@ -96,10 +96,9 @@ Crime*](../spells/war-crime.md), he watches his own stolen half get pulverised.
 
 Carl keeps the Pied Piper skill permanently; Donut keeps the grudge.
 
-!!! note "Unresolved"
-    The text does not narrate a formal end to the Conscription — Harpocrates simply leaves the realm
-    at the moment Meatus is destroyed, threatening Donut on the way out. His threat against the
-    "Champion of Nekhebit" is left open.
+The text does not narrate a formal end to the Conscription — Harpocrates simply leaves the realm
+at the moment Meatus is destroyed, threatening Donut on the way out. His threat against the
+"Champion of Nekhebit" is left open.
 
 ---
 *Sourced from Book 7: This Inevitable Ruin.*

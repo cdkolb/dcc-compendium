@@ -15,13 +15,10 @@ Floor 11 prologue supplies the physical description, in the form of a fantasy ab
 "the thin-necked, hairy bitch until all six eyes popped out of her head." Donut later shortens it
 to "this six-eyed Huanxin lady."
 
-Beyond six eyes, hair, and a thin neck, Book 6 gives no further physiology.
-
-!!! warning "Unresolved"
-    Book 6 never describes the Grixist limb count, homeworld, or the nature of the "Grixist Swarm"
-    as a political entity — the name appears only in Huanxin's sponsor tag and in the case citation
-    *Grixist Swarm v. Syndicate Council*. Mordecai's briefing is entirely about Huanxin personally,
-    not her species.
+Beyond six eyes, hair, and a thin neck, Book 6 gives no further physiology. Book 6 never describes
+the Grixist limb count, homeworld, or the nature of the "Grixist Swarm" as a political entity — the
+name appears only in Huanxin's sponsor tag and in the case citation *Grixist Swarm v. Syndicate
+Council*. Mordecai's briefing is entirely about Huanxin personally, not her species.
 
 ## Huanxin Jinx
 

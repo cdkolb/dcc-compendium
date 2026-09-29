@@ -179,8 +179,7 @@ which means the entire operation was aimed at an enemy that no longer had an arm
 never explained: "Prepotente did something—the details of which were still unclear—that killed off a
 huge chunk of their army."
 
-!!! note "Unresolved"
-    Carl asks him directly how he did it and never gets an answer. The book never returns to it.
+Carl asks him directly how he did it and never gets an answer. The book never returns to it.
 
 He did not get to finish. The naga called foul, claiming he was an unofficial agent of the Princess
 Posse. He won the hearing, then threatened the entire quorum — including Baroness Victory — and was
@@ -285,11 +284,10 @@ Then it simply changes hands:
 
 > I had no idea how the memorial crystal had gotten from Osvaldo to Prepotente without a fight.
 
-!!! note "Unresolved"
-    The transfer happens entirely off-page. Carl decides to sit Prepotente down and explain the whole
-    Emberus business when things calm down, expecting him to be "an ass about it," and never gets the
-    chance inside Book 7. The wider Emberus/Apito material is a Mechanics topic; what matters here is
-    that the crystal is now Prepotente's and that it is the live thread in [Carl](carl.md)'s quest.
+The transfer happens entirely off-page. Carl decides to sit Prepotente down and explain the whole
+Emberus business when things calm down, expecting him to be "an ass about it," and never gets the
+chance inside Book 7. The wider Emberus/Apito material is a Mechanics topic; what matters here is
+that the crystal is now Prepotente's and that it is the live thread in [Carl](carl.md)'s quest.
 
 ### Around the floor
 
@@ -392,13 +390,11 @@ the boss fight's end it's pulled from around his neck:
 > stole my memorial crystal! The thief pulled it right off my neck! I have filed a formal complaint
 > with the Epicure!
 
-!!! note "Which deity — a correction"
-    Prepotente never names the thief on the page, and Carl's own follow-up guess points not at Eris
-    but at the god who is confirmed to leave the realm carrying off both **Krakaren Prime** and
-    **Samantha** at the same moment — implied, though not stated outright, to be **Taranis**: "I
-    think Krakaren has something to do with Apito. So does Samantha. And he took the memorial
-    crystal because it contains all her memories and spells." Treat the identity of the thief as
-    unconfirmed rather than settled either way.
+Prepotente never names the thief on the page. Carl's own follow-up guess points not at Eris but at
+the god who is confirmed to leave the realm carrying off both **Krakaren Prime** and **Samantha** at
+the same moment — implied, though not stated outright, to be **Taranis**: "I think Krakaren has
+something to do with Apito. So does Samantha. And he took the memorial crystal because it contains
+all her memories and spells." The thief's identity is unconfirmed rather than settled either way.
 
 He is left, by the book's end, both without his crystal and without the protection it provided —
 and Carl's only promise is "I'll see what we can do."

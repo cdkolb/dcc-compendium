@@ -266,12 +266,11 @@ passing while complaining about the mess Larracos has made of the 12th floor:
 > fucking Odette has taken control of them because she’s already taken out Inpewt, and it’s a big mess and the
 > games haven’t even started yet.”
 
-!!! note "Unresolved"
-    The campaign is established but never narrated. No scene shows Odette killing a god, and no count is given.
-    Her Book 6 stated aim was Huanxin Jinx — “It’s going to kill me, most likely. But that’s okay. It’ll kill
-    her, too.” — and Book 7 kills Huanxin without Odette present, by Donut’s *Laundry Day* and a crossbow bolt
-    packed with Mordecai’s mother’s ashes. Whether the sub-pantheon purge was aimed at Huanxin, at the Ascendent
-    throne, or at something else is not answered on the page.
+The campaign is established but never narrated, though. No scene shows Odette killing a god, and no count is given.
+Her Book 6 stated aim was Huanxin Jinx — “It’s going to kill me, most likely. But that’s okay. It’ll kill
+her, too.” — and Book 7 kills Huanxin without Odette present, by Donut’s *Laundry Day* and a crossbow bolt
+packed with Mordecai’s mother’s ashes. Whether the sub-pantheon purge was aimed at Huanxin, at the Ascendent
+throne, or at something else is not answered on the page.
 
 ### Still Unforgiven
 

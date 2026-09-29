@@ -183,15 +183,14 @@ Victory and Zev; neither answers quickly, which worries him more. Victory's even
 dodges the question entirely: "I don't know where Akuma went. That team is officially defeated and
 therefore no longer under our authority."
 
-!!! note "Unresolved"
-    Three threads are left open. What the war mages were testing their gathered potions *for* is
-    never explained. Who or what "the Scavenger's daughter, who was hidden within the castle" is —
-    a person, given Akuma's "she" — is never established; Carl asks **Mordecai** directly ("who is
-    the Scavenger? And who is the Scavenger's Daughter? I know it's the name of my patch, but I
-    didn't know there was more to it than that") and is brushed off. See
-    [The Scavenger's Daughter](../items/the-scavengers-daughter.md). And Akuma's reference to facing
-    **Scolopendra** — and to Elle being "the one on the Four Seasons path" — is dropped without
-    follow-up.
+Three threads are left open here. What the war mages were testing their gathered potions *for* is
+never explained. Who or what "the Scavenger's daughter, who was hidden within the castle" is — a
+person, given Akuma's "she" — is never established; Carl asks **Mordecai** directly ("who is the
+Scavenger? And who is the Scavenger's Daughter? I know it's the name of my patch, but I didn't
+know there was more to it than that") and is brushed off. See
+[The Scavenger's Daughter](../items/the-scavengers-daughter.md). And Akuma's reference to facing
+**Scolopendra** — and to Elle being "the one on the Four Seasons path" — is dropped without
+follow-up.
 
 ## Book 8: A Parade of Horribles
 
@@ -243,9 +242,8 @@ of intent to leave, and he later appears only as one of several named figures (a
 Li Na, Samantha, and others) flashed across the screen during the system AI's galaxy-wide Ascendency
 announcement in the epilogue, implying continued relevance rather than closure.
 
-!!! note "Unresolved"
-    Book 8 never confirms what became of Akuma after Heat 5, nor what the War Mage Rebellion's
-    ultimate relationship to the Pineapple Cabaret and the Scavenger's Daughter turns out to be.
+Book 8 never confirms what became of Akuma after Heat 5, nor what the War Mage Rebellion's
+ultimate relationship to the Pineapple Cabaret and the Scavenger's Daughter turns out to be.
 
 ## See also
 

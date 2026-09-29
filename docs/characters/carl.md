@@ -628,13 +628,12 @@ compared carrying it around to asbestos, then told him to forget it said anythin
 > never allow it to linger within you. **I need you alive, Carl. I need you reasonably sane. We have
 > so much work to do.***
 
-!!! warning "Unresolved — the Scolopendra hook"
-    The book never explains the centipede image and never says the word "Scolopendra" at this
-    moment. What it has established elsewhere: **Scolopendra** is the final boss of the whole
-    dungeon; the Reminiscence Hydra is a rebranded "Scolopendra Nymph"; a cookbook note speculates
-    that Shi Maria is the great centipede's daughter, or sister, or mother; the galaxy's wealth is
-    gathered in something called the **Scolopendra Club**; and the arcade cabinet in Carl's father's
-    trailer was Centipede. None of this is resolved in Book 6.
+The book never explains the centipede image and never says the word "Scolopendra" at this moment.
+What it has established elsewhere: **Scolopendra** is the final boss of the whole dungeon; the
+Reminiscence Hydra is a rebranded "Scolopendra Nymph"; a cookbook note speculates that Shi Maria
+is the great centipede's daughter, or sister, or mother; the galaxy's wealth is gathered in
+something called the **Scolopendra Club**; and the arcade cabinet in Carl's father's trailer was
+Centipede. None of this is resolved in Book 6.
 
 Carl's last thought as Cuba is stripped off the face of the Earth beneath him:
 
@@ -1030,24 +1029,23 @@ on the Madness — "followed by what Donut calls the 'Coup De War Crime.'" It wi
 - Larracos ends the book destroyed by Emberus, the Nothing broken open by Justice Light's trap, and
   **Scolopendra awake**.
 
-!!! note "Unresolved"
-    In the epilogue, negotiating exit deals he has no intention of taking, Carl learns from
-    [Quasar](quasar.md) that Donut has been assigned a separate attorney:
+In the epilogue, negotiating exit deals he has no intention of taking, Carl learns from
+[Quasar](quasar.md) that Donut has been assigned a separate attorney:
 
-    > He shrugged. "I was hoping so. That's why I wore this tie. I argued it, but they assigned her
-    > another lawyer. Her name is Princess Chandra, Esquire. Apparently her and Donut already had
-    > their meeting, and now that you've officially declined your offers I can tell you she declined
-    > as well. I am hearing there were some serious fireworks during their meeting. And not the good
-    > kind. We need to have a serious talk about her. Donut's lawyer, I mean."
-    >
-    > I grunted. "Why? Is she another catgirl?"
-    >
-    > "No. Worse, buddy. She's your new wife."
+> He shrugged. "I was hoping so. That's why I wore this tie. I argued it, but they assigned her
+> another lawyer. Her name is Princess Chandra, Esquire. Apparently her and Donut already had
+> their meeting, and now that you've officially declined your offers I can tell you she declined
+> as well. I am hearing there were some serious fireworks during their meeting. And not the good
+> kind. We need to have a serious talk about her. Donut's lawyer, I mean."
+>
+> I grunted. "Why? Is she another catgirl?"
+>
+> "No. Worse, buddy. She's your new wife."
 
-    That is the last line of the epilogue's Carl thread. The book offers no explanation of when, how
-    or to whom he was married, and Carl has no idea either. The only earlier hint is Eris, in Chapter
-    76, kissing him and remarking "Oh, I wish you weren't already married" — which Carl registers at
-    the time ("Already married? I thought") and never resolves.
+That is the last line of the epilogue's Carl thread. The book offers no explanation of when, how
+or to whom he was married, and Carl has no idea either. The only earlier hint is Eris, in Chapter
+76, kissing him and remarking "Oh, I wish you weren't already married" — which Carl registers at
+the time ("Already married? I thought") and never resolves.
 
 ## Book 8: A Parade of Horribles
 

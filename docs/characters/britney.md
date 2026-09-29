@@ -168,11 +168,10 @@ Juice Box cannot feel anything on Carl either, who is definitely carrying a pres
 goddess may simply have lied. Elle wants to just ask Britney; Carl refuses — "If it's a presence like
 mine, we don't want it to hurt her if it suspects we know it's there."
 
-!!! note "Unresolved"
-    The book never confirms or disproves Eris's claim. No axe is ever found, no possession is ever
-    demonstrated, Britney is never told, and the thread is not picked up again before the floor ends.
-    The description box for Eris says she is All Knowing and that "If she gives you information, it's
-    probably true" — while also noting she is able to lie. Nothing in Book 7 settles it either way.
+The book never confirms or disproves Eris's claim. No axe is ever found, no possession is ever
+demonstrated, Britney is never told, and the thread is not picked up again before the floor ends.
+The description box for Eris says she is All Knowing and that "If she gives you information, it's
+probably true" — while also noting she is able to lie. Nothing in Book 7 settles it either way.
 
 ### Exit
 
@@ -225,11 +224,10 @@ there already, armed with a pickaxe, alongside a Taurin named Pontiff and the de
 [Forkith](supporting-cast.md). Whatever she's doing with the Ysalte crystal there is not shown on the
 page.
 
-!!! warning "Still unconfirmed"
-    Book 7 left open, via the goddess Eris's own unverified claim, whether Britney is possessed or
-    influenced by Ysalte. Book 8 does not resolve this either way — it only confirms Britney is now
-    pursuing Ysalte's revival on purpose, with a specific object and a specific destination. Whether
-    that pursuit is her own will or something else's is not settled by anything in this book.
+Book 7 left open, via the goddess Eris's own unverified claim, whether Britney is possessed or
+influenced by Ysalte. Book 8 does not resolve this either way — it only confirms Britney is now
+pursuing Ysalte's revival on purpose, with a specific object and a specific destination. Whether
+that pursuit is her own will or something else's is not settled by anything in this book.
 
 ---
 *Sourced from Book 4: The Gate of the Feral Gods, Book 5: The Butcher's Masquerade, Book 6: The

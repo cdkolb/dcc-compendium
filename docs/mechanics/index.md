@@ -431,13 +431,12 @@ know what that really is." The same passage reveals what happens to the failures
 > Coincidentally, the mantis-led Burrower Faction Wars team took their ball and went home the very
 > same day I learned about this.)"
 
-!!! warning "Unresolved: is the system AI one of the rejects?"
-    The narrating [system AI](../characters/the-system-ai.md) strongly implies it is itself one of
-    the rejected infant AIs, but never says so. Its self-defense — "you don't pull a Loretta Young
-    and Clark Gable and kick your kid out into the cold just because they're ugly … **I'm alive.
-    I'm valid. I'm older than time as you know it**" — is delivered as an aside inside an
-    achievement notification, in the middle of the jettisoning revelation. The book does not
-    confirm the connection, and neither does this wiki.
+It's never confirmed whether the narrating [system AI](../characters/the-system-ai.md) is itself
+one of these rejected infant AIs, though it strongly implies as much without ever saying so
+outright. Its self-defense — "you don't pull a Loretta Young and Clark Gable and kick your kid out
+into the cold just because they're ugly … I'm alive. I'm valid. I'm older than time as you know
+it" — is delivered as an aside inside an achievement notification, in the middle of the
+jettisoning revelation. The book does not confirm the connection, and neither does this wiki.
 
 <a id="ai-goes-primal-book-6"></a>
 
@@ -518,14 +517,14 @@ him out before the speech finishes and gives him the official reading: the whole
 > failsafe, which would, in effect, kill this solar system's star. In either of those scenarios, it
 > would be the end of the crawl for a long time."
 
-!!! warning "Unresolved: Orren's account versus the epilogue"
-    Orren describes a farcical failed scheme by disgruntled ex-crawlers. The epilogue instead shows
-    Agatha — whom Orren himself calls "a Residual, though she is a different kind" — as "Agent
-    number 22," a decade detached from her own collective, running a long operation against
-    thousands of rival agents working for the Apothecary, over control of the system AI and the fate
-    of the Eulogist. The two accounts sit in obvious tension; the book never adjudicates them, and
-    neither does this wiki. (The compound label "Residual Agent 22" is a convenience: the text
-    supplies "a Residual" and "Agent number 22" in separate scenes.)
+Orren's account and the epilogue's own depiction of events sit in obvious tension, and the book
+never adjudicates between them. Orren describes a farcical failed scheme by disgruntled
+ex-crawlers, but the epilogue instead shows Agatha — whom Orren himself calls "a Residual, though
+she is a different kind" — as "Agent number 22," a decade detached from her own collective, running
+a long operation against thousands of rival agents working for the Apothecary, over control of the
+system AI and the fate of the Eulogist. (The compound label "Residual Agent 22" used elsewhere on
+this wiki is a convenience: the text supplies "a Residual" and "Agent number 22" in separate
+scenes.)
 
 ## Why the Crawl Exists (Book 6)
 
@@ -1200,10 +1199,9 @@ The win conditions, as announced:
 - An attacking team is eliminated if its warlord(s) die, or if its own primary base's throne room
   is taken and held for six hours.
 
-!!! warning "A mid-book amendment"
-    Agatha's third Emergency Action Item bolts an extra rule onto this phase partway through:
-    during the Peeling Phase, the warlords *and every soldier* of a defeated team drop dead where
-    they stand. That is an in-story amendment, not part of the original Peeling ruleset.
+Partway through the Peeling Phase, Agatha's third Emergency Action Item amends that last rule:
+from that point on, the warlords *and every soldier* of a defeated team drop dead where they
+stand, rather than only the warlord(s) as in the original ruleset above.
 
 ### Other Battlefield Rules
 

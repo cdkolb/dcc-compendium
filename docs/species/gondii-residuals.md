@@ -125,11 +125,10 @@ the upgrade is, only that "it would be dangerous to the Eulogist."
 Both sides agree on one thing: the mantis breakthrough in "stable" macro-AI manufacture means this
 crawl is very likely their last chance at an AI that can still be reached.
 
-!!! warning "Unresolved"
-    The book never states what Paulie was about to say ("how to shut off the..."), what the hidden
-    upgrade is, or what the Eulogist actually is beyond the Nebulars' and the Residuals' competing
-    reverence for the AI at the galaxy's centre. It also never clarifies whether "the traitor" is a
-    single individual or a personification of the rival faction.
+The book never states what Paulie was about to say ("how to shut off the..."), what the hidden
+upgrade is, or what the Eulogist actually is beyond the Nebulars' and the Residuals' competing
+reverence for the AI at the galaxy's centre. It also never clarifies whether "the traitor" is a
+single individual or a personification of the rival faction.
 
 ## The Residual trap
 

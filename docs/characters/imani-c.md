@@ -199,11 +199,10 @@ Carl knows immediately that he has done something he cannot undo:
 
 He never tells her, and neither of them ever raises it. See [Chris Andrews](chris-andrews.md).
 
-!!! note "Unresolved"
-    Nothing comes of it in Book 7. The closest the two of them get on-page is a single moment before
-    the Madness assault, with both of them expecting to die: "I watched as Imani walked up and gave
-    Chris a quick hug using her wings, not her arms. Chris reached up, as if to touch her face, but
-    stopped just short."
+Nothing comes of it in Book 7. The closest the two of them get on-page is a single moment before
+the Madness assault, with both of them expecting to die: "I watched as Imani walked up and gave
+Chris a quick hug using her wings, not her arms. Chris reached up, as if to touch her face, but
+stopped just short."
 
 ### Elsewhere on the floor
 

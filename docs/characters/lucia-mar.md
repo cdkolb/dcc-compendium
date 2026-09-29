@@ -291,12 +291,11 @@ Carl’s response: “I almost killed her, Zev. You almost let me kill her.” A
 switch. A psychotic one. And she just lost her bodyguard. Don’t let her leave. Keep her safe.” Zev’s answer:
 “It’s out of my control, Carl.”
 
-!!! note "Unresolved"
-    “The Eulogist” is the name for the AI of the centre system, and it runs through the whole book attached to
-    the residual **Agatha**, the Nebular cult and the Open Intellect — see
-    [Game Mechanics](../mechanics/index.md). What Lucia’s alliance with it consists of, who “Diah” and
-    “Alexandro” are, how children came to be inside her head, and why the dogs govern which of them is driving
-    are all raised and none are answered.
+“The Eulogist” is the name for the AI of the centre system, and it runs through the whole book
+attached to the residual **Agatha**, the Nebular cult and the Open Intellect — see
+[Game Mechanics](../mechanics/index.md). What Lucia’s alliance with it consists of, who “Diah” and
+“Alexandro” are, how children came to be inside her head, and why the dogs govern which of them is
+driving are all raised and none are answered.
 
 ### Afterwards
 

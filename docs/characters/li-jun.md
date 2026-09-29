@@ -168,11 +168,10 @@ Then, in the wreckage:
 > "No, no, Li Jun. No," I whispered, my voice hoarse. I thought of that moment when we'd been face to
 > face. Was that real? What did that mean?
 
-!!! note "Unresolved"
-    The book never explains the vision. Carl himself cannot tell whether it was real, and nobody else
-    saw it. The creature was a dead changeling that Houston had been surgically operating on while
-    raving about something he called **the Beautiful Place**; no connection between that and Li Jun's
-    appearance is ever drawn.
+The book never explains the vision. Carl himself cannot tell whether it was real, and nobody else
+saw it. The creature was a dead changeling that Houston had been surgically operating on while
+raving about something he called **the Beautiful Place**; no connection between that and Li Jun's
+appearance is ever drawn.
 
 ### Afterwards
 

@@ -24,12 +24,11 @@ Confirmed, in-order data points from across the series:
 | **10** | Book 5, ch. 8 | "**Your Fear spell has been upgraded five levels! It is now level 10!**" — a flat +5 correction from a Platinum Asshole's Box, explicitly framed by the system as fixing an undertrained stat rather than a bonus. At 10: 2% paralyze chance, wide-area casting instead of single-target, and it can now be imbued into smoke curtains/explosives (risking "Dud" status on the item) |
 | **11** | Book 6, ch. 42 | "I cast *Fear*, zeroing out my mana points to cast the level-11 spell **at full strength**" — confirms level 11 by this point in Book 6, and reveals a separate **mana-intensity dial**: spending more than the 3-mana base apparently casts a stronger version ("full strength"). No formula or exact mana-to-power ratio is given — this is the only data point for that mechanic |
 
-!!! note "Unresolved discrepancy in the text"
-    Book 2 ties the area/group effect to **level 5** ("at level five, it would work on groups of
-    mobs"), but the level-10 upgrade in Book 5 is the point where Carl actually gains "wide area"
-    casting on-page. The book never reconciles this — it's possible the level-5 line was
-    Carl's own expectation rather than a confirmed mechanic, since he never demonstrates a
-    group-cast at level 5. Both quotes are reported here rather than silently picking one.
+Book 2 ties the area/group effect to level 5 ("at level five, it would work on groups of mobs"),
+but the level-10 upgrade in Book 5 is the point where Carl actually gains "wide area" casting
+on-page. The book never reconciles this — it's possible the level-5 line was Carl's own expectation
+rather than a confirmed mechanic, since he never demonstrates a group-cast at level 5. Both quotes
+are reported here rather than silently picking one.
 
 No level-15 mention and no indication *Fear* was ever trained past 15 or hit a stated cap.
 
