@@ -149,7 +149,11 @@ Dominators and the Gimp.
 
 The track is **[The L'Engle Building](../locations/lengle-building.md)**, where the unstable AI runs
 an unauthorized event nicknamed "Ad Infinitum" — playable "what-if" simulations of a crawler's
-alternate life, including Prepotente's own mother as a concert pianist who never raised him. Once Li
+alternate life, including Prepotente's own mother as a concert pianist who never raised him. The AI
+frames the whole race as "a snapshot of my mind when I'm thinking of you" and uses it to wonder aloud
+whether fate is real, landing on deliberate, decisive action as the thing that actually reshapes an
+outcome — see [Game Mechanics: The "What-If" Apartment
+Simulations](../mechanics/index.md#the-what-if-apartment-simulations-ad-infinitum-book-8). Once Li
 Na confirms she survived (a single flower blooms on the tracking cactus), the guild sends **227
 additional volunteers** through the same exploit to the Cabaret. Minus/"Linus" is publicly unmasked as
 the Syndicate's sponsored assassin via crowd-sourced, off-dungeon internet detective work at a

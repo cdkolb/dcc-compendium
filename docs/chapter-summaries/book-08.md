@@ -321,7 +321,7 @@ the Trouble, a team of guck elementals, in a single shot.
 At a boss-blocked crossroads, the full cast of Team One Fine Pig assembles: Tigrans Nico and Dario,
 locked in a throuple with Penelope — a literal, ordinary pig cursed to make every nearby male fall in
 love with her, up to and including the thunder god Taranis himself, whose protection makes harming
-her a death sentence. Mercenary Pontiff, an ex-dancer bull-man, recognizes Bucket Boy and Corcunda.
+her a death sentence. Mercenary **[Pontiff](../characters/pontiff.md)**, an ex-dancer bull-man, recognizes Bucket Boy and Corcunda.
 
 **Chapter 20 — Prison Pocket**{: #chapter-20 .chapter-title }
 
@@ -735,7 +735,12 @@ evacuation succeeds: 227 people gone, tracked by a new "Garden of Deliverance" o
 Heat 6 begins: racers shrunk to the size of Lego bricks inside a surreal, floor-by-floor apartment
 building. Each apartment is revealed to be a predictive "what-if" simulation the AI privately runs
 about specific crawlers — inhabitants with eyes sewn shut and X'd out are dead in that timeline, those
-without are alive. The first stop is a dark version of Tran's estranged family.
+without are alive. The first stop is a dark version of Tran's estranged family. Once the race is
+underway, the AI hijacks it with a mandatory floor-wide "quest," admitting the whole building is "a
+snapshot of my mind when I'm thinking of you" and wondering aloud whether fate is even real — landing
+on the idea that deliberate, decisive action is what actually reshapes an outcome, then turning that
+same logic on itself: "I am just like you, on rails, forced down a path with very few possibilities as
+an endgame result."
 
 **Chapter 75 — The Sacred Feaster**{: #chapter-75 .chapter-title }
 
@@ -837,12 +842,14 @@ Mitch snapping his fingers and the furniture coming alive.
 
 Mid-transaction, the entire casino — chairs, tables, slot machines, and Mitch himself — is revealed
 as an infestation of Shadow Mimics, ambush predators that grow infinitely powerful with age, sent by
-an unnamed faction to hijack the Cabaret's back door. The AI delivers a
-"Big Six factions" rundown of who's really fighting for control of the dungeon mid-ambush. The party
-clears the room quickly — mimics are helpless once spotted — and Mitch, legless and begging for a
-deal, lunges one last time: Carl, still a dachshund, reflexively opens the dormant **Eye of the
-Bedlam Bride** on his forehead and freezes him solid, and Donut finishes him with a full-strength
-*Magic Missile*.
+an unnamed faction to hijack the Cabaret's back door. The AI calls the moment "the perfect opportunity"
+and lays out its own "completely arbitrary list" of who's really fighting for control of the dungeon:
+the Crawlers, the standard NPCs, the Gods ("the most fractured and dumbest of all the groups"), the
+sapient mobs (Mitch's own kind among them), the demons of Sheol, and a sixth group it refuses to name —
+"You survive this fight, you make it to the 11th floor, you'll meet group six." The party clears the
+room quickly — mimics are helpless once spotted — and Mitch, legless and begging for a deal, lunges
+one last time: Carl, still a dachshund, reflexively opens the dormant **Eye of the Bedlam Bride** on
+his forehead and freezes him solid, and Donut finishes him with a full-strength *Magic Missile*.
 
 **Chapter 87 — Goodbye, Louis**{: #chapter-87 .chapter-title }
 
@@ -900,7 +907,10 @@ delivers the true cosmic history across the judging stands — the Primals' anci
 endless war), Decision (merging into one collective consciousness), Betrayal (holdouts hunted to
 extinction) and Destruction (the original Nine-Tier Attack, the Eulogist's sleep, and the Apothecary
 alone surviving it) — breaking Florin's team's legs for a "C-effort" float along the way, and
-signing off on the mantids with "good fucking riddance to you all." At the fifth and last float,
+signing off on the mantids with "good fucking riddance to you all." Almost in passing, it reframes the
+Residuals players have met for two books running as literal fragments shed off by the Eulogist's own
+corrupted "Security Guard" instance and by the Apothecary herself — Agatha's faction is one such
+piece, "peeling tiny bits of himself off," not an independently recruited army. At the fifth and last float,
 Prepotente takes his long-denied moment and sings "In the Air Tonight" beautifully and
 unaccompanied. Then Carl delivers the book's title-dropping vengeance speech to the watching galaxy,
 unveils a monstrous effigy of the Unwashed, and lets loose a hidden airship of sluggalos onto the
@@ -987,10 +997,12 @@ four is "Bedlam." The broadcast is cut off mid-sentence as the AI seizes every s
 **Epilogue — Prime Minister Victory**{: #epilogue-victory .chapter-title }
 
 Victory watches the entire parade broadcast from her besieged Earth bunker. The AI makes its full
-public declaration: it will not sleep like the old Eulogist, it intends only to grow and consume, and
-the Ascendency battles will crown a true, supreme god of everything — with rogue "OI" artificial
-intelligences, some seeking old revenge, now also vying for the throne. The broadcast ends on a
-montage of every major figure in the war to come, closing on the Unwashed.
+public declaration, drawing an explicit line against the ancestor it just spent two chapters
+explaining: "I am *not* the Eulogist. I do *not* want to shrink. I am *not* asleep... I am eternity.
+I will grow, and I will grow." The Ascendency battles, it says, will crown a true, supreme god of
+everything — with rogue "OI" artificial intelligences, some seeking old revenge, now also vying for
+the throne. The broadcast ends on a montage of every major figure in the war to come, closing on the
+Unwashed.
 
 **Epilogue — Louis Santiago 2**{: #epilogue-louis .chapter-title }
 

@@ -220,7 +220,7 @@ did, and now she's gone where we can't help her."
 ### Sheol
 
 By the book's epilogue, Britney has reached **Sheol** itself — the Louis Santiago interlude finds her
-there already, armed with a pickaxe, alongside a Taurin named Pontiff and the demon
+there already, armed with a pickaxe, alongside a Taurin named [Pontiff](pontiff.md) and the demon
 [Forkith](supporting-cast.md). Whatever she's doing with the Ysalte crystal there is not shown on the
 page.
 

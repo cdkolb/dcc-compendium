@@ -883,12 +883,12 @@ Recorded as open questions so the wiki doesn't quietly invent answers:
   [Samantha](../characters/samantha.md#leaving-with-taranis).
 - **Lucia Mar is seen with an unexplained child** at the Floor 11→12 portal. No other character
   present confirms seeing it, and it is never mentioned again.
-- **The Pontiff/Sheol-vs-Cabaret discrepancy.** Multiple characters (Pontiff, and separately Chris
-  Andrews, Britney Proskurina, and Louis Santiago) are sent through the Desperado Club casino's
-  broken "Nothing" wheel spot believing they're headed for the Pineapple Cabaret; the book's closing
-  interlude instead finds Louis and Chris in **Sheol**, met by Britney, Pontiff, and a demon calling
-  himself **Forkith**. Whether this means the route failed, was intercepted, or was never actually
-  connected to the Cabaret is left open. See
+- **The Pontiff/Sheol-vs-Cabaret discrepancy.** Multiple characters ([Pontiff](../characters/pontiff.md),
+  and separately Chris Andrews, Britney Proskurina, and Louis Santiago) are sent through the Desperado
+  Club casino's broken "Nothing" wheel spot believing they're headed for the Pineapple Cabaret; the
+  book's closing interlude instead finds Louis and Chris in **Sheol**, met by Britney, Pontiff, and a
+  demon calling himself **Forkith**. Whether this means the route failed, was intercepted, or was
+  never actually connected to the Cabaret is left open. See
   [The Pineapple Cabaret](../dungeon-factions/pineapple-cabaret.md#open-threads).
 - **What the Mark of the Damned tattoos actually do is never stated.** See
   [Mark of the Damned](../items/mark-of-the-damned.md).

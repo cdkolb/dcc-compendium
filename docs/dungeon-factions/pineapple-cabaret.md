@@ -81,12 +81,13 @@ Akuma describes exactly two known ways in, both discovered or exploited within B
 ### The Wheel of Fortune "Nothing" Spot
 
 The Desperado Club casino's Wheel of Fortune game has a two-space result called "the Nothing." Per
-Akuma, it had previously let their ally Pontiff jump safely into a stasis holding area connected to
-the Cabaret. This is the route Mitch (see [Species: Shadow Mimics](../species/shadow-mimics.md) and
-[Mitch](../bosses/mitch.md)) uses to send **Chris Andrews, Britney Proskurina, and Louis Santiago**
-through — a jump whose actual destination is never confirmed on-page; the book's final interlude
-instead finds Louis and Chris in **Sheol**, met by Britney, Pontiff, and a demon calling himself
-**Forkith** (see [Supporting Cast](../characters/supporting-cast.md)), with no explanation
+Akuma, it had previously let their ally [Pontiff](../characters/pontiff.md) jump safely into a
+stasis holding area connected to the Cabaret. This is the route Mitch (see [Species: Shadow
+Mimics](../species/shadow-mimics.md) and [Mitch](../bosses/mitch.md)) uses to send **Chris Andrews,
+Britney Proskurina, and Louis Santiago** through — a jump whose actual destination is never confirmed
+on-page; the book's final interlude instead finds Louis and Chris in **Sheol**, met by Britney,
+Pontiff, and a demon calling himself **Forkith** (see
+[Supporting Cast](../characters/supporting-cast.md)), with no explanation
 for the diversion. With the Nothing itself broken (a Book 7 development), Akuma warns this route no
 longer opens directly onto the Cabaret but into "some sort of catchall holding area" that Herot can
 pull people out of manually — the same mechanism used to originally recruit NPCs for the

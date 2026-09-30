@@ -18,8 +18,9 @@
 By Book 8, the Desperado Club casino has been rebuilt more ornately than before, and its Wheel of
 Fortune game has a new dealer standing in for the previous croupier, Tito. Carl and party come to
 this "Mitch" hoping to buy access to the game's two-space **"Nothing" spot** — a wheel result that,
-per the war mage [Akuma](../characters/akuma.md), had earlier let their ally Pontiff jump safely
-into a stasis "holding area" connected to the **Pineapple Cabaret** (see
+per the war mage [Akuma](../characters/akuma.md), had earlier let their ally
+[Pontiff](../characters/pontiff.md) jump safely into a stasis "holding area" connected to the
+**Pineapple Cabaret** (see
 [the war mage rebellion](../factions/war-mage-rebellion.md) for the Cabaret's own background).
 
 Examining Mitch returns an unusually blocked-out description:
@@ -97,8 +98,8 @@ encounter in full rather than duplicated here.
 - The party never learns whether the crawlers Mitch sent through the Nothing spot (Chris, Britney,
   Louis) actually reached the Pineapple Cabaret or somewhere else entirely — the book's final
   interlude shows Louis and Chris instead surfacing in **Sheol**, the fifteenth floor, met by
-  Britney, Pontiff, and a demon calling himself **Forkith**, with no explanation of how or why the
-  jump diverted. This is left an open thread for a future book.
+  Britney, [Pontiff](../characters/pontiff.md), and a demon calling himself **Forkith**, with no
+  explanation of how or why the jump diverted. This is left an open thread for a future book.
 - Neither Hamed (the Desperado Club's current leader) nor Clay-Ton and the other stripper-band NPCs
   are shown to have known about the infestation in advance; the text does not resolve whether the
   club's leadership was complicit.

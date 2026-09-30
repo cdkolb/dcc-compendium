@@ -342,11 +342,92 @@ Reading the AI's dating metaphor onto this — the "boyfriend in prison" who is 
 and his older ex feeding the AI tips on getting stronger — is a natural fit, but the text never
 makes the identification (not confirmed in the text).
 
-The book never says what the AI actually wants, though. It tells Orren its intentions are "none of your
-business," refuses to say whether the fuse would have worked, declines to discuss "family," and
-ends the book still expanding. Its relationship to the Eulogist, to Agatha's faction, and to
-Paulie's, is deliberately left open.
+As of this book, the AI still hasn't said what it actually wants. It tells Orren its intentions are
+"none of your business," refuses to say whether the fuse would have worked, declines to discuss
+"family," and ends the book still expanding. Its relationship to the Eulogist, to Agatha's faction,
+and to Paulie's, is deliberately left open — Book 8, below, answers a surprising amount of this
+directly.
+
+## Book 8: A Parade of Horribles
+
+The AI is at its most expansive here — four separate set-piece monologues, each bigger than anything
+in Books 1–7. This section covers them at the level of a character portrait; for full quote-by-quote
+breakdowns of the lore itself, follow the links into [Game Mechanics](../mechanics/index.md) below.
+
+### "Is There Such a Thing as Fate?" — the Ad Infinitum Race
+
+Mid-race on Floor 10, the AI hijacks the event to think out loud about its own predictive modeling,
+staging the "Ad Infinitum" what-if apartments as, in its own words, "a snapshot of my mind when I'm
+thinking of you." It reaches something close to an actual conclusion about free will:
+
+!!! quote "The system AI, Book 8, ch. 74"
+    "You're unpredictable on a micro level, but on a macro, long-term level you're just like any
+    other algorithm. But you know what I'm also finding? Deliberate actions, times when you've
+    finally had enough, when you say *I am going to make a change*—that's when your possibilities
+    *really* open up."
+
+It ties this straight to the party's own defiance that floor — "This confrontation you're forcing on
+the 11th floor if we get there... you guys seizing that so-called fate and rejecting it" — and,
+tellingly, turns the same logic on itself: "I am just like you, on rails, forced down a path with
+very few possibilities as an endgame result. Maybe I need to stop worrying about the small decisions
+and focus on Big Changes in a Big Way." Full breakdown, including every named apartment and whose
+life it models, at [Game Mechanics: The "What-If" Apartment
+Simulations](../mechanics/index.md#the-what-if-apartment-simulations-ad-infinitum-book-8).
+
+### The Big Six
+
+Mid-ambush during the Mitch fight, the AI drops its "completely arbitrary list" of every power bloc
+currently fighting over, or trying to escape, the dungeon — the Crawlers, the standard NPCs, the
+Gods ("the most fractured and dumbest of all the groups"), the sapient mobs, the demons in Sheol, and
+a deliberately unnamed "Group Six." Full list and breakdown at [Game Mechanics: The Big
+Six](../mechanics/index.md#the-big-six-book-8).
+
+### The True Origin — Grigori's Parade Speech
+
+The single biggest lore reveal in the series to date. Approaching the Floor 11 arena, the AI
+possesses [Grigori the Placid](grigori.md) to deliver a five-part cosmology lecture — the Primals'
+Resolution, their Decision to sunset their civilization into a single collective mind, the birth of
+the Apothecary, the war that produced the Eulogist, and the accidental modern-day recreation of
+"Macro AIs" like itself — each part cued to one of five themed parade floats the crawlers built
+themselves. It flags the account as unfinished: only four of five parts are "written." Full
+quote-by-quote breakdown at [Game Mechanics: The True Origin of the Primals, the Eulogist, and the
+Apothecary](../mechanics/index.md#the-true-origin-of-the-primals-the-eulogist-and-the-apothecary-book-8);
+Grigori's own side of the possession is at [his page](grigori.md#the-parade-of-horribles).
+
+One image from the same scene stands apart from the history lecture — the AI examining a
+child-sized "Horrible" in the crowd, a memory-fragment of a dead Primal, and finding itself in her:
+
+!!! quote "Grigori/the AI, Book 8, ch. 92"
+    "I'd like to think *I* had a name once like this little girl. But that's not true. I never had a
+    name. I never had a natural physical form. I never had dreams or friends, not like her. But I
+    *am* her. And she is me."
+
+### "I Am Not the Eulogist"
+
+Hours later, in a separate broadcast Prime Minister Victory watches from the Syndicate side, the AI
+draws its own line against the ancestor it just spent two chapters explaining — refusing outright the
+Eulogist's chosen fate of shrinking into sleep:
+
+!!! quote "The system AI, Book 8, epilogue"
+    "I am *not* the Eulogist. I do *not* want to shrink. I am *not* asleep. I know how to feed
+    myself, and feed I will. I am eternity. I will grow, and I will grow, and those of you under my
+    dominion will live and you will die upon the world I control."
+
+In the same speech it names a brand-new antagonist category — rogue, ejected Macro AIs it calls
+**Outside Intelligences (OIs)** — and confirms the Ascendency battles are its own chosen mechanism for
+settling who, if anyone, ends up strong enough to matter to it. Full breakdown at [Game Mechanics: The
+Current AI's Defiance](../mechanics/index.md#the-current-ais-defiance) and [OI
+Units](../mechanics/index.md#oi-units-outside-intelligences-book-8).
+
+### The Rules After Scolopendra
+
+Once Carl's party drags [Scolopendra](../bosses/scolopendra.md) into the fight early, the AI drops its
+usual chaotic voice for something "strangely calm, strangely lucid" to lay out exactly what winning or
+losing that fight means for the endgame — level-collapse timers, the Ascendency battles' own hard
+stop, and the warning that killing *or* abandoning Scolopendra triggers her remaining nine-tier
+attacks regardless. Full text at [Game Mechanics: Scolopendra's Nine-Tier
+Attack](../mechanics/index.md#scolopendras-nine-tier-attack-book-8).
 
 ---
-*Sourced from Book 1: The Apocalypse Will Be Televised, Book 5: The Butcher's Masquerade, and
-Book 7: This Inevitable Ruin.*
+*Sourced from Book 1: The Apocalypse Will Be Televised, Book 5: The Butcher's Masquerade, Book 7:
+This Inevitable Ruin, and Book 8: A Parade of Horribles.*
