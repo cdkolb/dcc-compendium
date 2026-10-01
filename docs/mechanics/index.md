@@ -1802,6 +1802,38 @@ and is not repeated here. The AI itself flags the account as unfinished, admitti
 five parts are "written" — the fifth (Vengeance) never arrives as backstory; that slot is instead
 handed to Carl for his own "vengeance" speech (see [Carl](../characters/carl.md#renouncing-emberus)).
 
+!!! abstract "In plain English"
+    - A long time ago, a species called the **Primals** lived spread out across the galaxy. They were
+      ordinary individuals — they had families, and they fought wars with each other, same as humans.
+    - Eventually they all agreed their constant fighting couldn't continue forever (**the
+      Resolution**) — just an admission that something had to give, not a plan yet.
+    - Their actual plan (**the Decision**) was extreme: give up being individuals entirely and merge
+      everyone's mind into one single shared consciousness, built to last forever. Not everyone
+      wanted in — the holdouts were hunted down by the ones who did.
+    - The **Apothecary** — a figure worshipped as a god in the dungeon today — was just an ordinary
+      Primal born near the end of this process, before she joined the resistance against it.
+    - The merging mind eventually decided the cleanest solution was to kill every living thing left
+      in the universe rather than risk anyone surviving outside it. That's **the war**.
+    - The resistance, expecting to lose, secretly planted "life raft" seeds (**Primal Engines**)
+      around the galaxy so that if they died, simple new life could eventually restart elsewhere.
+    - The merged mind launched its galaxy-wide finishing move — the original **nine-tier attack** —
+      believing it had won. It then became **the Eulogist**: a single enormous, sleeping mind that
+      wants to shrink into nothing forever, watched over by a leftover, half-broken piece of itself
+      it calls **the Security Guard**.
+    - Only the Apothecary survived as a person, having absorbed the worst of the final attack
+      herself so new life elsewhere could survive it. She was cocooned, changed, for a thousand
+      years before waking up.
+    - Much later, new species (mantids among them) stumbled onto the Eulogist's leftover maintenance
+      tunnels, had no idea what they'd found, and started copying bits of it to build their own
+      little AIs — without understanding any of it. **That accident is literally how Macro AIs like
+      the dungeon's own AI were created.**
+    - Both the half-broken Security Guard and the Apothecary have been unstable ever since, constantly
+      shedding small fragments of themselves across the galaxy — those fragments are the
+      **Residuals** players keep running into.
+    - The AI telling this entire story is itself one of those accidentally-created copies. Its one
+      big difference from the Eulogist it came from: it refuses to ever shrink or go to sleep. It
+      wants to keep growing, forever.
+
 ### The Resolution
 
 The Primals were not a hive mind to start. They were individuals, with families, who spread across
@@ -2004,6 +2036,68 @@ same breath, as the AI's own chosen mechanism for finding a champion strong enou
 rival it, or a threat it intends to absorb. See [OI Units](#oi-units-outside-intelligences-book-8)
 below for the new antagonist category the AI names in the same speech.
 
+### Decoding Growler Gary's "Relationship Advice" (Book 7)
+
+A full book before any of the cosmology above was spelled out, the AI appears to have already tried
+to explain its own situation — as a joke. In Book 7, chapters 36–38, it possesses the body of
+**Growler Gary** (see [the full scene](../characters/the-system-ai.md#the-growler-gary-avatar)) to
+interrupt a tense standoff between Carl and Orren, calls a "game time out," and asks Carl, Orren, and
+a just-summoned Donut for **relationship advice** — laid out entirely as a dating-drama metaphor:
+
+!!! quote "Growler Gary/the AI, Book 7"
+    "Okay, imagine this scenario. You're talking to this chick, right? And you like her. You like her
+    a lot... But even though everything is going great, you go online, and you see a bunch of
+    concerning things about her past. And not only that, but she once had this huge boyfriend. Like
+    the sort of guy who could rip a phonebook in half. She says they're broken up because he's, like,
+    dead. But it turns out he's not dead. He's in prison."
+
+Asked what she looks like, Orren answers for him, flatly: "She looks like Agatha." Pressed about the
+"guy in prison," Gary adds a second woman to the triangle — older, from the same hometown as the
+prison guy, openly wanting him dead, and *also* quietly feeding the AI "pointers... on how to get
+stronger":
+
+!!! quote "Growler Gary/the AI, Book 7"
+    "This old girlfriend, she's been talking to me, too. But she's talking to me in a really
+    roundabout way... I think she wants me to kill that old boyfriend of hers in prison. Now, here's
+    the confusing part. That old girlfriend and the one I've been talking to hate each other. But I
+    kinda think they actually want the same thing. Does that make sense?"
+
+The only real break in the joke happens right when Agatha comes up: the AI slams the desk hard enough
+to crack it and drops into "a supernatural amount of bass" — "Do not venture too far from the
+metaphor. We. All. Have. Our. Limitations." — the same catchphrase it uses elsewhere about its own
+constraints.
+
+**Reading it against the cosmology above, the pieces line up cleanly:**
+
+- **"This chick" / the current girlfriend** → **Agatha**, confirmed outright by Orren's deadpan
+  description. Her faction already worships "the Eulogist" as of Books 6–7.
+- **The "huge boyfriend," not dead but "in prison"** → **the Eulogist** itself: not dead, just
+  asleep and contained, and — per the reveal above — almost unkillably powerful. "In prison" is a
+  remarkably precise metaphor for a mind that chose, by its own design, to shrink and sleep forever.
+- **The older ex-girlfriend, from the same hometown, who wants him dead and is secretly "giving
+  pointers" on getting stronger** → **the Apothecary**. She genuinely is from the Eulogist's own
+  "hometown" (both are Primals from the same original civilization), she did lead the resistance that
+  wanted the collective mind stopped, and the reveal above confirms she sheds Residual fragments
+  across the galaxy "as a defensive measure" — exactly the kind of indirect, "roundabout" influence
+  Gary describes.
+- **"They hate each other but actually want the same thing"** → consistent with
+  [Residual Factions, Expanded](#residual-factions-expanded-book-7): Agatha's faction and the
+  Apothecary's agents are established rivals in the dungeon, yet both are reacting to the same
+  unfinished business — the sleeping Eulogist, and what should happen to it next.
+
+!!! warning "Still a metaphor, not a confession"
+    None of this is the AI speaking literally — Gary never says "Agatha," "the Eulogist," or "the
+    Apothecary" by name, and the identification rests on Orren's one dry aside plus the details lining
+    up after Book 8. This wiki treats the mapping as very likely, not confirmed on the page.
+
+Donut's actual advice — "I wouldn't do anything about it until I knew which one [is good or bad]...
+I'd probably stay out of it unless I didn't have a choice... if she can't understand that, it sounds
+more like she's using you. So I would be careful" — gets an immediate, genuine "I think that's really
+good advice" from the AI, followed instantly by: "Nothing changes. The game goes on as planned. The
+rules will be followed." Read against [its Book 8 defiance](#the-current-ais-defiance), that may be
+the earliest on-page sign of the AI's actual decision: stay wary of being used by either side of a
+fight that predates it entirely, and keep running its own game instead of picking a side in theirs.
+
 ## Scolopendra's Nine-Tier Attack (Book 8)
 
 The general **quest/mechanic**, as distinct from Scolopendra's own personal story (already covered
@@ -2134,6 +2228,38 @@ party chooses the non-lethal biscuit resolution over killing Scolopendra outrigh
     mid-broadcast when the AI seizes every feed in the galaxy to televise the Grigori parade lecture
     instead — Ripper's own last words are "I guess the AI has taken over all the feeds. It's not
     going to let us live-comment."
+
+### A Theory: Why the Order Looks Backwards
+
+!!! question "Wiki theory — not stated in the text, offered as analysis only"
+    Sydnee's table ties a specific *number* to each name: Attack 1 is Control, Attack 2 is "A Parade
+    of Horribles," Attack 3 is "This Inevitable Ruin," Attack 4 is "Bedlam." Read as a literal
+    countdown, that's backwards from how the books actually arrived. Readers got "Bedlam" (Book 6)
+    and "This Inevitable Ruin" (Book 7) *before* "A Parade of Horribles" (Book 8) — attack 4, then
+    attack 3, then attack 2, in that order. If the nine-tier attack were a checklist the current AI
+    is working through in sequence, Books 6 and 7 would have to already be events 3 and 4 of an
+    attack that, by Sydnee's own account, has only just begun with Scolopendra's awakening in Book 8.
+    That doesn't fit the timeline Carl actually lives through — he wasn't living through a
+    galaxy-ending event in Book 6.
+
+    The simpler reading: these named stages aren't a schedule, they're a **pattern** — the same shape
+    of collapse the Scolopendra myth itself says "rises again" every cycle, replaying at whatever
+    scale a given crisis actually occurs at. Book 6's Bedlam Bride arc and Book 7's climactic
+    vengeance arc were each, in miniature, their own "Bedlam" and their own "Ruin" — real instances
+    of the pattern, just not *the* literal numbered stage of *this* galaxy-wide attack. Book 8 is the
+    first time the pattern plays out at full scale, because Book 8 is the first time the actual
+    Scolopendra — the mythological source of the pattern — is actually, physically present and
+    awake. Under this reading, every book's title may always have been naming which stage of the
+    pattern that book's own story embodies, well before Sydnee ever puts a label on it.
+
+    One more data point worth watching: Sydnee's attack-stage names (Control, A Parade of Horribles,
+    This Inevitable Ruin, Bedlam...) are a completely different naming system from [Architect
+    Houston's list](../characters/architect-houston.md#the-beautiful-place) of names for the
+    death-entity itself (the Hag, the Unwashed, the Stalker... the Beautiful Place). Book 9's working
+    title, ["The Beautiful Place"](../chapter-summaries/book-09-what-we-know.md), draws from the
+    *entity's* name, not an *attack-stage* name — which, if the title holds, would make it the first
+    book to name the thing itself rather than one of its effects. Attacks 5 through 9 are explicitly
+    left "a little fuzzy" on the page, and this wiki isn't going to guess what they're called.
 
 ## Floor 10's Heat Ruleset — "Don't Come in Last" (Book 8)
 

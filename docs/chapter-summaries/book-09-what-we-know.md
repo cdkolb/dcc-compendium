@@ -25,6 +25,14 @@ Across all four appearances, the text never explains what the Beautiful Place ac
 Houston's "life's work," and that multiple species independently arrived at death-associated names
 for the same thing.
 
+This naming system — names for the death-entity itself — is separate from the *other* naming reveal
+Book 8 delivers: the historical names for the nine-tier attack's individual stages ("A Parade of
+Horribles," "This Inevitable Ruin," "Bedlam"...), which line up with this series' own book titles. See
+[Game Mechanics: The Nine-Tier Attack's Other
+Names](../mechanics/index.md#the-nine-tier-attacks-other-names-a-meta-reveal-book-8) for that reveal
+and this wiki's own theory on it — including what it might mean that Book 9's working title comes from
+the entity's name rather than an attack-stage name.
+
 ## The title reveal
 
 In June 2026, Matt Dinniman posted the prologue of the still-unfinished Book 9 to Patreon, revealing

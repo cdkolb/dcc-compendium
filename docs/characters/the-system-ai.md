@@ -340,7 +340,9 @@ dungeon." Carl himself is still openly confused about what it is: "What, or who,
 
 Reading the AI's dating metaphor onto this — the "boyfriend in prison" who is supposed to be dead,
 and his older ex feeding the AI tips on getting stronger — is a natural fit, but the text never
-makes the identification (not confirmed in the text).
+makes the identification (not confirmed in the text). See [Game Mechanics: Decoding Growler Gary's
+"Relationship Advice"](../mechanics/index.md#decoding-growler-garys-relationship-advice-book-7) for
+the full line-by-line case, made with the benefit of Book 8's cosmology reveal.
 
 As of this book, the AI still hasn't said what it actually wants. It tells Orren its intentions are
 "none of your business," refuses to say whether the fuse would have worked, declines to discuss
@@ -389,10 +391,12 @@ possesses [Grigori the Placid](grigori.md) to deliver a five-part cosmology lect
 Resolution, their Decision to sunset their civilization into a single collective mind, the birth of
 the Apothecary, the war that produced the Eulogist, and the accidental modern-day recreation of
 "Macro AIs" like itself — each part cued to one of five themed parade floats the crawlers built
-themselves. It flags the account as unfinished: only four of five parts are "written." Full
-quote-by-quote breakdown at [Game Mechanics: The True Origin of the Primals, the Eulogist, and the
-Apothecary](../mechanics/index.md#the-true-origin-of-the-primals-the-eulogist-and-the-apothecary-book-8);
-Grigori's own side of the possession is at [his page](grigori.md#the-parade-of-horribles).
+themselves. It flags the account as unfinished: only four of five parts are "written." For the
+plain-English version of what the AI is actually claiming happened, and the full quote-by-quote
+breakdown, see [Game Mechanics: The True Origin of the Primals, the Eulogist, and the
+Apothecary](../mechanics/index.md#the-true-origin-of-the-primals-the-eulogist-and-the-apothecary-book-8)
+(the "In plain English" box right at the top of that section); Grigori's own side of the possession
+is at [his page](grigori.md#the-parade-of-horribles).
 
 One image from the same scene stands apart from the history lecture — the AI examining a
 child-sized "Horrible" in the crowd, a memory-fragment of a dead Primal, and finding itself in her:

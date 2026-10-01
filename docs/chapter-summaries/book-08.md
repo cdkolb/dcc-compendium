@@ -992,7 +992,11 @@ A struggling historian, drowning in predatory publisher debt, is interviewed liv
 and delivers the book's mythological payoff: the true, ancient names of the historical Nine-Tier
 Attack. Attack one was Control. Attack two — the one just lived through — was called "A Parade of
 Horribles." Attack three is "This Inevitable Ruin," retroactively naming the previous book. Attack
-four is "Bedlam." The broadcast is cut off mid-sentence as the AI seizes every screen in the galaxy.
+four is "Bedlam," echoing Book 6's title. The broadcast is cut off mid-sentence as the AI seizes
+every screen in the galaxy. See [Game Mechanics: The Nine-Tier Attack's Other
+Names](../mechanics/index.md#the-nine-tier-attacks-other-names-a-meta-reveal-book-8) for the full
+quote and this wiki's own theory on why the attack numbers run opposite to the order the books were
+actually published in.
 
 **Epilogue — Prime Minister Victory**{: #epilogue-victory .chapter-title }
 
