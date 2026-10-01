@@ -67,12 +67,124 @@ current as of September 2026:
   Heisserer attached as showrunners. Jeff Hays is expected to continue as audiobook narrator, though
   that hadn't been formally announced as of this writing.
 
+## A Reader Theory: What If It All Connects?
+
+!!! question "Wiki theory — a speculative synthesis, not stated in the text"
+    Everything below is this wiki's own attempt to connect several separate, confirmed reveals from
+    Books 2–8 into one possible shape for how the series ends. None of it is confirmed. Treat it as
+    one reader's best guess, built entirely out of pieces the books have already shown — not a
+    prediction to take to the bank.
+
+### The throughline: Carl is a Primal, and the gods are too
+
+Carl's race, chosen back in Book 2 before any of this cosmology existed on the page, is literally
+called **Primal** — the same name Book 8 gives the ancient species that became the Eulogist. The
+race's own selection text, read in hindsight, is a plain-language summary of the Resolution/Decision/
+War arc, years early: "the boogiemen of the cosmos... spread across the galaxy, then vanished... it
+is said one day they will return." Book 2 also shows a flash-forward clip of an earlier Primal-race
+crawler fighting a "Divine Guardian" on the **twelfth floor**, guarding a gate to the thirteenth —
+the exact floor Book 9 is reported to open on.
+
+The race also carries a demonstrated trait: Prime Minister Victory attributes Carl's consciousness
+briefly merging into Katia's mid-teleport (Book 7) to "the communal nature of his Primal race." And
+in Book 8, staring at a dead Primal's memory-fragment in the parade crowd, Carl has the realization
+that reframes the entire finale: NPCs, mobs, and **gods** are all "aggregate intelligence... Primals.
+All of them. All the way down." If that's true, the Ascendency was never a mismatched fight between
+a crawler and a god. It's the same lineage, at different scales, confronting itself again — which is
+exactly what the Scolopendra myth says keeps happening, cycle after cycle.
+
+### The mechanism: three already-proven ways to pool power
+
+Three separate, already-canon mechanics point at the same capability, which this wiki thinks is the
+real engine of whatever Carl does in the endgame:
+
+1. **Forced totem-merging is proven survivable.** A "Golden Combo" card is what originally fused
+   [Shi Maria](../bosses/shi-maria.md) into Carl's body (Book 6) — not his race, as it turns
+   out, but a mechanic that forcibly combines two present party members into one form, temporarily,
+   on a 180-second clock, unless someone deliberately acts to make it permanent before time runs out.
+2. **Mass skill-pooling is proven at scale.** [The Filthy Little Crawler's Book of
+   Voodoo](../items/the-filthy-little-crawlers-book-of-voodoo.md), combined with the tattoo-transfer
+   system, already let "thousands of departing crawlers permanently giving up their own skills to arm
+   the people staying behind" in Book 6 — a mass transfer of many individuals' power into whoever's
+   left standing.
+3. **Carl has already assembled the vessel.** He ends Book 8 by deliberately partying every single
+   surviving crawler — nineteen people — into one unit, right before heading into the Ascendency.
+   That party now also includes [Scolopendra](../bosses/scolopendra.md) herself: a former level-500
+   Dungeon Boss, currently level 1, whose real remaining power (and the seven still-paused stages of
+   her own personal nine-attack curse) nobody has tested.
+
+Put together: a proven way to fuse entities, a proven way to pool many individuals' abilities into
+one person, and a mega-party that already contains both an ordinary crawler roster and a disguised
+apex predator. None of these three things has been combined on the page yet. All three already exist.
+
+### The attack-stage pattern, and why Carl might already be immune to it
+
+Sydnee's reveal that the historical nine-tier attack's stages share names with this series' own book
+titles (see [Game Mechanics](../mechanics/index.md#the-nine-tier-attacks-other-names-a-meta-reveal-book-8)
+for the full breakdown and this wiki's theory on why the order looks backwards) suggests each stage
+is less a scripted special effect and more a **social or psychological phase a civilization passes
+through** as it loses the will to keep going — Sydnee herself says the second and third attacks were
+"more social in nature... shifts in philosophy," not spells.
+
+If that holds, "This Inevitable Ruin" (attack 3) would be the stage where a civilization accepts,
+all at once, that nothing can be done — and Book 7 already defines that exact concept twice:
+as Everly's retroactive realization that hope was lost long before the moment she notices it, and
+as the literal Hunter Wraith curse, which "doesn't change whatever it is. It just tells you the
+truth." Carl has already rejected this philosophy, out loud, as the thesis of that entire book:
+*"That concept, that curse is bullshit. It's hopelessness, just in another form. Nothing is hopeless.
+Not until we're truly dead."* If a galaxy-scale version of that exact despair ever gets weaponized,
+Carl is the one character already on record refusing to believe it — which would make him immune not
+because he's strong, but because he already decided the thing it depends on isn't true.
+
+"Bedlam" (attack 4) would follow naturally from that: the actual breakdown of order once nobody
+believes resistance is worth maintaining. That's not necessarily a spell that forces people to merge
+— it may just be the chaos that makes Carl's own merge move both necessary and possible, the same way
+the original Eye of the Bedlam Bride was forged in the middle of a losing fight, not a calm one.
+
+### The loose threads already in motion
+
+- **"The Beautiful Place"** is a different naming system entirely — names for the death-entity
+  itself, not an attack stage (see [above](#the-name-in-the-books-so-far)). If the working title
+  holds, Book 9 may be the first book where the crawlers stop surviving another stage of the attack
+  and actually reach the thing behind all of it.
+- **Group Six**, the faction the AI refused to name on Floor 10 ("you'll meet them on Floor 11," never
+  paid off — see [Game Mechanics](../mechanics/index.md#the-big-six-book-8)), is a strong candidate
+  to be the Outside Intelligences the AI names moments later, or specifically
+  [Forkith](../characters/supporting-cast.md)'s Sheol operation, which has already quietly recruited
+  [Pontiff](../characters/pontiff.md), Britney, Louis, and Chris off-page before anyone else knows it
+  exists.
+- **Samantha** is immortal-adjacent, doesn't need air, treats the Nothing like a vacation home, and
+  casually mentioned tricking Krakaren's son into "giving birth to a monster that will destroy all of
+  creation." Given Book 8 confirms both the Eulogist's Security Guard and the Apothecary constantly
+  shed fragments of themselves across the galaxy, she's a plausible candidate to be one of those
+  fragments — hiding as comic relief for six-plus books.
+- **The coin and the missing fifth part.** Eris's five-sided coin offered four scripted, grim fates;
+  Carl broke the mechanism by grabbing it mid-flip instead of letting it land, unlocking a random
+  "fifth side." Grigori's parade speech was five parts, and the fifth — Vengeance — was explicitly
+  "not yet written," handed to Carl to enact live instead of narrated as history. Twice now, a
+  prescribed fifth slot has been filled by Carl's own unscripted choice rather than an external
+  script. That pattern is worth watching for a third time.
+
+### What this adds up to
+
+This wiki's best guess: Carl doesn't out-power the gods in the Ascendency, because that was never
+the actual contest ("Primals, all the way down"). Somewhere in the chaos of a galaxy that's stopped
+believing order is worth defending, he uses the party he's already built — Scolopendra's hidden
+strength, Shi Maria's resident power, whatever the Book of Voodoo network can still move, the
+Primal "communal" trait Victory already diagnosed in him — to pool everything he has into one
+decisive, ticking-clock moment, the same shape as the Golden Combo that made him in the first place.
+He doesn't take the throne at the end of it; every instinct he's shown across eight books is to
+refuse power rather than claim it. The actual ending is closer to Eris's own riddle — *"every exit is
+an entrance"* — a move that breaks the win condition itself rather than satisfies it, the same way he
+didn't kill Scolopendra, he just changed what she was.
+
 !!! note "Sourcing"
-    The book-text citations above are sourced directly from Books 5, 7, and 8. Everything under "What
-    else Dinniman has said publicly" is unofficial, third-party reporting on the author's own public
-    statements (Patreon, interviews, convention panels) — not confirmed by a publisher, and subject to
-    change before Book 9 actually ships. This page will be rewritten with a real chapter-by-chapter
-    summary once Book 9 is out.
+    The book-text citations above are sourced directly from Books 2, 5, 6, 7, and 8. The "Reader
+    Theory" section is this wiki's own speculative synthesis — not stated in the text, not confirmed
+    by the author, and built for fun, not as a prediction. Everything under "What else Dinniman has
+    said publicly" is unofficial, third-party reporting on the author's own public statements —
+    not confirmed by a publisher, and subject to change before Book 9 actually ships. This page will
+    be rewritten with a real chapter-by-chapter summary once Book 9 is out.
 
 ---
 Sources: [ScreenRant](https://screenrant.com/dungeon-crawler-carl-book-nine-title-release-date-details/),
