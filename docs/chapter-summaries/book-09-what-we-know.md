@@ -189,6 +189,14 @@ Three things make that specific gap worth more than a passing "who was #455":
   a consciousness in a zygote." A living child is about as close as a mobile, independent body gets
   to that starting condition — and the crawler-creation mechanism that made Penelope sapient was
   demonstrably active in the building that same night.
+- **The AI's own epilogue montage puts her on the short list of contenders.** Minutes after naming
+  OI units as new players "vying for the throne," the same broadcast runs a sequence of faces: named
+  gods, then named crawlers (Lucia Mar among them, by name), then a final, separate tier — things
+  even **Prime Minister Victory** cannot identify: "An urgyle. Some sort of small rodent. **A human
+  child.** A woman demon. More." The sequence ends on the Unwashed. Whoever curated that list placed
+  an unidentified human child in the same unrecognized tier as the show's other new, unexplained
+  arrivals — one broadcast after an entity that just finished explaining, out loud, that it wants a
+  body and a name of its own.
 
 Put together: an entity that just spent two chapters grieving that it never had a name, a body, or
 an individual existence — stated in almost exactly those words — may have used the one tool already
@@ -196,11 +204,23 @@ proven to work in that room to finally give itself one. Not a fragment drifting 
 deliberate answer to its own "I am her, and she is me," given legs and a hand to hold. Anchored, not
 coincidentally, to the one crawler the series has already tied into the Eulogist's own network, and
 exempted from a rule that an entity controlling every system that ever housed a crawl would have no
-trouble waiving for itself.
+trouble waiving for itself — and then, minutes later, quietly entered into its own list of names that
+might end up wearing a crown.
 
-None of this is stated on the page. It's three separate, confirmed details — a numeric gap, an
-unbroken safety rule broken once, and an installation mechanic already on record — that happen to
-all point at the same five-year-old.
+!!! note "A related complication: Lucia Mar and children keep turning up together"
+    Elsewhere in this same book, Carl notes in passing that "Lucia Prime was not currently in her
+    body, and the girl who was in it had drawn a picture of her grandfather and her cat. She was
+    from the country of Andorra" — an already-established mechanic where Lucia Mar's own body is
+    sometimes occupied by someone else, including, apparently, a young girl. Samantha separately
+    describes her, unprompted, as someone who "is really a child." Neither of those is the same
+    mechanic as a separate child standing beside her holding her hand at the portal, so this wiki
+    doesn't read it as proof they're the same individual — but it does mean "a child" and "Lucia
+    Mar" were already independently tangled together in this book before the portal scene happens.
+    Worth watching, not yet explained.
+
+None of this is stated on the page. It's four separate, confirmed details — a numeric gap, an
+unbroken safety rule broken once, an installation mechanic already on record, and a place on the
+AI's own shortlist of contenders — that happen to all point at the same five-year-old.
 
 ### What this adds up to
 
