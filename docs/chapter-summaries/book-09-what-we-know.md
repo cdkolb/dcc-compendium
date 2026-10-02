@@ -222,6 +222,34 @@ None of this is stated on the page. It's four separate, confirmed details — a 
 unbroken safety rule broken once, an installation mechanic already on record, and a place on the
 AI's own shortlist of contenders — that happen to all point at the same five-year-old.
 
+### Carl, Juice Box, and the Beautiful Place
+
+Changelings can only take a form they have personally touched — and the most extreme form on record
+belongs to [Juice Box](../characters/juice-box.md#the-prophecy), who has already taken the shape of
+**the Unwashed** itself, one of the Beautiful Place's many names. That form isn't cosmetic: it
+carries a real, demonstrated effect on anyone who sees it, "an involuntary nerve reaction in some
+species... even in those who are otherwise paralyzed." If the endgame mega-merge described above
+ever pulls in Juice Box specifically, Carl wouldn't just inherit generic shapeshifting — he'd inherit
+her one already-unlocked form. Not "Carl reaches the Beautiful Place." Carl *becomes* it.
+
+### Houston's failed prototype
+
+Read that way, [Architect Houston](../characters/architect-houston.md#the-beautiful-place)'s death
+scene stops looking like a dead end and starts looking like a demonstration that someone already
+tried exactly this, alone and the hard way. Houston straps himself to a surgical table, physically
+wires his own living nerves into the corpse of a dead changeling via his own machine, and casts a
+spell at the corpse that makes it thrash — all while the same machine removes his own organs as the
+price of the ritual. His last words name the method directly: *"It is called the Beautiful Place. I
+can get there. They are the key. The changelings."* He dies mid-process. The text never confirms
+whether it worked, what the changeling became, or what Carl himself glimpsed passing through the
+room afterward — deliberately left open.
+
+Houston is the series' own proof that this exact plan is attemptable — and its cautionary tale about
+doing it wrong: alone, with an unwilling dead stranger, paid for in his own flesh. Carl doing the
+same thing with a living, willing changeling he's already bonded to through other proven merge
+mechanics wouldn't just be a cooler version of the ritual. It would be succeeding, cleanly, at the
+one thing a Viceroy prime scientist gave his entire life and ultimately his own body trying to do.
+
 ### What this adds up to
 
 This wiki's best guess: Carl doesn't out-power the gods in the Ascendency, because that was never
