@@ -64,6 +64,16 @@ swallowed the entire map after that quest's deadline was missed — and a floor-
 curse** originating from Miriam Dom — see
 [Game Mechanics](../mechanics/index.md#the-creeping-apocalypse-odious-creepers-book-5) for all three.
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Claude Sludgington the Fourth](../bosses/claude-sludgington.md) | 65 | Borough Boss | Carl's accidental Protective Shell launch and a dive through its exposed stomach, Donut's Fireball, and Mongo finishing it from the inside |
+| [Sierra](../bosses/sierra.md) | 65 | Neighborhood Boss | Carl punched clean through her mid-flight; Donut hit her with a maxed Torch |
+| [Big Tina](../bosses/big-tina.md) | 80 | City Boss | **Not killed.** Pacified through a staged dance recital and reunited with her mother, Kiwi |
+
 ## Quests
 
 Floor 6's structural "quest" is the **Settlement Conquest & Collar Charm** system rather than a

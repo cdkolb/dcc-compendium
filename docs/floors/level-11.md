@@ -95,6 +95,17 @@ for the full reveal, which this page only summarizes.
 | **Stand-Ins** | Non-combatant, then combatant | Audience-vote substitutes for spared mobs, seated in the judging stands and later thrown into the arena "outnumbered a hundred to one." See [Game Mechanics: The "Stand-In" System](../mechanics/index.md#the-stand-in-system-book-8) |
 | Arena mob swarm | Various, recycled from Floor 10 | Thousands of Floor-10-tier mobs and their stand-ins, teleported in one by one; mostly dead within minutes of the party's tenth-floor vehicles entering the arena |
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Krakaren Prime](../bosses/krakaren-prime.md) | 235 | Floor Boss | **Not killed.** Badly wounded, then carried away by Taranis |
+| [Scolopendra](../bosses/scolopendra.md) | 500 | Dungeon Boss | **Not killed.** The wrong enriched pet biscuit turned her into the sapient party member Sexy Scolopendra |
+
+The floor boss quest completes ambiguously: neither boss died, but Carl and Donut were credited with the win.
+
 ## Quests
 
 ### The Nine-Tier Attack — paused, not resolved

@@ -62,6 +62,17 @@ described as similar to Floor 1 but more reinforced and visibly cracked/battle-d
 | Tummy Acher | A meatball-bodied mob with legs and a mohawk; low threat, offered as a pet-room option |
 | [Rage Elemental](../mobs/rage-elemental.md) | Level 93 elite; a System AI punishment mob, not a standard Floor 2 spawn |
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Krakaren Clone](../bosses/krakaren-clone.md) | 10 | Neighborhood Boss | Killed by the explosion of a moonshine distillery's own stills, which Carl and Donut barely escaped |
+| [Ralph](../bosses/ralph.md) | 11 | Neighborhood Boss (Frenzied Gerbil) | A freed dingo swallowed him mid-fight; Carl landed the bare-foot finishing blow |
+
+No boss guards the Floor 2 stairwell.
+
 ## Stairwells
 
 ### General mechanics

@@ -48,6 +48,19 @@ rounding up, until Level 18 — which has only two entrances and a single exit.
 - **Rot stickers** — level one/two exploding creatures (see above)
 - **Bad Llama** — at least Level 3, killed via a joint effort by Carl and Princess Donut
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [The Hoarder](../bosses/the-hoarder.md) | 7 | Neighborhood Boss | Dynamite blast took her to about a quarter health before the fight began; Carl and Donut finished her with Magic Missile |
+| [Goblin War Chieftain](../bosses/goblin-war-chieftain.md) | Not shown (Carl and Donut hit Level 8) | Neighborhood Boss (no card triggered) | Cart bomb in the goblin workshop, killed without ever entering the boss room |
+| [The Juicer](../bosses/the-juicer.md) | 9 | Neighborhood Boss | Carl landed the finishing bare-handed jab after nearly dying to the Juicer's chokehold; Donut gave ranged support |
+| [Ball of Swine](../bosses/ball-of-swine.md) | 15 | Borough Boss | Mixed seven-crawler party (Carl, Donut, Meadow Lark evacuees, Agatha) fought the Tuskling combatants it splits into from a fortified furniture position |
+
+Guarding the only known stairwell down to Floor 2 is the Ball of Swine.
+
 ## Stairwells
 
 ### General mechanics

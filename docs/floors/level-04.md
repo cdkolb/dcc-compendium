@@ -69,6 +69,15 @@ as a massive, deliberately-confusing puzzle."
 See the [Mobs overview](../mobs/index.md) for the full Floor 4 catalog — this floor introduces
 more mob variety than any prior one.
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Gore-Gore the Mantaur](../bosses/gore-gore-the-mantaur.md) | 40 | Neighborhood Boss | Carl electrocuted him on the third rail, with Katia, Donut and Mongo in support |
+| [Mimic Rex](../bosses/mimic-rex.md) | 90 | City Boss (Death Challenge) | Carl survived but did not kill her. Grull the War God cleaved her in half with his axe during his rampage |
+
 ## Quests
 
 No individually-named discovery quest is called out for Floor 4 the way "The Show Must Go On" or

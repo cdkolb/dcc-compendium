@@ -72,6 +72,10 @@ None recorded. No crawler reached the maze, so no Floor 7 mob or boss was ever f
 or catalogued. Carl's achievement list from the floor includes **"Pacifist!" — "You survived an
 entire floor without hurting a single, poor mob."**
 
+## Bosses
+
+None. Carl and Donut never reached the Floor 7 maze, so no boss was fought.
+
 ## Quests
 
 None issued. The floor collapsed before the rules announcement finished, and no floor quest,

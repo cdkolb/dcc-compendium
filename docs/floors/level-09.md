@@ -245,6 +245,24 @@ Named warlords, gods and deity-tier entities on the floor:
 | [Eileithyia](../bosses/eileithyia.md) | Level 250 deity, sponsored | The field hospital | Goddess of childbirth; arrives for Katia's boon ceremony and is frozen mid-summons while Donut kills her sponsor |
 | [Emberus](../bosses/emberus.md) | Deity | The volcano | Arrives on a 66-minute countdown after Samantha's confession and burns the floor to slag |
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Commander Stockade](../bosses/index.md#floor-9-warlords) | 76 | Warlord (Lemig Sortion) | Smashed his own brains out after Shi Maria massacred his court; ruled a suicide |
+| [Empress D'Nadia](../characters/princess-dnadia.md) | Not given | Warlord (Prism Kingdom) | Marked with the Ring of Divine Suffering, stripped of shields by Donut's clockwork Mongos, killed by Mongo |
+| [Princess Vinata](../characters/princess-vinata.md) | Not given | Warlord (Blood Sultanate) | Hatchet to the head from Kandy "Bigs" Newton the instant her Khepri-granted immortality expired |
+| [Architect Houston](../characters/architect-houston.md) | Not given | Warlord (The Madness) | Killed by Carl in the burning Madness castle |
+| [Warlord Fang](../bosses/index.md#floor-9-warlords) | Not given | Warlord (The Reavers) | Hiding inside his dragon Calliope when the castle's nuke stockpile cooked off after Carl's No Disassemble |
+| [Epitome Tagg](../characters/epitome-tagg.md) | Not given | Warlord (The Dream) | Cut out of Louis Santiago's chest by transplant surgery; Mongo ate the discarded organs |
+| [Khepri](../bosses/khepri.md) | 250 | God of Rebirth | **Not killed.** Banished by Hellik |
+| [Meatus](../bosses/meatus.md) | Not given | Feral god | Killed outright by Donut's War Crime |
+| [Emberus](../bosses/emberus.md) | 250 | God (Carl's patron) | Arrives on a 66-minute timer and destroys the floor; not fought |
+
+Floor 9 has no boss ladder. The warlords of the other teams and the invulnerable gods stand in for bosses, and the win condition is the Princess Posse's victory in Faction Wars. Warlords not listed here were eliminated by others; see the [bosses index](../bosses/index.md#floor-9-warlords).
+
 ## Quests
 
 ### Operation Snake Pit — Complete

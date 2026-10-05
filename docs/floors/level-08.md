@@ -178,6 +178,28 @@ Named bosses and deity-tier entities encountered on the floor:
 | [Ysalte](../bosses/ysalte.md) | Level 250 deity, sponsored by Pontifex Shine | FOCSA building | The Vinegar Bitch; Sister Ines's patron; killed by Paz |
 | [Amayon](../bosses/amayon.md) | Level 250 Demon Prince of Sheol | FOCSA building | Evicted from hell into the body of the Madre de Aguas; the floor's exit |
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Asojano](../bosses/asojano.md) | 130 | City Boss (Orisha spirit) | **Not killed.** Carl flagged him into a T'Ghee totem card |
+| [Der Schachmeister](../bosses/der-schachmeister.md) | 25 | Deckmaster (mock battle) | **Carl and Donut lost** this practice fight to his lockdown deck |
+| [Rude-Dolph](../bosses/rude-dolph.md) | 100 | Puppet-Master (mock battle) | Intangible until all eight reindeer puppets died; Shi Maria then ripped him in half |
+| [Robert the Human](../bosses/robert-the-human.md) | 40 | Deckmaster | Donut's solo tutorial fight, ended instantly when Mongo bit through his throat |
+| [The Visitor](../bosses/the-visitor.md) | 70 | Deckmaster 7 of 10 (Nightgaunt) | Carl's nightgaunt cloak enraged it past using its deck; Jola the Yule Cat killed it |
+| [Tom](../bosses/tom.md) | 75 | Deckmaster 8 of 10 | Carl, with a single Daughter's Kiss-charged flying strike |
+| [Sharp-Elbows](../bosses/sharp-elbows.md) | 80 | Deckmaster 9 of 10 (ogre necromancer) | Killed by Raul the crab, fought alongside Tom |
+| [Shi Maria](../bosses/shi-maria.md) | 140 | City Boss (Reaper Spider Minion, demi-god) | **Not killed.** Flagged by mutual agreement, after which she tattooed herself into Carl's chest |
+| [Madre de Aguas](../bosses/madre-de-aguas.md) | 125 | City Boss | Charmed by Sister Ines, then killed by her own zombism curse |
+| [Reminiscence Hydra](../bosses/reminiscence-hydra.md) | 125 | City Boss (nine heads) | Carl and Donut blew off the fire-resistant head, cauterized the stump, and burned the rest |
+| [Minge](../bosses/minge.md) | 225 | Minor Feral Demon | Released from the Nothing through a rigged knife game, then killed by the Desperado Club's vorpals |
+| [Ysalte](../bosses/ysalte.md) | 250 | Goddess (invulnerable) | Killed by her own summoned totem, Paz Lo |
+| [Amayon](../bosses/amayon.md) | 250 | Demon Prince of Sheol (invulnerable) | **Not killed.** Freed, buffed to full power and sent home to Sheol |
+
+Other deities seen on this floor ([Ogun](../bosses/ogun.md), [Yemaya](../bosses/yemaya.md), [Eileithyia](../bosses/eileithyia.md)) were not fought; see the boss pages.
+
 ## Quests
 
 ### The Chowder War — **Failed**

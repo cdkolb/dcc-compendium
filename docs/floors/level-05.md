@@ -63,6 +63,18 @@ notable entries include Thorny Devils, Night Frights, Nude Glabers, Concierge Sh
 [Changeling Principal](../dungeon-factions/the-changeling-principals.md) cultists disguised as
 Hump Town's own guards.
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Ruckus](../bosses/ruckus.md) | 55 | Borough Boss | Homemade rockets fired from the Royal Chariot by Carl, Donut and Katia |
+| [Denise the Feral Goose Mother](../bosses/denise-the-feral-goose-mother.md) | 53 | Borough Boss (No Magic / No Physical Damage) | Carl and Donut shoved her head-first into a kitchen garbage disposal |
+| [Mrs. Ghazi](../bosses/mrs-ghazi.md) | 52 | Borough Boss (Sand Ooze) | Melted with homemade incendiary gel dropped from the ceiling; her final fate is ambiguous |
+| [Lusca](../bosses/lusca.md) | 82 | City Boss (live Special Event) | Carl and Katia: a Protective Shell "bullet" through her skull, then a buzzsaw run through her head |
+| [Quetzalcoatlus](../bosses/quetzalcoatlus.md) | Not given | Unclear tier (guardian) | Never fought directly. Destroyed by an environmental lightning-tower trap that also killed every remaining crawler in her quadrant |
+
 ## Quests
 
 ### Get Orthrus (World Quest)

@@ -228,6 +228,19 @@ The floor's regular wildlife and named warlords are otherwise recycled/satirical
 specific to each heat's track; see the [Mobs overview](../mobs/index.md#book-8-mob-catalog-floors-10-11)
 for the fuller catalog.
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Prison Pocket](../bosses/index.md#other-bosses) | 170 | Province Boss (kangaroo) | Carl hid in its pouch in a joey-skin costume and detonated two satchel charges before escaping with Gloom Wraith Phase |
+| [Great Rusty](../bosses/index.md#other-bosses) | 99 | Neighborhood Boss | One Magic Missile from Donut |
+| [Maurice](../bosses/index.md#other-bosses) | Not given | Neighborhood Boss (mirrored) | On Carl's track, killed by Donut's zipper shrews |
+| [Slag Elemental](../bosses/index.md#other-bosses) | 75 | Neighborhood Boss | Regenerating; only killable if cut off from the metal below |
+| [Mitch](../bosses/mitch.md) | 120 | Adolescent Shadow Mimic | Carl froze him with the Eye of the Bedlam Bride; Donut finished him with Magic Missile |
+| Grull (the Maestro's host body) | 250 | War god | **Not killed.** Ejected by Donut's Laundry Day, then driven off by Dong Quixote and Corcunda's lance charge |
+
 ## Quests
 
 ### I have dreamed thee too long / Half a prayer, half a song — Complete

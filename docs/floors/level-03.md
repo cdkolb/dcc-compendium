@@ -55,6 +55,16 @@ accompany them outside guildhalls for the rest of the series.
 | Shadow Leaks | Smoke-like ghost mob, cold-based attack, vulnerable to enchanted weapons |
 | Blood and Ink Elemental | Paper-thin "2D" monsters summoned by Tsarina Signet's *Ink Marauder* spell |
 
+## Bosses
+
+Bosses [Carl](../characters/carl.md) and [Donut](../characters/princess-donut.md) faced on this floor, in the order they met them.
+
+| Boss | Level | Type | How defeated |
+|---|---|---|---|
+| [Heather the Bear](../bosses/heather-the-bear.md) | 19 | Neighborhood Boss | Carl, solo, healed the wounds of her parasitic transformation, which killed the parasite |
+| [Miss Quill](../bosses/miss-quill.md) | 30 | Neighborhood Boss (no card triggered) | Dynamite ambush rigged inside her own office shelving |
+| [Ringmaster Grimaldi](../bosses/ringmaster-grimaldi.md) | 85 | City Boss + Elite | **Not killed.** Resolved through production negotiation and quest completion |
+
 ## Stairwells
 
 ### General mechanics
