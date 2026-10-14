@@ -87,9 +87,6 @@ liaison sitting in silently (per the audiobook):
   planet... technically it's not a bribe"* exchange: that is the price of exercising the right, and
   Quasar's "I have an idea" is routing the money through the fan club. See
   [The Faction Wars Teams](../factions/faction-wars-teams.md#how-the-princess-posse-got-its-slot).
-- **Something that protects Carl directly.** The incentive line suggests a term that is about his own
-  survival or standing on the ninth floor (for example, protection from being removed or "accelerated"
-  by the Syndicate, the option Orren raised in Chapter 1), rather than a purchase.
 - **Terms for redeeming the Gate receipt.** The Gate is later recovered on Floor 9, so the third
   request might be the conditions for getting it back. This is the weakest fit with "tied in nicely"
   and "especially if Borant agreed."
