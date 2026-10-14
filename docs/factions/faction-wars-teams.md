@@ -73,6 +73,24 @@ The Burrowers and the Dreadnought Clan are absent from the roster entirely; both
 withdrawn at the end of Book 5, and it is those two vacated slots the Prism Kingdom and the
 Princess Posse bought.
 
+### How the Princess Posse got its slot
+
+The books never say outright who arranged the purchase or what it cost. What is recorded:
+
+- The slot was bought by Donut's fan organization, the Society for the Eradication of Cocker
+  Spaniels (Princess Posse Enterprises), per [Factions](index.md) and the Book 6 opening newsletter.
+- In Book 6 Carl says "part of the reason why we bought the Faction Wars team" was to negate
+  [*Conscript*](../spells/conscript.md).
+- In Book 5, Quasar tells Carl the "other problem" will cost **150 million credits**, "enough money to
+  buy your own planet," against Carl's outside-the-dungeon net worth of about 117 credits, and says
+  "technically it's not a bribe." The line is never explained on the page. See
+  [Quasar](../characters/quasar.md#the-three-requests).
+
+!!! note "Reader theory (not confirmed)"
+    The "other problem" is the price of a Faction Wars slot, and Carl's unstated third request in the
+    Gate negotiation was the right to bid on one. Quasar's "I have an idea" would then be using the
+    fan club to pay it. The books do not state this.
+
 ## The final action items
 
 With both warlords forced into the stairwell early, Carl spends the Princess Posse's **first

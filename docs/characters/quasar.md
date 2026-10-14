@@ -57,6 +57,43 @@ second try. He also:
   entire net worth, and a possible bribery/legal risk even if he could raise it — and says he's
   "working on" an idea, leaving the matter unresolved at the end of the book
 
+### The Three Requests
+
+The package is negotiated as a list of three requests put to the Borant kua-tin admin, with Orren the
+liaison sitting in silently (per the audiobook):
+
+1. **The mercenary package.** The four cretin bodyguards, plus the two spells taught to them. The
+   kua-tin only pretends to haggle; the moment Quasar mentions *Zerzura* he is all but won over.
+2. **A license for *Vengeance of the Daughter*** (Quasar's idea). Floor 6 is where most secondary
+   programs die, and licenses to continue past its collapse are normally granted by AI decision and
+   lottery. Quasar cites subsection 674 of the secondary program amendment, under which a showrunner
+   running at lower-than-expected profits may be granted emergency use of a single license. Sensation
+   Entertainment pays an extra 20% to Borant, and the deal is void if it is mentioned aloud. Quasar
+   bluffs that Sensation has already agreed; he has not actually reached them. It also gives the
+   producers a reason to keep Carl alive.
+3. **Carl's own request: never stated.** Carl notes only that it "tied in nicely" with the first two
+   and that the show's incentive to keep him alive is stronger "especially if Borant agreed to my
+   third request." The audiobook cuts off as Orren says he "can't wait to hear what this one is,"
+   and the item is never named in that scene.
+
+!!! warning "Open question"
+    The third request is never spelled out. The wiki has no confirmed answer.
+
+**Reader theories on the third request** (not confirmed by the books):
+
+- **The right to bid on a Faction Wars slot.** Open slots can be bought by "any sufficiently funded
+  sponsor," and Carl is a crawler. It ties to the ninth floor like the first two requests, and it
+  would explain the later *"One hundred fifty million credits... enough money to buy your own
+  planet... technically it's not a bribe"* exchange: that is the price of exercising the right, and
+  Quasar's "I have an idea" is routing the money through the fan club. See
+  [The Faction Wars Teams](../factions/faction-wars-teams.md#how-the-princess-posse-got-its-slot).
+- **Something that protects Carl directly.** The incentive line suggests a term that is about his own
+  survival or standing on the ninth floor (for example, protection from being removed or "accelerated"
+  by the Syndicate, the option Orren raised in Chapter 1), rather than a purchase.
+- **Terms for redeeming the Gate receipt.** The Gate is later recovered on Floor 9, so the third
+  request might be the conditions for getting it back. This is the weakest fit with "tied in nicely"
+  and "especially if Borant agreed."
+
 ## Role in the Story — Book 6
 
 Quasar gets substantial screen time in Book 6, most of it spent working around a hostile liaison
@@ -102,8 +139,9 @@ Carl blurts out that he'll just trade for it, salvages by stealing the idea: "Sh
 A great idea just came to me. What if we trade for it?"
 
 Net result: one wand recharge scroll, three *Cracker Jack* scrolls, and Orren agreeing that the guild
-keeps the four cretins free of charge for the ninth floor. Carl does not get the Gate of the Feral
-Gods back. Quasar is "unceremoniously kicked away in the middle of a sentence once the deal was
+keeps the four cretins free of charge for the ninth floor. The Gate of the Feral Gods is not part
+of this trade; the Book 5 receipt for it is redeemed separately on Floor 9, and the Gate is what
+[Justice Light](justice-light.md) later needs to break the Nothing. Quasar is "unceremoniously kicked away in the middle of a sentence once the deal was
 done," and takes his 15%.
 
 !!! note "Not Quasar's deal"
