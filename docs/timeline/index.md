@@ -881,8 +881,12 @@ Recorded as open questions so the wiki doesn't quietly invent answers:
   considered a friend, and that she means to kill "the demon mother lady and her jerk son." Nothing
   about who the "jerk son" is, or how this connects to her established backstory, is explained. See
   [Samantha](../characters/samantha.md#leaving-with-taranis).
-- **Lucia Mar is seen with an unexplained child** at the Floor 11→12 portal. No other character
-  present confirms seeing it, and it is never mentioned again.
+- **Lucia Mar is seen with an unexplained child** at the Floor 11→12 portal. Neither Imani nor Elle
+  saw it, and it is never mentioned again. The wiki's ranked readings are in
+  [Book 9: What We Know](../chapter-summaries/book-09-what-we-know.md#the-mystery-child-who-is-the-girl-with-lucia).
+- **Whether Agatha, and her friend Agent 21 ("Alexandro"), are still active is not confirmed.** Agatha is
+  removed as warlord on Floor 9 and "pretty much just disappeared" by Floor 10, and Alexandro is not mentioned
+  in Book 8. See [Residuals](../species/gondii-residuals.md#what-happened-to-agathas-faction).
 - **The Pontiff/Sheol-vs-Cabaret discrepancy.** Multiple characters ([Pontiff](../characters/pontiff.md),
   and separately Chris Andrews, Britney Proskurina, and Louis Santiago) are sent through the Desperado
   Club casino's broken "Nothing" wheel spot believing they're headed for the Pineapple Cabaret; the

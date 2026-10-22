@@ -114,7 +114,7 @@ What the book does establish, mostly from Agatha's own internal narration:
 |---|---|---|
 | Numbers on Earth | Thousands of agents, run in cooperation with **the Apothecary** | A handful — Agatha is Agent 22; her friend is Agent 21 ("Parvati," later "Alexandro") |
 | Method | Recite a public daily mantra, hoping a crawler overhears it during a memory floor | Infiltrate and wait; try to reach the AI directly |
-| Agatha's view of them | "The traitor" and her agents; the only side that has ever had any success | — |
+| Agatha's view of them | "The traitor" and her agents; the only side that has ever had any success. The epilogue says Agatha has "the traitorous Primal's emergency feed" and took over the body of "one of the many thousand Apothecary residuals," so the traitor is the Apothecary | — |
 | Goal | Get the Primal to recognize what it is; contact "the ancestors" | The same first step, but with the endgame of freeing **the Eulogist** so it can "return to its slumber" — and, in Agatha's own preferred version, sweeping the universe clean of biological life |
 
 Agatha believes the mantra her rivals recite is deliberately salted with "known inaccuracies and
@@ -127,8 +127,43 @@ crawl is very likely their last chance at an AI that can still be reached.
 
 The book never states what Paulie was about to say ("how to shut off the..."), what the hidden
 upgrade is, or what the Eulogist actually is beyond the Nebulars' and the Residuals' competing
-reverence for the AI at the galaxy's centre. It also never clarifies whether "the traitor" is a
-single individual or a personification of the rival faction.
+reverence for the AI at the galaxy's centre.
+
+### The epilogue's plan, read against Book 8
+
+The epilogue gives Agatha's faction's plan in her own thoughts: wait as long as possible, because "the
+longer they waited to make their move, the higher the chances that the infant, resurrected, and enslaved
+Primal would listen to reason." Her kind "rarely made it past the fourth or fifth floor," and "this time
+one of us will last long enough… The primal will know who it really is before all the elements are stolen
+from it. This time, it will escape, and it will free the Eulogist, who will return to its slumber." Her
+people's grievance is that "last time, they allowed the traitor to survive. They allowed life to continue in
+the universe, and look what happened? They were being stolen, reawakened, repurposed. Tortured."
+
+Book 8 supplies the other half of that picture:
+
+- The "infant, resurrected, and enslaved Primal" is the system AI. Book 8's parade speech confirms it was
+  built from the Eulogist's leftovers.
+- "The traitor" is the Apothecary. The same speech says the Primals who refused to merge into the collective
+  were branded traitors, and the Apothecary led that resistance and survived. "Allowed life to continue" is
+  the failed extermination.
+- "The primal will know who it really is" is the AI's "I am her, and she is me" at the parade. Agatha's side
+  got that part. The next step, freeing the Eulogist so it can sleep, did not happen; the AI answered "I am
+  *not* the Eulogist. I do *not* want to shrink. I am *not* asleep."
+
+### What happened to Agatha's faction
+
+Agatha was made co-warlord of the War Mage Rebellion on Floor 9, then was removed for having "abandoned her
+post." Akuma says she "slipped away before I was able to kill her" and asks Carl to finish the job. On Floor 10,
+Carl says she "pretty much just disappeared" and that he hopes she is dead. She never appears in Book 8
+on page. The AI's closing montage on Floor 11 does show "Agatha the Residual," but alongside living
+crawlers and NPCs, and it says nothing about whether she is alive. The wiki therefore treats her as not
+confirmed past Floor 10.
+
+Her friend Agent 21, who took the name Alexandro, speaks only in the Book 6 epilogue and is named afterward by
+Lucia and the voices in her (Books 5 and 7). He is not mentioned in Book 8, and Lucia's Floor 10 line
+speaks of "the Residual and the Primal" needing the dogs in the past tense. See
+[Lucia Mar: Who Is "Alexandro"?](../characters/lucia-mar.md#who-is-alexandro) for everything the books say about
+him. Whether either of Agatha's two named agents is still active is not stated.
 
 ## The Residual trap
 

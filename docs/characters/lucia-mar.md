@@ -10,10 +10,11 @@
       [Sir Rendlegore](sir-rendlegore.md) in Book 7)
     - **Notable stat:** Very high Dexterity (wall-running, flips, acrobatic combat); over **200
       player-killer skulls** plus 20 dead hunters by Book 7
-    - **Status (Book 7):** **Alive.** Captured and conscripted by Carl on Floor 9, then released when
+    - **Status (Book 8):** **Alive.** Captured and conscripted by Carl on Floor 9, then released when
       the floor ends; she descends to Floor 10 partied with [Florin](florin.md). She is also a
       dead-man's switch for roughly **120,000** children held on the Earth surface, and by her own
-      account an ally of **"the Eulogist"**
+      account an ally of **"the Eulogist"**. She leaves Floor 11 through the portal with an
+      unexplained five-year-old girl. See [Who Is "Alexandro"?](#who-is-alexandro)
     - **Type/Class/Subclass:** Not shown in Book 1 → **Lajabless** race / **Black Inquisitor General** class (cleric/mage/warrior triple class), revealed Book 2
     - **Level:** 29 — **1st on the Floor 3 leaderboard**, the highest-ranked crawler shown
     - **Notable spells/abilities:** No named spells shown; a personal magical shield noticed late in Book 1; her Lajabless race halves her strength but doubles spell power in human form, and the reverse in her skeletal "goat-leg" form
@@ -102,6 +103,39 @@ Butcher's Masquerade, concludes the dog Gustavo is the one truly "in charge" and
 Lucia/Jill can only surface in short bursts. She escapes the masquerade's final battle using a
 pre-set teleport trap before the boss fight even begins, avoiding the "Cage Fight Extreme" that
 kills several other crawlers.
+
+### What she says to the voice behind her
+
+The Floor 6 recap is also the best source for how the "game" is framed to her. Everything below is
+from Lucia's own mouth, and the first two are spoken to someone who is not there.
+
+- **Stairwell station, end of Floor 4 (opening of Book 4):** she snarls "What did you say about my papa?" at a boy who said nothing about
+  him, then says over her shoulder, "Don't take shit from anyone. It's just a game. It's not real."
+- **Floor 6, to an empty spot:** "The fight is over. It is a draw." Then, after a pause, "No points?"
+  And: "He's mad. He says I should finish you off, but you fought good."
+- **To Donut, same scene:** "I had friends, on the last floor. Bini and Abraham and Siti. It was all ice,
+  and we finished and popped the bubble. But I fell asleep, and I didn't tell Gus to sleep. And… He's the
+  bad one. Cici does it, too, but Gus is worse." She then slaps the side of her own head in a steady
+  rhythm. (Earlier recap: Gustavo "accidentally" killed a group of crawlers in her bubble, and she was
+  shown sobbing alone, the first real emotion the broadcast had ever shown her.)
+- **Her goal, to Donut:** "Soon, you will be tossed through the veil, and you will feast with the other
+  losers. And I will have enough points to get across the bridge and back home with my papa." Donut's
+  retort when she kills Cici ("The only bridge you'll be crossing today is made out of rainbows") is a
+  pet-afterlife joke of Donut's own; the bridge in Lucia's line is hers, and the book never explains it.
+- **When Cici dies:** "She killed the wrong one… What's going to happen now?"
+
+Donut points out that the broadcast cut a line from this recap: "She said his name was Alexandro,
+and he was her youth assistant." Mordecai's reaction is the key context. "Youth assistants are new. But
+they're not a dungeon thing. Children under a certain age aren't allowed to enter the dungeon. If they
+descend into the dungeon, they are taken away until after the crawl. The youth assistants are the ones
+who take care of them… Kids shouldn't be in here. Youth assistants shouldn't be here. It's really
+strange." Nobody follows this up.
+
+Later, at the Masquerade, Florin reports what Jill told him: "Something to do with the dog and a guy named
+Alexandro. But there are kids in there. In her head. Multiple kids. We have to get that dog. Not her. The
+dog. It can still control her from afar, but only in short bursts." Carl asks Zev how a child crawler is
+allowed. Zev: "It's complicated, Carl. You don't have to be involved in everything. We're not going to
+discuss it."
 
 ## Book 6: The Battle of Beijing, and a Threat
 
@@ -264,9 +298,11 @@ Seconds after saving Mongo, her posture changes, and she delivers the book’s p
 > Now the Eulogist has another ally in the dungeon, and now you can’t kill me. Not unless you want all the
 > children of Earth to die.” She shook her head and walked off.
 
-Zev fills in the rest, badly and reluctantly. Lucia’s presence in the crawl was originally a glitch; Borant
-chose to leave her in once she started earning, and the AI now says it is “unable to extract her.” What
-nobody understood until Gustavo 3 died is what is tied to her:
+Zev fills in the rest, badly and reluctantly. Lucia’s presence in the crawl was originally a glitch at the
+very start of the crawl, which the Syndicate side wanted to correct "and kick her back out, but once she
+started earning, they.... We gave her a few loot boxes to compensate and keep her safe." The sentence breaks
+off there and never says who "they" are. The AI now says it is “unable to extract her.” What nobody
+understood until Gustavo 3 died is what is tied to her:
 
 > Zev: It’s complicated, Carl. It’s not all the children. Just the ones that tried to get into the dungeon.
 > And it’s only half of those. All the ones who were in a specific wing. They’re on the surface in the kinder
@@ -291,11 +327,14 @@ Carl’s response: “I almost killed her, Zev. You almost let me kill her.” A
 switch. A psychotic one. And she just lost her bodyguard. Don’t let her leave. Keep her safe.” Zev’s answer:
 “It’s out of my control, Carl.”
 
+Zev adds only: "We learned something new the moment the dog died. There's so much more, but now is not
+the time."
+
 “The Eulogist” is the name for the AI of the centre system, and it runs through the whole book
 attached to the residual **Agatha**, the Nebular cult and the Open Intellect — see
-[Game Mechanics](../mechanics/index.md). What Lucia’s alliance with it consists of, who “Diah” and
-“Alexandro” are, how children came to be inside her head, and why the dogs govern which of them is
-driving are all raised and none are answered.
+[Game Mechanics](../mechanics/index.md). The book never states what Lucia’s alliance with it consists of,
+who "Diah" is, or how children came to be inside her head. Books 5 and 8 do supply pieces about
+"Alexandro" and the dogs; they are gathered in [Who Is "Alexandro"?](#who-is-alexandro) below.
 
 ### Afterwards
 
@@ -318,6 +357,117 @@ It does not, quite:
 >
 > None of us believed she actually would. And as a result, he would not take one, either.
 
+## Book 8: Floors 10 and 11
+
+With both dogs dead, Lucia is still partied with [Florin](florin.md) and still refuses every deal. Several
+personalities now surface without the dogs: Carl notes "Lucia Prime's psycho personality had wandered back
+into the body," and on Floor 11 that "Lucia Prime was not currently in her body, and the girl who was in it
+had drawn a picture of her grandfather and her cat. She was from the country of Andorra." The Spanish-speaking
+Lucia, the scared child with the different accent, Jill (Dutch, ten), Diah, Azra and Yaz are all separate
+voices. Nothing in Book 8 mentions Alexandro.
+
+### Chalchiuhtlicue speaks through her
+
+On Floor 10, Lucia whispers in Carl's ear:
+
+> "Chalchiuhtlicue is here. She's new to this place, but she is here. She doesn't need Cici or Gus like the
+> Residual and the Primal did. She keeps telling us that she is kind and that she will protect us. But she
+> says the kindest thing may be letting us die. She says we are vessels in the river, just as you are, Carl.
+> We are drowning together, you and me and all the others. But more are coming. The veins are open, she
+> says. All the trapped are coming, Carl. All seek the prize on the twelfth floor. Not just her kind. The
+> real, the imagined, and the enslaved. All gather, focused on the Ascendency. It's not a game like they told
+> me. But it's not a game like they told you, either. Not anymore."
+
+Her demeanour then changes. "The presence is gone. The Scavenger's Daughter shudders in fear." The new voice
+says: "My name is Azra. Yaz is here, too. She's crying. That goddess. She's talking to her now, telling
+her that you used a spell that our father gave you to win your races." Azra's father is **Mehmet Or**,
+crawler #3,756,330, the Istanbul bowling-alley owner whose note in *Carl's Book of Boom* gave Carl the
+*Bumper* spell. His note says he took a deal and believes his daughters are in "that place where they're
+keeping the children." Carl tells her he is safe and will see her soon. Azra, crying: "The angel lady says it might be better if we all die. She keeps talking
+about people coming and taking our bodies." Asked who, she sees Florin and bolts.
+
+[Chalchiuhtlicue](#who-is-chalchiuhtlicue) is the only named entity in Lucia's group besides the children,
+and Samantha confirms her backstory in the next scene.
+
+### The Floor 10 apartments
+
+During the Floor 10 race, Florin reports: "Just went through our assigned spot on the sixth floor, and it
+was Lucia's dad's house. Lucia is here, too, just sitting on the ground watching TV, laughing. The real
+Lucia completely shut down there for a second." The AI explains in the same moment that the building's
+apartments are what-if scenarios built from "atoms from the original" people. Lucia's father's house is
+one of them.
+
+### The child at the Floor 12 portal
+
+On Floor 11, as the stairwells open, Lucia stands in front of one holding the unconscious Florin:
+
+> But then, peeking out from behind her legs, was another person. It . . . it was a child. A girl, maybe
+> five years old. She was too far away to examine. She held on to the side of Lucia's leg.
+
+Carl shouts and nobody listens. Imani did not see it and guesses a summon spell, and Elle did not see it
+either. The three step through. See [Book 9: What We Know](../chapter-summaries/book-09-what-we-know.md#the-mystery-child-who-is-the-girl-with-lucia)
+for the competing readings. The AI's closing montage on Floor 11 includes Lucia by name, and separately,
+among the figures even Prime Minister Victory cannot identify, "a human child."
+
+## Who Is "Alexandro"?
+
+Everything the books say about Alexandro, in order. The first line is Agatha's friend's own words; the rest
+is what the wiki can piece together and is labelled where it is inference.
+
+1. **Book 6 epilogue.** Agent 21, Agatha's friend of the Residual faction that serves the Eulogist, tells
+   Agatha she "killed one and infiltrated the other, abandoning my previous shell" of two
+   **Borant-employed humans** who landed on the **Mumbai site** with a forward team. "She didn't split, which
+   meant the new host would soon be fully under her control." Her final message: "My name is no longer
+   Parvati. I am now Alexandro." The epilogue flash message tells assets near Mumbai they "will receive
+   separate orders," unlike everyone else.
+2. **Mumbai is where the kinder facility is.** Book 6 elsewhere says crawlers disqualified for pregnancy
+   are "exported to the Kinder Facility located in the former city of Mumbai, India." The Book 6
+   epilogue's Syndicate Council scene shows humans "constantly battling the security forces, attempting to
+   break into the kinder facility."
+3. **Book 5.** Lucia tells an invisible "he" that "he says I should finish you off," and (per Donut) names him
+   as "Alexandro... her youth assistant." Mordecai explains youth assistants look after children who
+   are taken out of the dungeon. Florin reports that the dog and Alexandro are what let something "control
+   her from afar." Zev refuses to explain.
+4. **Book 7.** Diah says "Lucia is with Alexandro. And Alexandro is only here when the dogs are close." When the
+   dogs wander off, "Lucia fades, and one of us takes over."
+5. **Book 8.** Lucia says the goddess "doesn't need Cici or Gus like the Residual and the Primal did." The
+   past tense and Alexandro's absence from Book 8 suggest that the dog-linked connection ended with Gustavo
+   3, which would also fit Zev's "we learned something new the moment the dog died."
+
+*Inference, not stated in the text:* Alexandro's host looks like a Borant youth assistant from the Mumbai
+site, and the "specific wing" of children Zev describes is the wing that host worked in. If so, the
+"glitch" that put Lucia in the crawl, and the 120,000 children's lives that now make her unkillable, are
+tied to a Residual of Agatha's faction placing itself next to the children at the start. The book never
+states this. The best case for it is that it explains why a child crawler plus a youth assistant would be
+in the dungeon at all (Mordecai: "Kids shouldn't be in here. Youth assistants shouldn't be here"), why
+Zev will not discuss it, why the AI is "unable to extract her," and how an agent whose kind "rarely made it
+past the fourth or fifth floor" could last as long as Lucia has. Agatha's own epilogue plan depends on one
+of her people lasting "long enough."
+
+The unanswered parts are who "the Primal" in Lucia's Floor 10 line is, what the "bridge" she wants to cross is,
+and what "people coming and taking our bodies" refers to.
+
+## Who Is Chalchiuhtlicue?
+
+A minor Aztec-analogue goddess who first appears in Book 8, on Floor 10, speaking through Lucia. What the
+text says about her:
+
+- **Prepotente:** the Aztec goddess of the same name. "She was considered benevolent, but the Aztecs also
+  practiced human sacrifice. She is the originator of an Aztec flood myth because she cried for many days."
+- **Rosetta:** "Chachi, as Samantha calls her, isn't a well-known one. She's not ever sponsored as far as I
+  can remember." A goddess of childbirth and women, but also of water, fire and harvests. Such catchall
+  deities "never do well in the Ascendency game because their powers are comparatively weak."
+- **Samantha:** green skirt, talks funny, cries a lot. She claims to protect children, "but the second
+  something bad or inconvenient happens, she's like 'We need to sacrifice a seven-year-old to make things
+  right.'"
+- **Carl:** concludes she "appeared to be one of the ones who'd escaped the dungeon. And she was in there
+  with the kids stuck inside of Lucia Mars's head."
+
+Orren confirms elsewhere that a good portion of the unsponsored gods are loose and can manifest near the
+tunnel nodes, that the AI has no control over them, and that a god different from Eileithyia is in the
+kinder facility. Whether that is Chachi is not stated.
+
 ---
 *Sourced from Book 1: The Apocalypse Will Be Televised, Book 2: Carl’s Doomsday Scenario,
-Book 5: The Butcher’s Masquerade, Book 6: The Eye of the Bedlam Bride, and Book 7: This Inevitable Ruin.*
+Book 4: The Gate of the Feral Gods, Book 5: The Butcher’s Masquerade, Book 6: The Eye of the Bedlam Bride,
+Book 7: This Inevitable Ruin, and Book 8: A Parade of Horribles.*

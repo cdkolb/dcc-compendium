@@ -165,62 +165,82 @@ the original Eye of the Bedlam Bride was forged in the middle of a losing fight,
   prescribed fifth slot has been filled by Carl's own unscripted choice rather than an external
   script. That pattern is worth watching for a third time.
 
-### The mystery child: the AI's first body?
+### The mystery child: who is the girl with Lucia?
 
-Two confirmed, unrelated-looking details turn out to sit right next to each other. **Penelope** is
-registered as **Crawler #12,953,454**; **Scolopendra**, created hours later at the very end of the
-book, is **#12,953,456**. In between those two moments, at the Floor 11→12 portal, Carl sees
-[Lucia Mar](../characters/lucia-mar.md) holding hands with an unidentified child — "too far away to
-examine," never named, never explained, never mentioned again. Nobody else present reacts to her.
+Two confirmed, unrelated-looking details sit next to each other. **Penelope** is registered as **Crawler
+#12,953,454**; **Scolopendra**, created hours later at the very end of the book, is **#12,953,456**. In
+between, at the Floor 11→12 portal, Carl sees [Lucia Mar](../characters/lucia-mar.md) standing in front of a
+stairwell holding the unconscious Florin, and "peeking out from behind her legs, was another person. It . . .
+it was a child. A girl, maybe five years old. She was too far away to examine. She held on to the side of
+Lucia's leg." Carl shouts; nobody stops. Imani did not see her and guesses "a summon spell"; Elle did not see
+her either. She is never named or mentioned again.
 
-Three things make that specific gap worth more than a passing "who was #455":
+This section previously argued for one answer, that she is the system AI's first body. After a fuller pass
+through everything Lucia and the voices in her say across Books 2–8, that is now one reading among several,
+and probably not the leading one. The full evidence is on [Lucia Mar](../characters/lucia-mar.md); this is
+the ranked summary.
 
-- **Children aren't allowed in the dungeon, automatically and without exception.** Confirmed
-  repeatedly across the series ("Children under a certain age aren't allowed to enter the
-  dungeon. If they descend into the dungeon, they are taken away" — Mordecai, Book 5). A child
-  present and *staying* through a floor transition is a flat violation of a safety rule the system
-  has never once bent anywhere else on the page.
-- **This exact book already established what a child-shaped Primal fragment looks like.** The
-  [Horribles](../mobs/the-horribles.md) lining the parade route are explicitly child-sized
-  memory-echoes of individual dead Primals, and the AI's own words examining one are the thesis of
-  this entire page: *"I'd like to think I had a name once like this little girl... I never had a
-  name. I never had a natural physical form... But I am her, and she is me."*
-- **The mechanism for how a brand-new Macro AI comes into being is already on record:** "installing
-  a consciousness in a zygote." A living child is about as close as a mobile, independent body gets
-  to that starting condition — and the crawler-creation mechanism that made Penelope sapient was
-  demonstrably active in the building that same night.
-- **The AI's own epilogue montage puts her on the short list of contenders.** Minutes after naming
-  OI units as new players "vying for the throne," the same broadcast runs a sequence of faces: named
-  gods, then named crawlers (Lucia Mar among them, by name), then a final, separate tier — things
-  even **Prime Minister Victory** cannot identify: "An urgyle. Some sort of small rodent. **A human
-  child.** A woman demon. More." The sequence ends on the Unwashed. Whoever curated that list placed
-  an unidentified human child in the same unrecognized tier as the show's other new, unexplained
-  arrivals — one broadcast after an entity that just finished explaining, out loud, that it wants a
-  body and a name of its own.
+!!! warning "Inference, not text"
+    Nothing in Book 8 says who the girl is. Everything below is this wiki's reading, ranked by how much of the
+    text it explains.
 
-Put together: an entity that just spent two chapters grieving that it never had a name, a body, or
-an individual existence — stated in almost exactly those words — may have used the one tool already
-proven to work in that room to finally give itself one. Not a fragment drifting by. A direct,
-deliberate answer to its own "I am her, and she is me," given legs and a hand to hold. Anchored, not
-coincidentally, to the one crawler the series has already tied into the Eulogist's own network, and
-exempted from a rule that an entity controlling every system that ever housed a crawl would have no
-trouble waiving for itself — and then, minutes later, quietly entered into its own list of names that
-might end up wearing a crown.
+**1. A child from Lucia's group, appearing in person (leading reading).**
+Lucia's head holds roughly 120,000 children from "a specific wing" of the kinder facility, with named
+voices: **Jill** (Dutch, ten), **Diah**, **Azra**, **Yaz** (Azra's sister, "crying"), and a girl from Andorra.
+Lucia is already a standing violation of the "no children in the dungeon" rule, and the AI is "unable to
+extract her," so a child alongside her needs no special explanation. The behavior matches: the frightened
+personas shrink back and run, and Lucia "cowered behind the crocodilian, hands on her ears." Yaz's age is not
+given, so she is a candidate, not a match. What this reading does not explain is how a *physical* child appears
+beside her at all, which the book also leaves open.
+
+**2. A body being taken by something coming in.**
+Azra says the goddess [Chalchiuhtlicue](../characters/lucia-mar.md#who-is-chalchiuhtlicue) "keeps talking about
+people coming and taking our bodies." Lucia's own Floor 10 speech says "all the trapped are coming… All seek
+the prize on the twelfth floor… The real, the imagined, and the enslaved." Orren says unsponsored gods are loose
+and can manifest near the tunnel nodes, and Lexis (a Syndicate staffer) says "a third party has appeared and is
+protecting the [kinder] facility, but that entity is confused." Immediately afterward her pad shows "words…
+superimposed over the image of a small child," and she goes white. Nothing says that child is this one, but
+it shows the Syndicate side is holding a file on a small child connected to the kinder facility. This reading
+needs someone other than the AI to be doing the taking, since Orren says the AI cannot control the gods.
+
+**3. A Residual's new vessel.**
+Agatha's faction takes bodies by killing or infiltrating the host, and Alexandro, Agent 21, is a Residual of
+that faction who took over a Borant human at the Mumbai site where the kinder facility is. With the dogs gone,
+he has no link to Lucia. This reading is weaker because Alexandro is not mentioned in Book 8 and Lucia speaks of
+"the Residual and the Primal" needing the dogs in the past tense. See
+[Who Is "Alexandro"?](../characters/lucia-mar.md#who-is-alexandro).
+
+**4. The AI's first body (the earlier theory).**
+Still possible, and still the most dramatic. Three things keep it alive:
+
+- **The mechanism is on record.** Book 6: Macro AIs are installed into Primal Engines, and the wiki's source
+  for how a new Macro AI starts is installing a consciousness into a zygote. A living child is as close as a
+  mobile body gets to that starting condition.
+- **The AI has shown it can build people.** On Floor 10 it says its apartments are populated by what-if
+  versions of crawlers made with "atoms from the original."
+- **Its own montage lists "a human child."** The Floor 11 closing montage runs gods, then named crawlers
+  including Lucia, then figures even Prime Minister Victory cannot identify: "An urgyle. Some sort of small
+  rodent. **A human child.** A woman demon. More." A child is placed in the same unrecognized tier as the
+  show's other new arrivals, one broadcast after an entity that just finished explaining that it wants a name
+  and a body of its own ("I'd like to think I had a name once like this little girl… But I *am* her. And she is
+  me.").
+
+What weakens it: the "no children in the dungeon" argument no longer separates her from Lucia's group, and
+nothing in the text says the AI wants or has built a child body.
+
+**What the epilogue adds to all of them.**
+Agatha's Book 6 epilogue calls the AI "the infant, resurrected, and enslaved Primal" and says her faction
+must reach it "before all the elements are stolen from it." The word "infant" is Agatha's own and is not
+about this child. But the Residual faction's whole plan depends on one of its people lasting "long enough,"
+and Lucia, who is unkillable, extremely powerful, and carries a Residual-linked presence, is the only
+candidate who has gone past Floor 10. See [Residuals and the epilogue plan](../species/gondii-residuals.md#the-epilogues-plan-read-against-book-8).
 
 !!! note "A related complication: Lucia Mar and children keep turning up together"
-    Elsewhere in this same book, Carl notes in passing that "Lucia Prime was not currently in her
-    body, and the girl who was in it had drawn a picture of her grandfather and her cat. She was
-    from the country of Andorra" — an already-established mechanic where Lucia Mar's own body is
-    sometimes occupied by someone else, including, apparently, a young girl. Samantha separately
-    describes her, unprompted, as someone who "is really a child." Neither of those is the same
-    mechanic as a separate child standing beside her holding her hand at the portal, so this wiki
-    doesn't read it as proof they're the same individual — but it does mean "a child" and "Lucia
-    Mar" were already independently tangled together in this book before the portal scene happens.
-    Worth watching, not yet explained.
-
-None of this is stated on the page. It's four separate, confirmed details — a numeric gap, an
-unbroken safety rule broken once, an installation mechanic already on record, and a place on the
-AI's own shortlist of contenders — that happen to all point at the same five-year-old.
+    Carl notes in passing that "Lucia Prime was not currently in her body, and the girl who was in it had
+    drawn a picture of her grandfather and her cat. She was from the country of Andorra." Samantha
+    separately describes her, unprompted, as someone who "is really a child." Neither is the same as a
+    separate child standing next to her at the portal, so this wiki does not read it as proof they are
+    the same individual.
 
 ### Carl, Juice Box, and the Beautiful Place
 
