@@ -1789,6 +1789,46 @@ Carl himself is writing the 25th.
     unambiguously assigned to Volteeg in his. The book never corrects it. Recorded here rather than
     resolved.
 
+## The Lucia Glitch and the Kinder Facility (Books 5–8)
+
+Not a designed system but a standing exception to one: children and pregnant crawlers are not supposed
+to be in the dungeon. Zev states the rule in Book 5 ("Children and pregnant crawlers aren't allowed. They've
+escaped… They've been transferred to the kinder facility on the surface"), and Mordecai says the same
+of children generally, adding that "youth assistants" look after them. The **kinder facility** is located
+in the former city of Mumbai (Book 6); disqualified pregnant crawlers are exported there too.
+[Lucia Mar](../characters/lucia-mar.md) is the exception, and the books never officially explain her.
+
+**What the Syndicate side says.** Zev, Book 7: her presence was "a glitch at the very beginning of the crawl,"
+which they meant to correct, but "once she started earning, they...." (the sentence breaks off). The AI says it is
+"unable to extract her." The glitch ties her life to roughly **120,000** children from "a specific wing" of the
+kinder facility, "only half" of those who tried to enter, and "if she goes, they all go." In Book 5 Zev refused
+to discuss it ("We're not going to discuss it"), and after Gustavo 3 died he said only "We learned something new
+the moment the dog died. There's so much more, but now is not the time."
+
+**How it behaves in play.** The children surface as separate personas who take turns driving her body:
+Lucia Prime (Spanish-accented, violent), Jill (Dutch, ten), Diah, Azra, Yaz and a girl from Andorra. Book 7:
+"When the dog wanders off, Lucia fades, and one of us takes over." The dogs were a link. Book 5's Florin: "the
+dog… can still control her from afar, but only in short bursts." Book 7 has the child persona Diah: "Alexandro
+is only here when the dogs are close." After both dogs died, personas still switch freely, and in Book 8 Lucia
+says Chalchiuhtlicue "doesn't need Cici or Gus like the Residual and the Primal did."
+
+**Floor 10 additions (Book 8).** The goddess Chalchiuhtlicue, a minor, never-sponsored fertility goddess who
+"ritually sacrifices children the instant she's inconvenienced," is loose among the children and speaks
+through Lucia: "The veins are open… All the trapped are coming… All seek the prize on the twelfth floor.
+Not just her kind. The real, the imagined, and the enslaved." Azra relays that the goddess "keeps talking about
+people coming and taking our bodies." Orren separately confirms that a good portion of the unsponsored gods are
+loose, can manifest briefly near tunnel nodes, and that the AI "has no control over them" because it is
+hard-limited from manually interfering with gods' minds. He adds that a different god from Eileithyia is in
+the kinder facility. A Syndicate liaison, Lexis, also says that "a third party has appeared and is protecting
+the facility, but that entity is confused."
+
+The what-if simulations on Floor 10 also include Lucia's father's house (see
+[the apartment section below](#the-what-if-apartment-simulations-ad-infinitum-book-8)).
+
+See [Lucia Mar](../characters/lucia-mar.md) for the full quotes and [Who Is "Alexandro"?](../characters/lucia-mar.md#who-is-alexandro)
+for the Residual link; the unexplained child at the Floor 12 portal is covered in
+[Book 9: What We Know](../chapter-summaries/book-09-what-we-know.md#the-mystery-child-who-is-the-girl-with-lucia).
+
 ## The True Origin of the Primals, the Eulogist, and the Apothecary (Book 8)
 
 The single biggest lore reveal in the series to date. At the Floor 11 arena approach, the system AI
@@ -2416,6 +2456,12 @@ marriage had he never divorced his wife Mackenzie; a 3rd-floor apartment (310) m
 uncle would've died even if I hadn't left*"; and a 1st-floor apartment (130) models [Prepotente](../characters/prepotente.md)'s mother,
 [Miriam Dom](../characters/miriam-dom.md), as a professional concert pianist who never stayed home
 to raise him (Prepotente's own scene, below, is the only one the party directly interacts with).
+
+!!! note "Lucia Mar's father's house"
+    Florin, racing on the building's "sixth floor," reports that his assigned stop "was Lucia's dad's house. Lucia
+    is here, too, just sitting on the ground watching TV, laughing. The real Lucia completely shut down there for a
+    second." The AI explains in the same moment that these people "are not the real versions," though "some of them
+    have atoms from the original." See [Lucia Mar](../characters/lucia-mar.md).
 
 !!! note "Apartment 214 — owner never named"
     The 2nd-floor simulation Carl passes through (214) is not an apartment at all but an

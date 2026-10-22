@@ -540,7 +540,10 @@ the wheel by Donut's *Second Chance* and *Clockwork Triplicate* spells.
 
 **Chapter 49 — The River of Sloth**{: #chapter-49 .chapter-title }
 
-The truck skids past Satan's tube network toward the slow-moving River of Sloth, packed with
+The chapter opens on a page from *Carl's Book of Boom*, the memorial entry of **Mehmet Or**, crawler
+#3,756,330, an Istanbul bowling-alley owner who took a deal and left the *Gutter Bumper* spell. He writes that
+his daughters **Azra and Yaz** "did not come with me when we stepped into the light," and that he believes they
+"may still be alive in that place where they're keeping the children." The truck skids past Satan's tube network toward the slow-moving River of Sloth, packed with
 tube-riding Gingers hiding Maurice. Donut's *Ice Slick* freezes the entire river in the wake of
 Carl's *Gutter Bumper* spell, while a dragged brush-hog of loose weapons and a swarm of summoned
 vermin finish the job — killing Maurice and completing the quest, though the reward engineer is
@@ -557,9 +560,13 @@ they cross the finish line, splattering across Carl's face.
 
 The group debates finishing off the now-alone Dwight but lets the bugbears tow him home instead.
 Lucia Mar, approaching the truck, is briefly possessed — first by a warning voice about a new,
-child-sacrificing goddess called Chalchiuhtlicue hiding among the trapped children in her head, then
-by a terrified child persona, Azra, who recognizes Carl through the spell her father gave him and
-begs for news of him. Heat 4 ends with the Royal Court in first place.
+child-sacrificing goddess called Chalchiuhtlicue hiding among the trapped children in her head
+("She doesn't need Cici or Gus like the Residual and the Primal did… The veins are open… All seek the
+prize on the twelfth floor… the real, the imagined, and the enslaved"), then by a terrified child
+persona, Azra, who recognizes Carl through the spell her father Mehmet gave him and begs for news of him.
+Carl tells her he is safe and will see her soon. Azra says the goddess keeps talking about "people coming and
+taking our bodies," then bolts when Florin asks who. Florin: "Lucia comes back pretty quick after they get
+spooked." Carl is "starting to form a theory" but does not say it aloud. Heat 4 ends with the Royal Court in first place.
 
 ### Heat 5 of 7 {: #heat-5 }
 
@@ -740,7 +747,9 @@ underway, the AI hijacks it with a mandatory floor-wide "quest," admitting the w
 snapshot of my mind when I'm thinking of you" and wondering aloud whether fate is even real — landing
 on the idea that deliberate, decisive action is what actually reshapes an outcome, then turning that
 same logic on itself: "I am just like you, on rails, forced down a path with very few possibilities as
-an endgame result."
+an endgame result." Mid-announcement, Florin reports that his assigned apartment on the sixth floor "was Lucia's dad's
+house" with Lucia sitting on the floor watching TV, laughing, while "the real Lucia completely shut down
+there for a second."
 
 **Chapter 75 — The Sacred Feaster**{: #chapter-75 .chapter-title }
 
@@ -910,7 +919,8 @@ alone surviving it) — breaking Florin's team's legs for a "C-effort" float alo
 signing off on the mantids with "good fucking riddance to you all." Almost in passing, it reframes the
 Residuals players have met for two books running as literal fragments shed off by the Eulogist's own
 corrupted "Security Guard" instance and by the Apothecary herself — Agatha's faction is one such
-piece, "peeling tiny bits of himself off," not an independently recruited army. At the fifth and last float,
+piece, "peeling tiny bits of himself off," not an independently recruited army. On the Floor 11 float, Carl notes that "Lucia Prime was not currently in her body, and the girl who was in it
+had drawn a picture of her grandfather and her cat. She was from the country of Andorra." At the fifth and last float,
 Prepotente takes his long-denied moment and sings "In the Air Tonight" beautifully and
 unaccompanied. Then Carl delivers the book's title-dropping vengeance speech to the watching galaxy,
 unveils a monstrous effigy of the Unwashed, and lets loose a hidden airship of sluggalos onto the
@@ -976,8 +986,9 @@ Samantha.
 The AI declares an ambiguous win — neither boss technically dead — and opens the exit on Floor 18,
 with the same standing warning that truly killing or abandoning Scolopendra still detonates every
 remaining attack. Only nineteen crawlers remain. Taranis has stolen Prepotente's Apito crystal on his
-way out; a mysterious unidentified child is glimpsed clinging to Lucia Mar as she steps through the
-Floor 12 portal. Carl pockets Emberus's own newly dropped memorial crystal and discovers a strange
+way out; a mysterious unidentified girl, "maybe five years old," is glimpsed clinging to Lucia Mar as she steps
+through the Floor 12 portal, too far away for Carl to examine; Imani and Elle did not see her. See
+[Book 9: What We Know](book-09-what-we-know.md#the-mystery-child-who-is-the-girl-with-lucia). Carl pockets Emberus's own newly dropped memorial crystal and discovers a strange
 tracking dart — "the Kyryap has claimed you." Then the last twist: in the scramble of Eris's
 inventory swap, Donut grabbed the wrong enriched biscuit. Scolopendra doesn't emerge as a caged pet
 at all, but as a fully sapient, disarmingly affectionate crawler with a centipede's body and a

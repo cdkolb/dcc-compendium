@@ -382,7 +382,7 @@ Her demeanour then changes. "The presence is gone. The Scavenger's Daughter shud
 says: "My name is Azra. Yaz is here, too. She's crying. That goddess. She's talking to her now, telling
 her that you used a spell that our father gave you to win your races." Azra's father is **Mehmet Or**,
 crawler #3,756,330, the Istanbul bowling-alley owner whose note in *Carl's Book of Boom* gave Carl the
-*Bumper* spell. His note says he took a deal and believes his daughters are in "that place where they're
+*Gutter Bumper* spell. His note says he took a deal and believes his daughters are in "that place where they're
 keeping the children." Carl tells her he is safe and will see her soon. Azra, crying: "The angel lady says it might be better if we all die. She keeps talking
 about people coming and taking our bodies." Asked who, she sees Florin and bolts.
 
